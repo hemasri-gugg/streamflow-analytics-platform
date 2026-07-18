@@ -1,63 +1,38 @@
-# StreamFlow Analytics Platform
+# 🎬 StreamFlow Analytics Platform
 
-A modern end-to-end data analytics portfolio project that demonstrates professional data engineering, SQL analysis, Python automation, interactive dashboards, and business insights using real-world streaming platform data.
+## Overview
 
+StreamFlow Analytics Platform is an end-to-end cloud analytics project that simulates the data ecosystem of a subscription-based video streaming company.
 
-## Project Overview
+The objective is to design, build, and analyze a complete analytics platform using industry-standard tools and practices.
 
-This project simulates a real-world analytics workflow for a streaming platform. It demonstrates how raw business data is transformed into actionable insights through data cleaning, SQL analysis, Python automation, and interactive dashboards.
+---
 
-The project is being developed incrementally using an Agile sprint-based approach.
+## Business Goals
 
-The project emphasizes clean coding practices, reproducible analysis, and professional project organization.
+- Reduce customer churn
+- Improve customer retention
+- Increase Monthly Recurring Revenue (MRR)
+- Analyze customer engagement
+- Evaluate marketing campaign performance
+- Deliver executive dashboards
 
-## Tech Stack
+---
 
-### Programming
-- Python
-- SQL
+## Technology Stack
 
-### Data Processing
-- Pandas
-- DuckDB
+| Category | Tool |
+|----------|------|
+| Programming | Python |
+| Cloud Data Warehouse | Google BigQuery |
+| SQL | BigQuery SQL / MySQL |
+| Visualization | Power BI |
+| Version Control | Git & GitHub |
+| Documentation | Markdown |
+| Data Analysis | Pandas, NumPy |
 
-### Visualization
-- Plotly
-- Streamlit
-
-### Development Tools
-- Git
-- GitHub
-- VS Code
-
-
-## Project Structure
-
-```text
-StreamFlowAnalytics/
-│
-├── assets/
-├── dashboards/
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── external/
-├── docs/
-├── notebooks/
-├── sql/
-├── src/
-└── tests/
-```
+---
 
 ## Project Status
 
-🚧 Sprint 0 – Project Setup
-
-Current progress:
-- [x] Project initialized
-- [x] Folder structure created
-- [ ] Data ingestion
-- [ ] Data cleaning
-- [ ] SQL analysis
-- [ ] Dashboard development
-- [ ] Deployment
+🟢 Sprint 1 - Foundation & Data Modeling
