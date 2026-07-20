@@ -250,7 +250,7 @@ if __name__ == "__main__":
 
     print("\nDataset Shape:", df_customers.shape)
 
-    output_path = "../../02_data/dim_customers.csv"
+    output_path = "02_data/dim_customers.csv"
 
     df_customers.to_csv(
         output_path,
@@ -258,4 +258,4 @@ if __name__ == "__main__":
     )
 
     print(f"\nCSV successfully saved to:\n{output_path}")
-    
+
