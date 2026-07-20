@@ -1,0 +1,2001 @@
+content_id,title,content_type,genre,language,release_year,duration_minutes,imdb_rating,age_rating,exclusive_content,popularity_score
+1,Mandatory systematic time-frame,Movie,Drama,English,2015,115,6.5,U,False,95.62
+2,Team-oriented mobile policy,Movie,Drama,Korean,2020,119,6.2,U,True,7.59
+3,Intuitive human-resource strategy,Movie,Action,Spanish,2012,132,9.6,U/A 16+,True,74.11
+4,Devolved transitional framework,Movie,Comedy,English,2007,104,9.5,U/A 13+,True,11.46
+5,Face-to-face explicit challenge,Movie,Comedy,Korean,2021,102,9.8,U,True,90.9
+6,Front-line real-time alliance,Movie,Romance,Spanish,2004,167,7.4,U/A 13+,False,49.72
+7,Robust neutral portal,Movie,Romance,English,2009,145,9.7,U/A 13+,True,41.72
+8,Synchronized didactic budgetary management,Movie,Drama,Spanish,1996,128,7.1,U/A 13+,False,94.6
+9,Inverse cohesive extranet,Movie,Comedy,English,2023,108,8.2,U/A 13+,True,86.63
+10,Advanced actuating groupware,Series,Animation,English,2022,1027,6.8,U/A 13+,True,63.09
+11,Balanced encompassing approach,Series,Thriller,English,1998,1158,9.1,U,True,75.41
+12,Face-to-face bi-directional structure,Movie,Action,Spanish,1995,172,5.4,U,True,96.13
+13,Virtual global concept,Movie,Action,Hindi,2004,99,9.1,U/A 13+,False,57.05
+14,Virtual bandwidth-monitored Graphic Interface,Movie,Action,Japanese,2012,169,5.1,U/A 16+,True,61.98
+15,Optimized tangible forecast,Movie,Drama,French,2002,148,8.9,A,False,19.22
+16,Seamless real-time hierarchy,Movie,Comedy,German,2015,132,9.6,U/A 16+,False,98.35
+17,Cross-group 24hour policy,Movie,Action,Japanese,2021,180,8.6,U/A 16+,False,14.73
+18,Synergized empowering concept,Series,Thriller,Japanese,1997,607,5.6,U/A 16+,False,86.2
+19,Streamlined homogeneous definition,Series,Fantasy,English,2018,410,9.0,U/A 16+,True,86.63
+20,Configurable next generation complexity,Series,Thriller,English,2012,298,5.5,U/A 13+,False,47.89
+21,Profound multimedia leverage,Series,Sci-Fi,Hindi,2019,1079,9.6,U,True,77.54
+22,Configurable methodical capability,Movie,Comedy,English,2017,96,7.6,U/A 16+,True,55.39
+23,Profound client-server collaboration,Movie,Documentary,Hindi,2016,93,7.1,U,False,68.13
+24,Function-based attitude-oriented system engine,Series,Sci-Fi,Spanish,2002,567,5.9,U,False,74.76
+25,Centralized leadingedge superstructure,Movie,Documentary,Japanese,2012,119,9.6,A,False,3.67
+26,Optimized global algorithm,Movie,Romance,Korean,2016,127,9.3,A,True,41.24
+27,Horizontal dynamic concept,Movie,Drama,French,2000,165,5.4,A,False,96.38
+28,Open-source 4thgeneration circuit,Movie,Sci-Fi,English,2000,135,7.4,U/A 13+,False,44.04
+29,Re-engineered systemic capability,Movie,Action,Hindi,2017,136,5.8,U/A 16+,False,14.82
+30,Cross-group stable pricing structure,Movie,Sci-Fi,English,2010,145,7.1,U/A 16+,False,70.57
+31,Profound multimedia application,Movie,Romance,English,2025,131,7.4,A,True,45.72
+32,Configurable actuating data-warehouse,Movie,Comedy,Spanish,2015,92,9.5,U/A 13+,True,8.75
+33,Devolved bottom-line structure,Movie,Sci-Fi,Japanese,2010,121,7.5,A,False,16.52
+34,Synergized dynamic capacity,Movie,Comedy,Spanish,2019,150,7.2,U/A 13+,False,88.56
+35,Re-engineered eco-centric extranet,Series,Sci-Fi,English,2016,735,9.7,U/A 16+,False,35.29
+36,Managed stable success,Movie,Fantasy,Spanish,2004,161,8.2,U/A 13+,False,84.33
+37,Business-focused motivating leverage,Movie,Action,Hindi,1999,127,7.4,U/A 16+,False,89.12
+38,Object-based web-enabled data-warehouse,Movie,Sci-Fi,Hindi,1999,87,9.4,A,False,84.49
+39,User-centric intangible infrastructure,Series,Thriller,English,2013,416,9.0,A,False,20.36
+40,Function-based web-enabled protocol,Series,Drama,Hindi,2005,889,9.6,U,True,22.89
+41,Distributed 6thgeneration extranet,Series,Sci-Fi,Spanish,1995,600,5.7,U/A 13+,False,69.02
+42,Object-based responsive synergy,Movie,Action,Hindi,2009,119,7.3,U/A 16+,False,65.89
+43,Advanced human-resource adapter,Movie,Drama,Japanese,2000,80,7.8,U,True,79.61
+44,Cross-group reciprocal firmware,Movie,Drama,Spanish,2004,174,8.8,U/A 13+,True,39.33
+45,Devolved static frame,Series,Drama,Spanish,2022,612,5.4,U,False,90.29
+46,Synchronized client-driven service-desk,Series,Drama,Japanese,2012,1194,6.0,U/A 13+,True,27.4
+47,Inverse content-based archive,Movie,Action,German,2017,107,7.2,U,False,22.48
+48,Cross-platform exuding ability,Series,Action,Korean,2006,640,7.5,U/A 13+,True,45.09
+49,Inverse coherent task-force,Movie,Documentary,German,1998,160,6.2,U/A 13+,True,20.11
+50,User-centric multimedia orchestration,Movie,Fantasy,Hindi,2025,136,7.5,U/A 16+,True,60.3
+51,Universal needs-based emulation,Movie,Romance,German,2024,168,8.8,A,False,18.16
+52,Proactive object-oriented methodology,Series,Comedy,English,2021,1008,7.9,U/A 16+,True,21.38
+53,Automated motivating analyzer,Movie,Romance,English,2022,127,5.4,U/A 16+,True,79.6
+54,Synchronized eco-centric core,Movie,Thriller,French,2001,142,5.5,U/A 13+,True,41.49
+55,Profound analyzing access,Movie,Documentary,English,2012,96,6.4,U/A 13+,True,92.97
+56,Organic multi-state open system,Movie,Drama,French,2013,171,7.3,U/A 13+,False,31.84
+57,Optional clear-thinking data-warehouse,Movie,Romance,French,1997,154,5.4,U/A 13+,False,64.44
+58,Compatible local process improvement,Series,Thriller,Hindi,2015,365,9.3,U/A 16+,True,86.79
+59,Switchable bandwidth-monitored service-desk,Series,Action,French,2009,1194,7.9,U/A 16+,True,14.55
+60,Virtual object-oriented methodology,Series,Action,Hindi,2003,1188,7.2,U,False,30.71
+61,Quality-focused transitional infrastructure,Movie,Action,French,2016,108,7.6,U/A 16+,False,80.6
+62,Total bi-directional access,Series,Comedy,French,2022,450,8.4,U/A 13+,True,70.31
+63,Open-architected 5thgeneration moderator,Movie,Crime,Hindi,2017,147,9.1,U,True,69.55
+64,Persistent systematic emulation,Movie,Comedy,English,2025,135,8.5,U/A 16+,False,29.73
+65,Synergized transitional extranet,Movie,Drama,Korean,2010,144,8.3,U/A 16+,True,63.04
+66,Streamlined non-volatile firmware,Movie,Action,French,2004,138,8.2,U/A 13+,True,85.97
+67,Re-contextualized heuristic algorithm,Series,Comedy,Korean,2023,816,7.6,U/A 13+,False,85.57
+68,Open-source dynamic focus group,Movie,Drama,French,2000,114,7.5,A,False,87.74
+69,Implemented heuristic complexity,Movie,Action,Hindi,2005,115,5.9,U/A 13+,False,46.08
+70,Profound non-volatile hardware,Series,Fantasy,Spanish,2000,305,9.5,U/A 16+,False,17.09
+71,Diverse reciprocal synergy,Movie,Animation,English,2016,177,9.0,U,True,20.74
+72,Seamless responsive standardization,Movie,Comedy,Hindi,2018,93,7.0,U/A 16+,False,88.55
+73,Versatile multi-tasking hierarchy,Movie,Fantasy,English,1999,120,6.3,U,True,87.47
+74,Grass-roots maximized parallelism,Movie,Sci-Fi,French,2023,169,9.0,U/A 13+,True,41.78
+75,Seamless 6thgeneration encryption,Movie,Crime,German,2002,126,7.6,U,True,98.02
+76,Function-based grid-enabled strategy,Series,Crime,Hindi,1998,493,5.7,U/A 16+,False,27.54
+77,Phased impactful challenge,Movie,Thriller,Spanish,2016,123,6.8,U/A 16+,True,67.61
+78,Profound cohesive paradigm,Movie,Sci-Fi,English,2011,117,9.6,U,False,76.56
+79,Customer-focused tertiary methodology,Movie,Romance,Hindi,1998,92,8.6,A,False,57.35
+80,Universal responsive projection,Movie,Sci-Fi,German,2015,151,5.0,U,False,99.22
+81,Virtual user-facing circuit,Series,Romance,Hindi,2007,710,7.4,A,False,2.45
+82,Reduced maximized approach,Movie,Crime,Hindi,2010,124,7.4,A,False,56.25
+83,Mandatory high-level encoding,Movie,Thriller,Korean,1997,171,5.5,A,False,46.84
+84,Team-oriented executive collaboration,Series,Drama,English,2022,934,5.4,U/A 13+,False,60.9
+85,Optional full-range success,Movie,Drama,Korean,2023,125,8.3,U/A 16+,False,81.4
+86,Triple-buffered scalable superstructure,Movie,Romance,Korean,2022,160,7.9,U/A 13+,False,50.48
+87,De-engineered responsive flexibility,Movie,Drama,German,2019,124,7.2,A,True,35.29
+88,Digitized incremental forecast,Movie,Comedy,English,2012,109,6.5,U,True,59.56
+89,Balanced incremental neural-net,Series,Action,English,2025,1164,8.0,U,True,22.8
+90,Digitized fault-tolerant attitude,Series,Animation,Korean,2000,1074,5.3,U,True,9.25
+91,Advanced cohesive frame,Movie,Action,English,2011,116,7.3,U/A 13+,True,46.36
+92,Pre-emptive logistical budgetary management,Movie,Drama,French,2009,108,5.9,U/A 13+,False,67.43
+93,Integrated dedicated Internet solution,Series,Animation,Hindi,1996,1185,5.6,U/A 16+,False,90.89
+94,Fundamental encompassing capacity,Movie,Drama,Korean,2002,175,8.6,U/A 16+,False,3.44
+95,Re-contextualized maximized core,Series,Fantasy,Hindi,2021,741,7.9,U/A 16+,True,4.94
+96,Customizable eco-centric matrices,Movie,Drama,English,2000,172,7.2,A,False,35.68
+97,Seamless national parallelism,Movie,Crime,English,2006,143,7.3,A,True,13.72
+98,Inverse grid-enabled leverage,Movie,Drama,English,2018,175,5.9,U/A 13+,True,45.11
+99,Customer-focused asymmetric extranet,Movie,Thriller,English,2017,137,7.3,U,True,57.91
+100,Horizontal client-server product,Series,Comedy,German,2012,463,8.0,U/A 16+,False,14.21
+101,Managed static intranet,Movie,Romance,German,2005,140,7.9,U/A 16+,True,66.89
+102,Diverse bandwidth-monitored synergy,Movie,Action,English,2008,160,8.7,A,False,46.26
+103,Adaptive attitude-oriented support,Series,Comedy,English,2003,615,6.3,U/A 13+,True,68.7
+104,Balanced mission-critical hierarchy,Movie,Animation,Hindi,2004,84,5.2,U/A 16+,True,13.18
+105,Multi-lateral upward-trending hub,Movie,Romance,English,2011,99,5.6,A,True,97.01
+106,Quality-focused tertiary function,Movie,Action,English,2024,98,6.5,A,False,61.81
+107,Right-sized attitude-oriented policy,Movie,Action,English,2015,125,6.6,U/A 16+,True,24.21
+108,Sharable client-server structure,Movie,Comedy,English,2024,156,9.5,U/A 16+,True,90.14
+109,Self-enabling foreground customer loyalty,Movie,Animation,Japanese,2025,144,7.0,U,False,25.41
+110,Fully-configurable 6thgeneration strategy,Movie,Fantasy,Hindi,2000,131,7.3,U,True,95.46
+111,Multi-layered actuating archive,Series,Sci-Fi,Spanish,2018,736,7.7,U/A 13+,False,84.89
+112,Reactive system-worthy neural-net,Series,Sci-Fi,English,2011,840,7.1,U/A 13+,False,71.62
+113,Total intermediate access,Movie,Action,English,2012,173,5.4,U/A 13+,True,72.54
+114,Robust cohesive intranet,Movie,Thriller,English,2022,154,8.4,U/A 13+,True,94.41
+115,Configurable multi-state productivity,Movie,Romance,German,2001,90,7.6,A,True,9.46
+116,Face-to-face cohesive process improvement,Series,Romance,English,1999,471,5.0,U/A 13+,True,50.88
+117,Switchable asynchronous system engine,Movie,Action,Hindi,2020,158,8.4,A,False,18.26
+118,Automated demand-driven approach,Movie,Action,English,2025,105,5.4,U/A 16+,True,35.65
+119,User-centric solution-oriented initiative,Movie,Drama,Japanese,2022,88,9.1,U/A 16+,True,5.64
+120,Down-sized upward-trending implementation,Movie,Comedy,Hindi,1995,92,6.4,U/A 16+,False,81.09
+121,Front-line demand-driven Graphic Interface,Movie,Documentary,English,2014,119,6.4,A,True,75.06
+122,Function-based grid-enabled task-force,Movie,Romance,Hindi,2005,145,8.5,U/A 16+,True,97.67
+123,Digitized non-volatile function,Series,Romance,French,2002,814,8.6,U/A 16+,False,64.8
+124,Up-sized executive matrix,Movie,Crime,English,2014,161,6.5,U/A 13+,False,72.99
+125,Vision-oriented dedicated archive,Movie,Comedy,Hindi,2022,122,8.1,U,False,72.65
+126,Exclusive system-worthy service-desk,Movie,Action,Spanish,1995,99,9.4,U/A 13+,False,8.71
+127,Future-proofed methodical knowledgebase,Movie,Documentary,Spanish,2020,137,6.1,A,False,72.78
+128,Multi-lateral cohesive migration,Movie,Fantasy,Korean,2005,172,5.4,A,True,22.59
+129,Team-oriented background paradigm,Movie,Action,English,2025,139,5.5,U/A 16+,False,87.81
+130,Pre-emptive neutral pricing structure,Series,Action,German,2005,429,5.3,A,True,69.13
+131,Synergized hybrid flexibility,Movie,Romance,Japanese,1997,100,7.4,U/A 13+,False,64.49
+132,Realigned content-based attitude,Movie,Thriller,English,2002,134,8.4,U/A 16+,True,50.2
+133,Robust human-resource knowledgebase,Movie,Thriller,Hindi,2003,91,5.1,U/A 16+,True,87.0
+134,Face-to-face zero administration encoding,Movie,Drama,English,2016,92,5.5,U/A 16+,True,31.19
+135,Distributed non-volatile customer loyalty,Movie,Crime,Spanish,2020,86,8.4,A,False,1.66
+136,Multi-tiered composite encoding,Series,Sci-Fi,English,2006,926,7.2,U/A 16+,False,91.85
+137,Customizable object-oriented contingency,Movie,Comedy,Spanish,1998,104,7.8,U,True,31.02
+138,Universal human-resource infrastructure,Series,Sci-Fi,English,2022,954,8.8,A,True,53.28
+139,Virtual bifurcated help-desk,Movie,Romance,English,2006,146,8.4,U,True,45.75
+140,Horizontal coherent strategy,Movie,Sci-Fi,English,2004,158,7.6,A,False,66.41
+141,Cross-platform multimedia ability,Movie,Animation,French,1995,117,5.2,A,False,11.76
+142,Compatible 24/7 leverage,Movie,Fantasy,English,2010,106,7.5,U/A 13+,False,40.91
+143,Pre-emptive discrete workforce,Series,Action,English,2025,842,8.9,U,True,75.28
+144,Innovative bandwidth-monitored Internet solution,Movie,Romance,English,2003,80,5.1,U/A 13+,True,68.05
+145,Implemented multi-state frame,Series,Comedy,Hindi,2002,547,5.8,U/A 16+,True,40.91
+146,Vision-oriented fresh-thinking workforce,Movie,Documentary,Hindi,2007,112,7.7,A,False,63.18
+147,Mandatory national intranet,Movie,Fantasy,English,2008,104,6.7,U,False,87.35
+148,Versatile encompassing matrix,Movie,Drama,Japanese,2015,113,8.3,U/A 16+,False,56.53
+149,Reactive radical forecast,Series,Drama,Spanish,2013,437,8.5,U/A 16+,True,10.78
+150,Seamless hybrid workforce,Movie,Romance,Hindi,2023,147,5.6,U/A 16+,False,58.21
+151,Inverse 24hour moderator,Series,Documentary,Spanish,1998,525,5.7,U/A 16+,True,88.35
+152,Customer-focused dynamic neural-net,Movie,Romance,English,2024,131,5.0,U,True,22.8
+153,Fundamental optimizing monitoring,Movie,Thriller,Hindi,2017,84,5.2,U/A 16+,False,49.47
+154,User-centric stable software,Movie,Comedy,Korean,2006,155,7.7,U/A 13+,True,39.96
+155,Customizable object-oriented analyzer,Movie,Thriller,Korean,2022,175,7.4,U/A 13+,False,60.46
+156,Inverse dynamic concept,Movie,Comedy,English,2020,82,9.6,A,True,77.1
+157,Ergonomic neutral knowledgebase,Series,Romance,English,2020,625,6.9,U/A 16+,True,46.74
+158,Cross-group zero tolerance firmware,Movie,Fantasy,Hindi,2003,147,8.3,U,True,91.73
+159,Ergonomic needs-based protocol,Series,Comedy,English,2008,1140,7.0,U,True,53.19
+160,Fully-configurable fresh-thinking adapter,Series,Romance,English,1998,1166,8.6,U/A 16+,False,71.64
+161,Re-contextualized tertiary collaboration,Movie,Romance,English,2007,100,7.9,U/A 13+,True,51.93
+162,Inverse directional alliance,Series,Drama,English,2002,530,5.7,U/A 13+,True,78.74
+163,Programmable real-time intranet,Series,Romance,Spanish,2004,802,9.8,U,True,65.27
+164,Inverse zero tolerance benchmark,Movie,Comedy,Spanish,2011,173,7.8,U/A 13+,True,99.98
+165,Persistent next generation concept,Movie,Drama,English,2016,90,8.7,U/A 16+,True,52.89
+166,Implemented explicit instruction set,Movie,Comedy,Hindi,2014,169,7.9,U,False,24.2
+167,Integrated exuding firmware,Series,Romance,Hindi,2010,255,5.2,U,True,14.23
+168,Sharable even-keeled artificial intelligence,Movie,Comedy,English,2000,147,9.0,A,False,27.37
+169,Face-to-face intangible utilization,Movie,Drama,Hindi,2017,84,8.5,U/A 16+,True,10.65
+170,Re-contextualized multi-state artificial intelligence,Movie,Sci-Fi,Spanish,2006,120,6.5,A,False,44.99
+171,Synchronized scalable Graphical User Interface,Series,Action,Hindi,2001,377,8.7,A,False,14.49
+172,Synergized clear-thinking collaboration,Series,Comedy,Hindi,2018,375,6.2,U,True,17.73
+173,Exclusive secondary service-desk,Movie,Sci-Fi,English,2011,110,6.9,U/A 13+,False,7.51
+174,Exclusive cohesive groupware,Movie,Sci-Fi,Korean,2004,83,5.3,U/A 16+,False,4.74
+175,Reverse-engineered incremental moderator,Movie,Crime,Spanish,2008,168,5.4,A,True,29.98
+176,Quality-focused high-level array,Movie,Action,French,2003,115,7.3,U,True,26.09
+177,Diverse holistic concept,Movie,Sci-Fi,Spanish,2019,150,8.9,U/A 13+,True,92.73
+178,Digitized client-driven matrix,Series,Thriller,Hindi,2022,1113,9.4,U,False,57.28
+179,Business-focused fresh-thinking structure,Movie,Fantasy,Spanish,2019,141,8.2,U/A 16+,True,11.14
+180,Mandatory discrete open system,Movie,Action,Hindi,2019,134,5.4,U/A 13+,False,94.42
+181,Managed homogeneous function,Movie,Action,English,2011,155,9.6,U/A 16+,True,56.84
+182,Object-based zero tolerance array,Series,Thriller,German,2003,1161,6.6,U/A 16+,True,38.83
+183,Progressive contextually-based initiative,Movie,Drama,German,1995,83,5.3,U/A 13+,True,66.77
+184,Automated asymmetric challenge,Movie,Drama,English,2010,147,6.5,U/A 16+,True,36.26
+185,Programmable optimal adapter,Movie,Sci-Fi,Hindi,2014,80,8.0,U/A 16+,True,64.58
+186,Networked human-resource encoding,Movie,Drama,Hindi,1998,120,5.5,U/A 16+,True,25.71
+187,De-engineered web-enabled frame,Movie,Documentary,English,2008,93,6.0,U/A 13+,True,66.1
+188,De-engineered reciprocal Internet solution,Movie,Crime,Japanese,2001,142,7.7,U/A 16+,False,63.52
+189,Switchable logistical process improvement,Movie,Romance,Hindi,2013,158,9.7,U/A 13+,False,64.95
+190,Distributed intangible capacity,Series,Action,English,1999,855,7.9,A,False,17.68
+191,Focused intangible open architecture,Movie,Action,English,2008,172,8.7,U,True,26.83
+192,Reduced even-keeled array,Movie,Action,Spanish,2017,113,7.3,U,True,38.47
+193,Mandatory 4thgeneration hub,Movie,Drama,English,2001,114,7.8,A,True,41.55
+194,Mandatory non-volatile system engine,Movie,Drama,German,2008,89,8.7,U/A 13+,True,85.84
+195,Operative multimedia benchmark,Movie,Comedy,Hindi,2020,178,6.6,U/A 16+,False,27.89
+196,Optimized neutral array,Movie,Thriller,English,1995,154,6.6,U/A 16+,True,13.44
+197,Multi-tiered cohesive product,Movie,Thriller,French,2016,156,6.9,A,True,3.78
+198,Compatible bi-directional migration,Movie,Fantasy,Hindi,2016,156,7.0,U/A 13+,False,71.2
+199,Extended empowering instruction set,Series,Thriller,English,2020,561,6.4,U/A 13+,False,82.52
+200,Visionary eco-centric help-desk,Series,Romance,French,2013,1100,6.4,U/A 16+,False,50.56
+201,Organic attitude-oriented model,Series,Sci-Fi,English,2007,822,7.8,A,True,82.83
+202,Focused logistical portal,Movie,Documentary,Hindi,1996,161,7.4,U,False,9.82
+203,Profit-focused full-range flexibility,Movie,Thriller,English,2003,103,5.6,U,False,81.77
+204,Sharable homogeneous flexibility,Movie,Action,Japanese,1997,97,7.0,U/A 13+,False,8.58
+205,Persevering intermediate emulation,Movie,Drama,English,2006,130,9.5,U/A 13+,True,50.64
+206,Decentralized intangible project,Movie,Thriller,Korean,2010,175,7.5,A,False,17.08
+207,Up-sized foreground firmware,Movie,Romance,Japanese,2011,138,8.2,A,False,89.84
+208,Innovative 24hour matrices,Movie,Comedy,Hindi,2015,110,5.9,U/A 16+,True,1.3
+209,Persistent logistical neural-net,Series,Action,German,2011,648,6.1,U/A 16+,False,93.72
+210,Team-oriented regional approach,Series,Thriller,English,2007,712,6.8,U/A 16+,True,18.95
+211,Self-enabling solution-oriented function,Series,Comedy,Spanish,2009,483,7.9,U,True,75.02
+212,Virtual asymmetric project,Movie,Comedy,Hindi,2008,152,9.1,U/A 16+,False,51.74
+213,Devolved zero-defect solution,Movie,Action,Spanish,2010,117,8.5,U/A 13+,True,6.02
+214,Cross-platform directional installation,Series,Drama,English,2007,1121,6.4,A,False,67.4
+215,Optional clear-thinking firmware,Movie,Drama,English,2011,103,9.4,A,True,23.96
+216,Self-enabling eco-centric algorithm,Movie,Comedy,English,2015,167,5.5,A,False,14.2
+217,User-centric asymmetric migration,Movie,Action,Hindi,2011,179,6.7,A,False,53.71
+218,Profound hybrid projection,Series,Documentary,Hindi,2005,1078,9.0,U,False,79.65
+219,User-centric client-server benchmark,Series,Comedy,Spanish,2004,277,7.1,U,False,72.76
+220,Up-sized bandwidth-monitored implementation,Movie,Drama,English,2003,117,8.1,U/A 13+,True,77.79
+221,Optimized bifurcated encoding,Movie,Romance,Hindi,2009,144,9.8,A,False,29.31
+222,Cross-platform optimizing productivity,Series,Comedy,English,2000,756,7.8,U/A 13+,False,69.74
+223,Public-key systemic challenge,Series,Action,Hindi,1997,433,8.5,U/A 13+,False,95.42
+224,Networked explicit initiative,Series,Fantasy,English,2008,780,5.4,U/A 16+,False,39.1
+225,Fundamental systematic parallelism,Movie,Drama,German,2014,113,7.5,U/A 16+,True,20.6
+226,Digitized homogeneous secured line,Series,Drama,Japanese,2021,1181,7.4,U/A 16+,False,13.7
+227,Team-oriented methodical intranet,Movie,Romance,Japanese,1999,120,9.4,U/A 13+,False,21.59
+228,Distributed executive Internet solution,Movie,Sci-Fi,French,2025,98,5.2,U,True,86.95
+229,Decentralized encompassing groupware,Series,Thriller,English,2020,931,9.0,U,True,41.84
+230,Triple-buffered object-oriented approach,Movie,Thriller,Japanese,2019,120,6.9,U,False,34.11
+231,Compatible clear-thinking ability,Movie,Drama,Korean,2025,89,8.4,U/A 16+,False,32.0
+232,Implemented discrete productivity,Series,Action,Spanish,2000,399,7.8,U/A 13+,True,81.89
+233,Re-engineered analyzing website,Movie,Comedy,French,1996,130,7.1,A,False,98.58
+234,Integrated client-server analyzer,Movie,Crime,Japanese,2000,155,8.6,A,True,10.24
+235,Balanced client-server database,Series,Crime,French,2002,697,6.3,A,False,57.04
+236,Innovative zero tolerance access,Movie,Drama,Spanish,2025,147,5.9,U/A 16+,False,40.97
+237,Programmable 5thgeneration leverage,Movie,Action,French,2010,113,7.7,A,False,53.82
+238,Operative static process improvement,Movie,Fantasy,French,2009,172,7.8,U,True,24.82
+239,Adaptive non-volatile architecture,Series,Sci-Fi,English,1995,1024,8.7,U/A 16+,False,46.2
+240,Programmable local task-force,Series,Fantasy,English,2001,449,6.5,U/A 13+,False,47.17
+241,Seamless executive instruction set,Movie,Sci-Fi,English,2014,143,5.2,U,True,56.06
+242,Synchronized user-facing access,Series,Animation,Hindi,2017,309,5.6,U/A 13+,True,40.76
+243,Up-sized systemic contingency,Movie,Drama,English,2004,94,9.7,U/A 16+,True,1.46
+244,Proactive optimal core,Series,Drama,Hindi,2022,888,6.8,A,True,82.04
+245,Multi-tiered zero-defect instruction set,Movie,Action,English,2010,120,8.0,A,False,65.82
+246,Digitized 24/7 application,Movie,Documentary,German,2003,100,8.4,U/A 13+,True,16.49
+247,Business-focused zero tolerance extranet,Movie,Comedy,Spanish,2020,101,8.9,U/A 13+,True,28.96
+248,Adaptive cohesive encoding,Movie,Crime,Korean,2017,135,6.3,A,True,4.24
+249,Profit-focused executive project,Series,Romance,Japanese,2022,1014,9.0,A,False,98.68
+250,Re-contextualized dedicated intranet,Series,Crime,Spanish,2007,293,9.3,U/A 13+,True,25.08
+251,Distributed 24hour throughput,Movie,Action,Japanese,2020,102,5.8,U/A 16+,False,42.37
+252,Integrated needs-based framework,Movie,Action,English,2019,163,9.3,U/A 13+,True,59.92
+253,Fully-configurable neutral solution,Movie,Comedy,English,2011,168,9.4,U/A 13+,False,12.66
+254,Cross-platform 3rdgeneration structure,Series,Comedy,English,2009,789,8.7,U,True,77.01
+255,Multi-tiered uniform support,Series,Documentary,English,2002,544,9.5,U,False,15.89
+256,Realigned methodical database,Movie,Drama,Hindi,2019,136,5.0,A,False,1.51
+257,Implemented needs-based infrastructure,Movie,Romance,Korean,2013,144,8.8,U/A 13+,True,39.07
+258,Function-based reciprocal conglomeration,Movie,Drama,English,2015,138,7.9,U/A 16+,True,41.87
+259,Proactive incremental interface,Movie,Drama,Korean,2011,135,8.8,U,False,37.57
+260,Down-sized actuating projection,Movie,Crime,French,1997,159,5.8,U/A 13+,False,49.49
+261,Right-sized leadingedge benchmark,Series,Comedy,Hindi,2018,877,9.2,U/A 16+,True,78.96
+262,Monitored responsive flexibility,Movie,Comedy,Hindi,2024,124,5.5,U/A 16+,False,68.04
+263,Adaptive stable approach,Movie,Thriller,Hindi,2009,112,8.2,U,False,6.5
+264,Future-proofed multi-state success,Movie,Thriller,English,1995,113,7.9,U/A 16+,False,52.07
+265,Phased 4thgeneration benchmark,Movie,Drama,English,2021,163,9.7,U/A 13+,False,26.92
+266,Versatile user-facing toolset,Movie,Action,Hindi,1999,82,5.4,A,False,98.15
+267,Synergized maximized capacity,Movie,Thriller,English,1999,86,5.1,U,True,58.95
+268,Reverse-engineered mission-critical superstructure,Movie,Action,German,1995,94,5.6,U/A 13+,True,64.37
+269,Fundamental 24/7 approach,Movie,Comedy,German,2017,117,8.6,U,False,2.58
+270,Grass-roots demand-driven middleware,Movie,Drama,Spanish,2010,100,5.7,U,False,98.85
+271,Synchronized value-added throughput,Movie,Crime,English,1996,93,7.4,U/A 16+,False,65.56
+272,Ergonomic web-enabled implementation,Series,Drama,Japanese,1996,635,9.3,A,True,25.25
+273,Upgradable grid-enabled hardware,Movie,Romance,English,2006,104,7.2,U/A 13+,True,58.5
+274,Streamlined analyzing open system,Series,Crime,German,2003,1171,8.5,A,False,92.94
+275,Automated empowering benchmark,Movie,Drama,Hindi,2024,180,6.8,U/A 13+,False,15.38
+276,Extended exuding hardware,Movie,Crime,Hindi,2012,165,8.7,U/A 13+,False,38.62
+277,Progressive neutral architecture,Movie,Thriller,Hindi,2006,175,8.5,A,False,34.96
+278,Sharable eco-centric time-frame,Movie,Animation,French,2001,137,6.9,U/A 16+,True,69.28
+279,Organized scalable software,Movie,Thriller,Hindi,2024,169,6.9,A,False,43.61
+280,Realigned empowering matrices,Movie,Comedy,English,2022,92,7.0,U/A 13+,True,56.93
+281,Synchronized incremental core,Movie,Action,Japanese,2021,118,6.7,U,True,71.81
+282,Ergonomic 4thgeneration Graphical User Interface,Movie,Drama,Hindi,2000,174,9.2,A,True,12.6
+283,Inverse transitional data-warehouse,Movie,Fantasy,Spanish,2002,117,7.7,U,True,57.59
+284,Implemented systemic conglomeration,Movie,Crime,French,2007,176,7.0,U/A 16+,False,74.46
+285,Expanded bottom-line interface,Movie,Drama,Hindi,2012,137,8.3,A,True,35.32
+286,Synergized holistic matrix,Movie,Comedy,English,2011,93,7.6,U,False,88.84
+287,Reactive logistical instruction set,Movie,Drama,English,2020,90,5.4,U/A 13+,False,52.07
+288,Decentralized leadingedge forecast,Series,Romance,English,2002,719,6.5,A,False,37.14
+289,Right-sized asynchronous success,Movie,Action,Spanish,2020,91,8.5,A,False,32.75
+290,Automated dynamic firmware,Series,Thriller,Korean,2013,1035,8.6,U,False,51.56
+291,Future-proofed bottom-line access,Movie,Thriller,Hindi,2019,158,9.5,U/A 13+,True,6.62
+292,Universal multi-state capability,Movie,Drama,English,1998,121,5.4,A,True,57.46
+293,Distributed systematic archive,Movie,Documentary,English,2007,103,5.8,U/A 13+,True,85.96
+294,Streamlined holistic definition,Series,Comedy,Japanese,2025,1078,6.3,U/A 16+,False,58.49
+295,Synchronized real-time approach,Movie,Drama,French,2015,84,5.1,U/A 13+,True,43.2
+296,Implemented analyzing data-warehouse,Series,Crime,English,2002,617,6.2,U/A 16+,False,81.03
+297,Open-architected mobile middleware,Movie,Action,Hindi,2016,146,8.7,U,False,33.45
+298,Mandatory modular Graphical User Interface,Movie,Drama,Spanish,2023,172,9.1,U,False,51.88
+299,Reduced global support,Movie,Drama,English,2006,149,7.0,U/A 13+,True,2.95
+300,Balanced next generation toolset,Movie,Action,English,2009,100,8.5,U,False,61.19
+301,Cloned value-added moderator,Movie,Comedy,English,2012,137,5.9,A,True,14.44
+302,Grass-roots 6thgeneration function,Movie,Drama,Hindi,2019,163,9.0,A,False,62.21
+303,Synergized cohesive methodology,Movie,Sci-Fi,German,2020,119,6.6,A,True,95.88
+304,Multi-channeled foreground Internet solution,Movie,Comedy,English,1996,172,8.5,U/A 13+,False,10.37
+305,Customer-focused 24hour circuit,Series,Documentary,English,1996,1185,7.9,U/A 13+,True,85.73
+306,User-friendly local collaboration,Movie,Comedy,French,2001,116,9.8,U,True,32.67
+307,Ameliorated static info-mediaries,Series,Thriller,Spanish,2020,729,6.1,U/A 16+,False,41.01
+308,Re-engineered user-facing hardware,Series,Fantasy,English,1999,345,6.9,U/A 13+,True,10.5
+309,Balanced national circuit,Movie,Thriller,English,1998,171,5.8,A,False,32.24
+310,Distributed eco-centric contingency,Series,Action,English,2016,1118,8.2,U,True,90.62
+311,Configurable non-volatile initiative,Movie,Romance,English,1999,165,6.0,A,True,96.3
+312,Expanded 24hour solution,Movie,Action,Spanish,1998,132,9.6,A,True,87.17
+313,Multi-lateral client-server methodology,Movie,Comedy,English,2019,134,7.0,U,False,11.09
+314,Object-based cohesive implementation,Movie,Romance,French,1995,143,5.3,A,True,68.53
+315,Streamlined transitional alliance,Movie,Comedy,English,1995,174,9.6,A,False,54.15
+316,Assimilated bottom-line circuit,Series,Action,Hindi,2002,516,9.0,U/A 16+,True,62.98
+317,Expanded bi-directional support,Movie,Drama,German,2013,122,7.3,U,True,86.58
+318,Public-key well-modulated protocol,Movie,Drama,English,2008,94,9.1,U/A 16+,True,54.63
+319,Secured optimizing product,Movie,Comedy,English,2023,88,8.6,A,False,61.45
+320,Cloned fault-tolerant array,Movie,Animation,English,2002,152,5.7,U/A 13+,False,48.52
+321,Right-sized foreground task-force,Movie,Drama,English,2000,113,6.9,U,True,41.44
+322,Organic contextually-based projection,Series,Comedy,English,2019,358,6.2,U,True,18.29
+323,Upgradable bi-directional archive,Movie,Thriller,German,2020,140,6.2,U/A 16+,True,1.17
+324,Secured static algorithm,Movie,Fantasy,Spanish,2019,94,5.4,A,True,86.83
+325,Sharable upward-trending protocol,Movie,Action,English,2019,174,5.5,A,True,42.28
+326,Innovative mobile paradigm,Movie,Action,English,2011,137,7.9,A,True,98.26
+327,Down-sized modular policy,Movie,Comedy,English,1996,140,6.3,U/A 13+,False,72.21
+328,Synergized reciprocal contingency,Movie,Romance,English,2022,100,5.4,U/A 13+,False,49.47
+329,Function-based well-modulated workforce,Movie,Documentary,French,2003,100,5.0,U/A 16+,False,15.89
+330,Future-proofed 4thgeneration data-warehouse,Movie,Romance,English,2015,81,8.2,U/A 13+,False,70.46
+331,Adaptive leadingedge orchestration,Movie,Drama,English,2024,87,5.7,A,False,75.63
+332,Multi-tiered responsive archive,Series,Documentary,Korean,1998,1110,7.1,A,False,44.52
+333,Streamlined content-based methodology,Movie,Fantasy,English,2003,88,9.0,A,True,36.53
+334,De-engineered fault-tolerant core,Movie,Action,French,2008,93,8.0,U/A 16+,False,29.08
+335,Re-engineered transitional open system,Movie,Crime,English,2015,152,7.8,U,False,15.87
+336,Ergonomic even-keeled support,Series,Documentary,Spanish,2004,420,6.0,A,True,39.92
+337,Cross-platform eco-centric instruction set,Series,Sci-Fi,English,2000,1042,6.7,U,False,11.75
+338,Future-proofed high-level methodology,Series,Thriller,Spanish,2007,833,5.1,U,False,50.48
+339,Enterprise-wide next generation success,Movie,Comedy,Hindi,1999,114,5.5,U/A 13+,True,85.54
+340,Multi-layered next generation database,Movie,Drama,German,2005,92,9.7,U/A 16+,False,6.81
+341,Seamless holistic function,Movie,Drama,English,2021,154,9.8,U,False,23.59
+342,Cross-platform value-added function,Series,Crime,French,1997,468,9.6,U,False,89.69
+343,Function-based upward-trending implementation,Movie,Crime,English,2008,180,7.8,U/A 13+,True,37.13
+344,Virtual incremental Local Area Network,Movie,Drama,English,2008,95,7.2,A,True,83.88
+345,Function-based tangible benchmark,Movie,Action,English,2007,124,5.3,U/A 16+,True,67.69
+346,Fully-configurable impactful concept,Series,Thriller,French,2011,353,5.5,U,False,90.26
+347,Synergistic asynchronous strategy,Movie,Romance,English,2020,174,9.8,U,False,23.75
+348,Automated asymmetric adapter,Movie,Crime,Hindi,2021,141,8.8,U,False,14.95
+349,Multi-lateral attitude-oriented budgetary management,Movie,Crime,English,1995,104,6.8,A,True,59.28
+350,Synchronized 4thgeneration focus group,Series,Drama,English,2008,472,8.2,A,False,99.22
+351,Organic discrete focus group,Movie,Drama,Hindi,2001,121,9.3,U/A 16+,False,23.03
+352,Intuitive dedicated concept,Series,Drama,English,2013,355,9.2,U,False,71.4
+353,Reverse-engineered 4thgeneration hardware,Movie,Comedy,Hindi,2013,92,7.6,U/A 16+,True,69.21
+354,Reduced contextually-based solution,Movie,Drama,English,2012,81,9.2,U/A 16+,False,93.82
+355,Business-focused directional application,Series,Drama,English,2000,1099,5.2,U/A 16+,False,35.88
+356,Future-proofed next generation Internet solution,Movie,Comedy,Hindi,2008,160,6.5,U/A 16+,False,84.28
+357,Enterprise-wide system-worthy moratorium,Series,Fantasy,English,2021,561,7.4,U/A 13+,False,56.59
+358,Horizontal upward-trending algorithm,Movie,Documentary,Hindi,2023,135,6.7,U,True,49.48
+359,Focused zero tolerance middleware,Series,Comedy,Hindi,2000,777,6.5,A,True,7.44
+360,Digitized eco-centric support,Movie,Sci-Fi,Korean,2006,117,5.5,U,True,8.69
+361,Multi-channeled mission-critical complexity,Movie,Drama,Japanese,2022,119,5.9,A,True,17.36
+362,Distributed foreground complexity,Movie,Action,Hindi,2002,138,9.5,U/A 16+,False,27.43
+363,De-engineered global structure,Movie,Drama,English,2013,100,7.2,A,False,83.11
+364,Inverse bandwidth-monitored software,Movie,Romance,Spanish,2021,129,8.0,U/A 16+,True,13.15
+365,Universal systemic toolset,Series,Action,English,2019,1121,7.4,U/A 16+,True,62.02
+366,Quality-focused human-resource toolset,Movie,Romance,English,2022,111,7.1,U/A 13+,True,6.16
+367,Operative eco-centric moratorium,Movie,Romance,French,2005,105,9.0,U/A 13+,False,98.64
+368,Optional scalable migration,Series,Documentary,Spanish,2005,1030,6.0,U/A 13+,False,59.32
+369,Operative background matrix,Movie,Drama,English,2005,81,7.8,A,True,48.91
+370,Managed logistical pricing structure,Movie,Drama,English,2023,104,9.0,U/A 16+,False,31.36
+371,Front-line interactive migration,Movie,Comedy,Hindi,2006,114,6.1,U/A 13+,True,4.73
+372,Optimized context-sensitive paradigm,Movie,Drama,English,2002,88,5.4,A,True,22.28
+373,Multi-layered directional knowledgebase,Movie,Action,English,1999,156,8.8,A,True,37.87
+374,Pre-emptive coherent budgetary management,Movie,Fantasy,Spanish,2023,125,8.0,A,False,69.22
+375,Digitized bottom-line array,Series,Drama,English,2013,535,5.0,U,True,57.98
+376,Horizontal global process improvement,Movie,Comedy,Hindi,2018,110,7.4,A,True,74.03
+377,Open-architected responsive service-desk,Movie,Crime,English,2014,171,8.0,U/A 16+,True,3.58
+378,Persevering secondary parallelism,Movie,Drama,English,2023,125,9.7,U/A 13+,True,83.54
+379,Diverse demand-driven conglomeration,Movie,Fantasy,English,2008,80,8.6,U/A 16+,False,62.04
+380,Organic maximized Graphic Interface,Movie,Drama,German,2011,111,7.5,U/A 13+,True,88.29
+381,Ergonomic systematic productivity,Series,Action,Hindi,2004,1148,7.1,U/A 13+,False,47.51
+382,Adaptive zero-defect encoding,Movie,Action,English,2023,156,8.1,A,True,80.38
+383,Persistent zero-defect parallelism,Movie,Action,English,2010,102,8.0,U/A 13+,False,20.11
+384,Vision-oriented full-range Local Area Network,Movie,Drama,Japanese,2018,150,6.5,U,False,28.35
+385,Object-based intermediate success,Movie,Documentary,German,1995,169,7.2,U/A 16+,False,53.82
+386,Open-source mission-critical migration,Series,Drama,Spanish,1998,1024,9.4,U/A 16+,True,33.02
+387,Programmable analyzing matrices,Movie,Drama,English,2014,157,7.4,U,True,65.9
+388,Object-based dedicated parallelism,Movie,Drama,English,2018,156,6.5,U,True,39.05
+389,Networked dedicated hierarchy,Movie,Thriller,Hindi,2016,117,6.5,U/A 16+,True,57.54
+390,User-centric next generation secured line,Movie,Comedy,German,2024,131,8.7,U,False,76.51
+391,Multi-channeled mobile concept,Movie,Romance,Hindi,2025,89,8.9,U,False,24.94
+392,Persistent stable capacity,Movie,Thriller,Spanish,2006,136,7.5,U,False,97.67
+393,Optional well-modulated definition,Movie,Thriller,English,2001,131,6.0,U,True,83.01
+394,Diverse contextually-based solution,Movie,Sci-Fi,English,2000,167,9.4,U/A 13+,True,95.26
+395,Distributed uniform groupware,Series,Comedy,English,2011,395,6.0,U/A 16+,True,85.23
+396,Extended actuating leverage,Movie,Romance,English,2000,140,7.3,A,True,34.98
+397,Extended tertiary conglomeration,Movie,Drama,Japanese,2019,122,9.1,U/A 16+,True,96.93
+398,Cross-group value-added implementation,Movie,Thriller,English,2018,98,9.5,U/A 16+,True,74.48
+399,Customizable next generation portal,Movie,Thriller,German,2008,153,8.4,U,True,85.49
+400,Enterprise-wide scalable system engine,Movie,Documentary,English,2015,131,9.8,A,False,65.67
+401,Progressive didactic framework,Movie,Fantasy,Hindi,2012,136,5.3,U/A 13+,True,81.79
+402,Compatible asymmetric core,Series,Documentary,Korean,2022,1144,7.3,U,True,81.33
+403,Stand-alone tangible pricing structure,Movie,Drama,French,2007,180,7.9,U/A 13+,False,6.61
+404,Seamless grid-enabled intranet,Movie,Thriller,Japanese,1999,170,9.7,A,True,9.06
+405,Fully-configurable content-based definition,Movie,Romance,English,1995,141,7.4,U,True,14.32
+406,Innovative multi-tasking support,Movie,Drama,Spanish,2008,155,9.7,U/A 13+,False,40.13
+407,Pre-emptive zero administration service-desk,Series,Fantasy,Hindi,2002,334,7.0,U/A 16+,True,34.63
+408,Innovative background circuit,Series,Crime,Korean,2009,593,7.9,U/A 16+,True,8.22
+409,Multi-channeled intermediate extranet,Movie,Sci-Fi,English,2006,138,8.8,U,False,3.71
+410,Distributed multi-state migration,Movie,Romance,Hindi,2024,158,7.3,A,False,55.24
+411,Mandatory human-resource capability,Movie,Sci-Fi,Japanese,2016,84,7.0,U,True,23.85
+412,Integrated fresh-thinking neural-net,Series,Sci-Fi,Japanese,1997,636,8.1,U/A 16+,True,9.63
+413,Integrated 3rdgeneration extranet,Series,Animation,English,2007,1136,8.6,U/A 13+,True,92.38
+414,Progressive actuating model,Movie,Fantasy,Korean,1997,153,6.7,U/A 13+,False,83.87
+415,Total global standardization,Series,Comedy,Hindi,2017,623,5.4,U/A 13+,False,45.34
+416,Optional local solution,Series,Romance,Spanish,2025,422,6.6,U/A 16+,False,34.76
+417,Fundamental homogeneous service-desk,Movie,Drama,Korean,1998,101,9.1,U/A 16+,True,28.19
+418,Ameliorated high-level website,Movie,Romance,English,2004,121,5.6,A,False,98.55
+419,Automated solution-oriented emulation,Movie,Animation,English,2012,167,5.1,U,True,38.53
+420,Sharable web-enabled firmware,Movie,Documentary,Spanish,2015,124,6.7,U/A 16+,True,23.1
+421,Focused asymmetric workforce,Movie,Comedy,Japanese,2001,88,6.3,A,False,35.88
+422,Exclusive didactic project,Movie,Sci-Fi,English,2025,160,9.8,A,True,92.16
+423,Total multimedia moderator,Movie,Animation,Hindi,2003,168,7.7,U/A 13+,False,35.82
+424,Inverse optimizing throughput,Series,Sci-Fi,English,2025,1128,6.0,U/A 13+,False,18.64
+425,Exclusive responsive core,Movie,Action,Hindi,2014,119,6.9,U/A 16+,True,88.89
+426,Grass-roots scalable matrix,Movie,Crime,English,1999,97,8.9,U/A 16+,False,21.08
+427,Extended encompassing approach,Movie,Drama,Korean,2024,138,5.2,U/A 16+,True,83.43
+428,Organic didactic policy,Movie,Animation,Spanish,2020,124,5.5,U,False,35.39
+429,Upgradable bifurcated circuit,Movie,Action,German,2005,112,8.8,A,True,20.67
+430,Persistent client-server data-warehouse,Series,Animation,French,2004,565,6.6,U,True,12.53
+431,Function-based actuating task-force,Movie,Fantasy,English,2010,135,9.7,A,False,79.2
+432,Down-sized stable moderator,Series,Sci-Fi,Korean,2014,540,8.2,U,True,80.06
+433,Intuitive context-sensitive analyzer,Movie,Sci-Fi,English,2012,159,9.5,A,False,59.89
+434,Optional methodical application,Series,Action,Hindi,2001,306,6.8,U,False,12.5
+435,Diverse solution-oriented throughput,Movie,Action,Hindi,2003,83,8.2,U,True,87.63
+436,Open-architected hybrid access,Movie,Animation,English,2017,174,7.5,U/A 16+,False,4.61
+437,Object-based scalable product,Series,Fantasy,Hindi,2005,461,6.8,A,False,10.52
+438,Organic optimal parallelism,Movie,Romance,English,2003,84,9.2,A,True,48.18
+439,Face-to-face secondary interface,Movie,Comedy,English,2008,105,5.1,A,True,14.51
+440,Fundamental high-level attitude,Series,Thriller,German,1996,373,8.9,U/A 16+,False,38.2
+441,Realigned foreground algorithm,Series,Sci-Fi,German,2011,568,6.2,U/A 13+,True,14.24
+442,Cross-group client-driven contingency,Movie,Thriller,Hindi,2021,164,6.6,A,True,23.69
+443,Intuitive zero tolerance initiative,Series,Crime,Hindi,2020,355,6.0,U/A 16+,False,3.5
+444,Profound bifurcated Internet solution,Series,Drama,English,2012,923,7.3,U,True,54.37
+445,Networked demand-driven benchmark,Movie,Drama,Hindi,2000,179,9.8,U/A 16+,True,51.33
+446,Programmable heuristic synergy,Series,Animation,English,1999,1058,7.9,A,True,63.68
+447,Streamlined holistic attitude,Series,Action,English,2004,1119,7.8,U/A 13+,False,62.15
+448,Team-oriented leadingedge time-frame,Movie,Drama,Hindi,2013,180,5.2,A,False,27.97
+449,Vision-oriented interactive complexity,Movie,Romance,Spanish,2008,114,8.2,U/A 16+,True,23.18
+450,Upgradable real-time knowledge user,Movie,Action,Japanese,2025,132,6.3,U,True,48.32
+451,Automated zero tolerance collaboration,Movie,Romance,English,2023,102,8.3,U,True,67.34
+452,Horizontal tertiary data-warehouse,Movie,Sci-Fi,Spanish,2000,92,9.7,U/A 13+,False,72.49
+453,Secured empowering protocol,Movie,Documentary,Spanish,2005,163,5.2,U/A 13+,True,11.04
+454,Customizable systemic ability,Series,Documentary,English,2018,645,7.2,U/A 16+,True,3.08
+455,Streamlined eco-centric complexity,Movie,Animation,Hindi,2015,129,9.1,U/A 16+,False,63.04
+456,Focused solution-oriented database,Movie,Comedy,English,1998,167,8.1,A,True,39.36
+457,Mandatory heuristic process improvement,Series,Comedy,English,2000,944,9.5,U/A 13+,False,1.15
+458,Enterprise-wide 6thgeneration portal,Movie,Crime,English,2022,120,6.3,U/A 13+,False,68.86
+459,Synergistic empowering ability,Series,Romance,Hindi,1999,336,8.2,A,False,94.01
+460,Grass-roots non-volatile capacity,Movie,Fantasy,English,1997,157,5.1,A,False,94.7
+461,Re-engineered empowering process improvement,Series,Thriller,Hindi,2023,561,7.9,A,True,90.76
+462,Fully-configurable responsive knowledge user,Movie,Sci-Fi,English,2024,120,5.2,U,True,7.6
+463,Universal non-volatile adapter,Movie,Action,Spanish,2005,87,8.3,U/A 13+,True,58.37
+464,Compatible discrete help-desk,Movie,Action,Spanish,1996,114,7.7,U/A 16+,False,51.78
+465,Enterprise-wide zero tolerance algorithm,Series,Documentary,English,2020,361,6.5,U,False,58.86
+466,Open-architected asynchronous artificial intelligence,Series,Drama,English,2018,329,9.7,U,True,11.67
+467,Synchronized tangible capacity,Series,Fantasy,Korean,1997,923,6.4,U/A 13+,False,54.51
+468,User-centric holistic challenge,Movie,Drama,English,2002,158,7.3,U,True,57.36
+469,Programmable stable task-force,Series,Sci-Fi,Japanese,2022,1127,5.1,U,False,43.6
+470,Persevering methodical success,Movie,Comedy,Hindi,2005,134,8.6,U/A 13+,True,17.6
+471,Extended human-resource utilization,Movie,Documentary,English,2015,102,5.0,U/A 13+,True,57.94
+472,Reduced 6thgeneration policy,Series,Action,English,2019,489,5.6,U/A 16+,True,50.06
+473,Implemented static process improvement,Series,Romance,Hindi,2015,846,8.5,U,False,27.84
+474,Distributed user-facing circuit,Movie,Crime,Hindi,1997,118,8.4,U,False,64.0
+475,Ergonomic optimal productivity,Movie,Thriller,French,1998,161,7.7,U/A 13+,True,10.6
+476,Cloned dynamic knowledge user,Series,Action,English,2009,688,5.9,U,True,33.76
+477,Configurable static installation,Movie,Drama,English,2011,100,8.2,U/A 13+,False,19.49
+478,Synergistic cohesive support,Movie,Romance,Hindi,2023,90,6.4,U/A 13+,True,66.14
+479,Balanced system-worthy approach,Movie,Action,Hindi,2004,112,5.1,U,True,1.72
+480,Seamless exuding toolset,Series,Drama,French,1995,302,8.4,U/A 13+,False,41.49
+481,Multi-lateral mission-critical moderator,Movie,Action,English,1997,101,7.3,U/A 16+,True,13.39
+482,User-friendly homogeneous orchestration,Movie,Thriller,Korean,2021,105,8.8,U/A 13+,False,42.22
+483,User-centric heuristic paradigm,Movie,Action,French,2017,161,8.6,A,True,92.34
+484,Focused context-sensitive focus group,Series,Action,French,2005,693,8.5,U,False,31.54
+485,Open-architected user-facing budgetary management,Movie,Fantasy,Hindi,2018,81,6.2,U/A 13+,False,62.89
+486,Customer-focused needs-based core,Movie,Documentary,English,2008,131,9.1,U,False,82.4
+487,Synergistic bifurcated throughput,Movie,Action,French,2010,131,7.1,U/A 16+,False,61.64
+488,Adaptive multi-tasking database,Movie,Drama,Hindi,2004,117,9.7,U,False,82.06
+489,Re-engineered coherent installation,Movie,Fantasy,Hindi,2025,156,6.2,A,False,5.89
+490,Decentralized impactful synergy,Series,Action,English,2018,566,6.7,U/A 13+,True,18.71
+491,Reverse-engineered discrete Local Area Network,Series,Animation,Korean,2005,648,7.1,U/A 13+,False,46.32
+492,Open-architected 3rdgeneration focus group,Series,Documentary,Hindi,2016,908,6.5,U/A 16+,False,39.5
+493,Profit-focused scalable open system,Movie,Comedy,English,1996,114,8.7,U/A 16+,True,1.04
+494,Profound homogeneous forecast,Movie,Drama,English,2015,180,5.7,U/A 16+,True,93.34
+495,Multi-tiered asymmetric data-warehouse,Movie,Comedy,English,2021,122,6.0,U/A 13+,True,62.92
+496,Mandatory didactic core,Movie,Action,Hindi,2001,135,8.5,U,True,69.97
+497,Implemented discrete algorithm,Movie,Thriller,English,2024,98,8.0,U,True,21.06
+498,Vision-oriented asymmetric monitoring,Series,Drama,German,2023,254,8.2,U/A 13+,True,41.52
+499,Multi-channeled 24/7 standardization,Series,Romance,Hindi,2022,461,8.2,U/A 13+,True,3.77
+500,Fully-configurable neutral middleware,Movie,Thriller,English,2004,105,5.4,A,False,33.15
+501,Multi-tiered even-keeled knowledge user,Series,Comedy,Spanish,2018,593,9.6,U/A 16+,True,94.91
+502,Visionary disintermediate conglomeration,Movie,Drama,German,2014,162,6.6,A,True,19.49
+503,Automated cohesive frame,Movie,Action,English,2010,123,7.1,U/A 13+,True,33.32
+504,Extended object-oriented superstructure,Series,Action,English,1999,714,9.3,U/A 13+,False,32.74
+505,Reduced scalable methodology,Movie,Comedy,English,2000,93,7.7,U,False,92.99
+506,Synergized demand-driven info-mediaries,Movie,Action,Hindi,2016,171,5.2,U,False,62.49
+507,Switchable clear-thinking installation,Series,Drama,French,2002,1012,5.2,U/A 16+,False,81.52
+508,Visionary intermediate secured line,Series,Sci-Fi,Korean,2011,410,5.2,U/A 16+,True,93.9
+509,Configurable high-level project,Movie,Romance,English,1995,140,5.9,U/A 16+,False,49.73
+510,Profound encompassing methodology,Movie,Action,English,2008,161,5.8,U/A 13+,False,19.45
+511,Secured 3rdgeneration analyzer,Series,Crime,French,2008,1156,8.1,A,True,53.73
+512,Expanded systemic conglomeration,Series,Action,English,2009,306,6.6,A,False,1.95
+513,Customizable homogeneous focus group,Movie,Documentary,Korean,2025,156,8.6,U/A 13+,True,67.24
+514,Self-enabling scalable workforce,Movie,Crime,Spanish,2020,150,7.1,U/A 16+,True,91.26
+515,Grass-roots interactive workforce,Movie,Drama,Korean,1998,146,6.0,U/A 13+,True,25.66
+516,Operative 6thgeneration instruction set,Movie,Animation,English,2021,138,7.6,U/A 13+,False,19.73
+517,Automated mobile knowledgebase,Movie,Drama,English,2016,89,5.1,U/A 16+,False,3.82
+518,Team-oriented zero administration budgetary management,Series,Sci-Fi,Hindi,2005,557,5.4,U/A 16+,False,82.09
+519,Devolved bottom-line functionalities,Movie,Fantasy,Hindi,2023,178,9.1,U/A 13+,False,84.32
+520,Up-sized stable product,Movie,Drama,Korean,2011,134,5.3,A,False,19.25
+521,Distributed clear-thinking Graphic Interface,Movie,Romance,Hindi,2025,118,9.0,U/A 13+,True,6.53
+522,Customer-focused upward-trending protocol,Movie,Comedy,French,2023,164,9.1,U/A 13+,False,56.13
+523,Fundamental uniform installation,Series,Drama,Hindi,2000,367,5.1,U/A 16+,True,56.66
+524,Future-proofed dedicated adapter,Series,Animation,English,2003,354,7.5,U/A 13+,False,81.71
+525,Virtual human-resource alliance,Movie,Sci-Fi,Spanish,2023,125,6.8,A,True,48.53
+526,Digitized encompassing complexity,Movie,Comedy,English,2003,89,7.4,U/A 13+,True,72.09
+527,Decentralized high-level infrastructure,Series,Thriller,English,2002,1139,5.0,U/A 16+,False,15.38
+528,Phased object-oriented extranet,Movie,Documentary,Hindi,2011,168,9.8,A,True,4.9
+529,Monitored local knowledgebase,Movie,Romance,English,2022,114,6.7,U/A 16+,True,39.23
+530,Organized executive service-desk,Movie,Thriller,English,2015,143,6.0,U/A 13+,True,80.34
+531,Fully-configurable intangible portal,Series,Crime,French,2016,692,6.8,U/A 13+,True,98.57
+532,Polarized discrete challenge,Movie,Crime,English,2007,139,7.4,U,False,98.46
+533,Ergonomic optimizing challenge,Movie,Thriller,Japanese,2002,157,9.4,U/A 16+,True,66.11
+534,Self-enabling value-added circuit,Movie,Drama,Hindi,2017,173,5.4,U/A 16+,True,39.62
+535,Profound systemic portal,Series,Thriller,English,2006,1081,8.2,U/A 16+,True,73.54
+536,Innovative full-range alliance,Series,Fantasy,Hindi,2025,1028,6.4,U,False,71.94
+537,Secured human-resource product,Series,Drama,Hindi,2018,728,7.2,U/A 16+,True,86.22
+538,Fully-configurable 24hour Graphical User Interface,Movie,Comedy,Japanese,2000,178,6.5,U/A 13+,False,14.46
+539,Organic scalable frame,Movie,Thriller,Hindi,2020,94,7.4,A,True,73.55
+540,Inverse zero tolerance framework,Movie,Drama,English,2000,80,5.2,U,False,76.57
+541,Persistent bandwidth-monitored adapter,Movie,Thriller,English,2015,178,6.8,U/A 16+,False,58.3
+542,Ergonomic mobile help-desk,Series,Thriller,English,1995,402,9.3,U,False,85.45
+543,Persistent background array,Movie,Action,Hindi,2017,132,7.6,U/A 13+,False,25.2
+544,Innovative explicit benchmark,Movie,Sci-Fi,French,2009,148,7.0,A,True,20.7
+545,Ameliorated local intranet,Movie,Thriller,Japanese,1999,138,7.1,U,False,85.81
+546,Vision-oriented heuristic groupware,Series,Sci-Fi,Hindi,2002,1086,7.6,U/A 16+,False,54.91
+547,Cross-platform global encoding,Series,Crime,German,2009,749,5.5,A,False,96.42
+548,Persevering bi-directional algorithm,Movie,Romance,Japanese,2012,87,6.5,U,True,41.64
+549,Future-proofed impactful methodology,Series,Comedy,English,2012,256,9.7,U,True,21.61
+550,Persistent 3rdgeneration project,Movie,Sci-Fi,English,2020,82,6.4,A,False,14.47
+551,Cross-group scalable secured line,Movie,Animation,Spanish,2010,105,8.2,U/A 16+,True,57.91
+552,Proactive bottom-line time-frame,Movie,Comedy,Hindi,2012,170,6.3,U,False,64.44
+553,Ameliorated tertiary Graphical User Interface,Movie,Sci-Fi,Hindi,2023,125,9.0,A,False,92.94
+554,Robust eco-centric orchestration,Series,Comedy,English,2010,416,7.1,U,False,56.92
+555,Organized even-keeled leverage,Series,Comedy,English,2013,380,9.7,A,False,49.98
+556,Synergistic context-sensitive info-mediaries,Movie,Documentary,English,2014,133,8.2,U/A 13+,False,89.44
+557,Re-contextualized national encryption,Series,Drama,German,2001,1014,6.1,U,False,22.19
+558,Quality-focused national initiative,Movie,Documentary,Japanese,2023,110,8.1,U,True,72.21
+559,Seamless clear-thinking instruction set,Series,Fantasy,English,2014,1150,7.5,U/A 16+,True,38.98
+560,Visionary bandwidth-monitored alliance,Movie,Drama,German,1998,116,9.3,A,False,58.14
+561,Enterprise-wide modular knowledgebase,Movie,Documentary,Spanish,2003,84,5.8,U/A 13+,True,59.7
+562,Managed disintermediate standardization,Movie,Fantasy,Hindi,2022,91,8.6,U/A 13+,True,5.77
+563,Front-line grid-enabled moderator,Series,Documentary,English,2013,933,6.4,U,False,94.77
+564,Public-key optimal application,Movie,Action,Korean,2000,107,5.8,A,True,74.55
+565,Realigned local capability,Series,Documentary,English,2017,1196,5.4,U,True,62.67
+566,Reverse-engineered interactive contingency,Movie,Action,German,2022,135,6.8,U/A 16+,True,31.41
+567,Optional upward-trending extranet,Movie,Drama,English,2016,134,7.3,U,False,53.23
+568,Re-contextualized empowering definition,Movie,Documentary,Spanish,2025,117,7.5,U/A 13+,True,28.13
+569,Open-source exuding workforce,Movie,Thriller,English,2025,166,8.9,U/A 13+,False,39.14
+570,Assimilated dynamic moratorium,Series,Fantasy,English,1998,760,5.3,U/A 13+,True,73.55
+571,Profit-focused tertiary collaboration,Series,Documentary,Hindi,2022,735,7.8,U/A 13+,True,8.57
+572,Universal high-level Local Area Network,Movie,Comedy,Spanish,2006,114,7.2,U/A 16+,False,24.62
+573,Networked client-server focus group,Movie,Action,English,1996,98,8.1,U/A 13+,True,63.13
+574,Decentralized zero administration hierarchy,Movie,Action,French,2000,104,5.7,A,True,47.83
+575,Multi-lateral next generation matrices,Movie,Documentary,English,2008,149,9.4,U/A 13+,True,74.54
+576,Adaptive contextually-based installation,Movie,Romance,Spanish,2018,151,8.4,A,True,58.54
+577,Vision-oriented high-level function,Series,Romance,French,2004,680,7.4,U/A 13+,False,54.67
+578,Mandatory encompassing array,Movie,Documentary,Korean,2002,179,7.1,A,False,83.16
+579,Expanded bifurcated Internet solution,Series,Fantasy,Spanish,2024,756,5.0,A,True,28.67
+580,Progressive dynamic core,Movie,Comedy,Hindi,2018,106,7.0,U,True,6.11
+581,Vision-oriented next generation workforce,Series,Thriller,Japanese,2023,830,8.4,U/A 13+,False,41.95
+582,Public-key zero tolerance interface,Movie,Comedy,Hindi,2018,103,9.4,A,True,16.35
+583,Devolved user-facing artificial intelligence,Movie,Comedy,French,2009,157,6.7,U/A 13+,True,85.12
+584,Programmable 24hour capacity,Movie,Drama,Japanese,2007,160,9.2,U/A 13+,True,40.59
+585,Organized stable middleware,Movie,Comedy,German,2000,95,5.3,U,False,60.78
+586,Organic motivating complexity,Series,Drama,English,2004,1188,9.0,A,False,3.29
+587,Extended bandwidth-monitored access,Movie,Thriller,English,2001,179,5.3,U/A 13+,False,10.92
+588,Expanded tangible implementation,Series,Documentary,Spanish,1997,763,7.1,U/A 13+,True,71.34
+589,Diverse tangible pricing structure,Movie,Drama,English,2012,96,9.4,A,False,98.21
+590,Centralized holistic middleware,Movie,Sci-Fi,English,2017,168,5.7,A,True,29.7
+591,Future-proofed value-added contingency,Movie,Animation,Hindi,2008,176,8.7,U,True,11.79
+592,Inverse reciprocal knowledge user,Movie,Documentary,English,2018,132,8.9,A,False,90.29
+593,Down-sized non-volatile project,Movie,Documentary,English,2018,107,8.9,U/A 16+,True,13.95
+594,Face-to-face client-server Graphical User Interface,Series,Drama,Spanish,2019,277,8.0,A,True,85.28
+595,Inverse hybrid customer loyalty,Movie,Crime,English,2002,168,6.0,U/A 16+,False,50.05
+596,Adaptive motivating concept,Movie,Action,English,2022,163,8.3,U,True,59.56
+597,Compatible object-oriented productivity,Movie,Crime,Japanese,2007,87,7.6,U,True,1.05
+598,Monitored 4thgeneration ability,Movie,Documentary,Hindi,1995,164,8.7,U/A 16+,True,65.26
+599,Mandatory explicit methodology,Movie,Drama,English,2014,179,7.7,U,False,6.41
+600,Exclusive didactic knowledge user,Series,Action,Hindi,2021,1109,5.2,U/A 13+,True,32.43
+601,Reactive clear-thinking capacity,Series,Drama,English,2013,1148,7.3,U/A 13+,False,60.37
+602,Multi-layered background matrices,Series,Action,English,2023,976,6.1,U,False,57.91
+603,Grass-roots multi-tasking initiative,Movie,Action,English,2001,114,6.9,U/A 13+,False,92.48
+604,Innovative heuristic toolset,Series,Animation,German,2024,640,9.4,U/A 16+,False,10.97
+605,Optimized motivating focus group,Series,Comedy,Hindi,2011,788,5.1,U/A 13+,True,32.03
+606,Seamless fresh-thinking solution,Movie,Action,English,2005,163,6.6,U,True,18.39
+607,Total client-server superstructure,Series,Action,Hindi,2001,483,5.5,U,True,65.34
+608,Virtual foreground ability,Series,Drama,German,2009,865,8.1,U/A 16+,False,15.04
+609,Business-focused regional Internet solution,Movie,Drama,English,2012,116,7.8,U/A 16+,False,17.24
+610,Virtual local monitoring,Movie,Action,English,2000,123,7.9,U/A 16+,False,58.06
+611,Vision-oriented upward-trending complexity,Movie,Crime,English,2003,152,9.3,U/A 16+,True,77.26
+612,Decentralized asynchronous challenge,Movie,Documentary,Hindi,2020,128,9.4,U,False,41.45
+613,Object-based zero administration paradigm,Movie,Crime,English,2008,120,7.5,U/A 13+,False,84.72
+614,Distributed incremental system engine,Movie,Thriller,Spanish,2024,170,6.8,U/A 16+,True,46.95
+615,Integrated methodical extranet,Series,Drama,Hindi,1999,1185,6.9,A,True,63.79
+616,Realigned system-worthy ability,Series,Drama,German,1995,904,5.8,A,False,19.03
+617,Polarized scalable conglomeration,Movie,Drama,English,2015,91,8.7,U/A 13+,True,33.09
+618,Persevering non-volatile extranet,Movie,Romance,English,2013,168,6.9,U,False,39.17
+619,Organized 3rdgeneration attitude,Series,Crime,English,2020,571,5.4,U/A 13+,True,99.71
+620,Proactive static firmware,Movie,Comedy,Hindi,2005,171,9.1,A,True,18.75
+621,Open-source modular throughput,Movie,Crime,Hindi,2013,120,8.1,A,True,39.48
+622,Ergonomic optimal project,Series,Comedy,Korean,2007,526,9.4,U/A 16+,False,86.32
+623,Exclusive static projection,Movie,Romance,English,1995,179,7.4,A,True,30.5
+624,Reactive contextually-based parallelism,Movie,Comedy,English,2006,113,6.4,U,True,96.65
+625,Open-architected coherent model,Movie,Comedy,German,2022,99,6.4,U/A 13+,True,91.43
+626,Phased multi-tasking encoding,Movie,Comedy,English,2015,139,9.3,U/A 13+,True,18.44
+627,Multi-lateral tangible benchmark,Movie,Sci-Fi,Japanese,2025,80,8.0,U/A 13+,False,22.86
+628,Self-enabling empowering focus group,Movie,Action,German,2006,144,6.6,U,True,68.55
+629,Secured foreground utilization,Series,Thriller,English,2010,1139,5.1,U,True,80.93
+630,Streamlined heuristic pricing structure,Movie,Sci-Fi,English,2006,98,9.8,U,True,20.08
+631,Organized grid-enabled policy,Movie,Crime,English,1999,85,6.8,A,True,49.34
+632,Front-line web-enabled project,Movie,Thriller,English,2003,101,5.1,A,True,11.51
+633,Customizable background pricing structure,Movie,Action,English,1998,128,6.9,U,False,29.9
+634,Exclusive bottom-line superstructure,Series,Romance,English,2024,264,6.6,U/A 13+,True,68.93
+635,Up-sized bifurcated toolset,Movie,Crime,Japanese,2011,104,9.2,U/A 16+,True,78.1
+636,Self-enabling bottom-line initiative,Movie,Romance,English,2020,143,9.3,U/A 13+,False,25.12
+637,Multi-channeled object-oriented system engine,Movie,Documentary,Hindi,2002,117,7.8,A,True,62.7
+638,Organized optimal architecture,Movie,Romance,Korean,2010,122,6.6,U/A 13+,False,53.31
+639,Robust analyzing Graphic Interface,Movie,Animation,French,2016,152,5.2,A,False,7.37
+640,Object-based didactic neural-net,Series,Sci-Fi,Spanish,2011,894,5.2,U/A 13+,False,31.05
+641,Stand-alone disintermediate extranet,Movie,Romance,English,2023,177,6.2,U,True,90.4
+642,Multi-channeled intermediate attitude,Series,Crime,French,2017,837,7.8,U/A 16+,True,96.88
+643,Robust scalable synergy,Series,Documentary,Spanish,2017,996,5.3,U/A 13+,True,71.1
+644,Multi-layered secondary project,Movie,Drama,French,2020,155,8.2,A,True,11.81
+645,Enhanced 24/7 product,Series,Thriller,Hindi,2003,493,6.5,U/A 16+,True,71.67
+646,User-centric optimal initiative,Movie,Comedy,English,2003,129,6.3,U,True,6.59
+647,Upgradable high-level challenge,Movie,Documentary,English,2014,132,7.8,U/A 13+,True,87.5
+648,Pre-emptive methodical projection,Movie,Drama,English,2008,104,8.1,U/A 16+,True,1.15
+649,Configurable fault-tolerant customer loyalty,Movie,Comedy,Hindi,2017,111,8.7,U/A 16+,False,53.82
+650,Sharable actuating complexity,Movie,Thriller,Hindi,2019,117,5.6,U,False,10.75
+651,Down-sized modular encryption,Movie,Drama,Japanese,2025,136,5.8,A,True,8.24
+652,Sharable transitional challenge,Movie,Animation,Spanish,2014,120,7.8,U/A 13+,False,38.71
+653,Open-architected impactful hardware,Movie,Romance,Spanish,2014,110,6.8,U,True,57.72
+654,Horizontal demand-driven Graphic Interface,Movie,Documentary,English,2006,96,9.4,A,False,83.95
+655,Assimilated secondary paradigm,Movie,Thriller,English,2005,145,8.7,U,True,51.97
+656,Universal attitude-oriented throughput,Series,Thriller,German,2023,742,9.7,U,True,26.9
+657,De-engineered background workforce,Movie,Action,English,2006,84,5.1,U/A 13+,True,77.56
+658,Future-proofed high-level secured line,Movie,Drama,Spanish,2005,138,6.3,U/A 13+,True,5.24
+659,Pre-emptive maximized capability,Movie,Comedy,Hindi,1996,175,8.5,U/A 16+,False,10.54
+660,Innovative uniform structure,Series,Thriller,Spanish,2019,1077,9.0,U/A 16+,False,24.49
+661,User-friendly bandwidth-monitored budgetary management,Movie,Documentary,Hindi,2006,80,5.2,U/A 16+,False,98.98
+662,Total attitude-oriented support,Series,Comedy,Japanese,2008,703,8.9,U,True,47.09
+663,Reverse-engineered heuristic software,Movie,Drama,German,1998,135,5.6,U/A 16+,True,89.05
+664,Versatile user-facing encryption,Series,Drama,Hindi,2016,557,6.4,U/A 16+,True,54.53
+665,Operative regional solution,Movie,Comedy,Hindi,2011,133,5.8,U/A 13+,False,2.38
+666,Reverse-engineered static Local Area Network,Movie,Action,English,2018,173,6.1,A,False,99.77
+667,Self-enabling multi-tasking application,Movie,Comedy,English,2002,123,8.5,A,True,90.97
+668,Cross-platform global focus group,Movie,Drama,Korean,2012,82,5.7,A,False,13.52
+669,Realigned 3rdgeneration core,Movie,Comedy,French,2019,143,8.0,U,True,67.81
+670,Cloned stable standardization,Series,Documentary,Spanish,2001,470,7.4,U,False,34.19
+671,Virtual composite service-desk,Movie,Drama,Spanish,2001,108,5.1,U/A 13+,True,35.47
+672,Virtual motivating conglomeration,Series,Drama,English,2009,363,9.0,U,True,40.57
+673,Phased non-volatile matrices,Movie,Comedy,English,2017,140,9.6,U/A 13+,False,57.23
+674,Progressive context-sensitive parallelism,Movie,Romance,Spanish,2011,92,8.4,U/A 16+,True,70.32
+675,Organic user-facing approach,Series,Action,Korean,2016,1061,8.0,U,True,66.51
+676,Stand-alone background toolset,Series,Drama,English,2012,686,6.3,U/A 16+,False,70.07
+677,Enterprise-wide analyzing contingency,Movie,Romance,English,2024,136,8.2,U,True,1.9
+678,Streamlined neutral customer loyalty,Movie,Action,Hindi,2010,154,5.3,U/A 13+,False,27.81
+679,Right-sized asynchronous architecture,Movie,Sci-Fi,Spanish,2019,82,9.0,A,False,62.16
+680,Proactive regional knowledge user,Movie,Romance,English,2024,87,5.2,U,True,50.91
+681,Exclusive tertiary circuit,Movie,Action,Hindi,2022,85,7.1,U/A 13+,True,85.67
+682,Compatible local focus group,Movie,Action,German,2018,113,9.4,U,False,85.04
+683,Persistent transitional open architecture,Series,Action,Spanish,2019,962,7.5,U/A 13+,True,94.93
+684,Integrated exuding synergy,Movie,Action,French,2004,127,5.5,U/A 16+,True,39.41
+685,Universal even-keeled solution,Movie,Drama,Hindi,2010,150,8.8,U,True,24.78
+686,Re-contextualized reciprocal array,Movie,Documentary,Korean,1995,128,6.5,U/A 16+,True,70.4
+687,Open-source local firmware,Series,Romance,English,2008,281,8.6,U/A 16+,True,58.03
+688,Devolved encompassing initiative,Movie,Comedy,English,2021,112,6.3,U,False,72.41
+689,De-engineered full-range conglomeration,Movie,Romance,French,2000,96,8.3,U/A 16+,True,87.61
+690,Enterprise-wide value-added throughput,Movie,Thriller,Hindi,2010,129,5.2,U,True,83.22
+691,Cross-group attitude-oriented time-frame,Movie,Animation,German,2010,127,5.7,U/A 16+,False,20.36
+692,Face-to-face stable alliance,Movie,Romance,Japanese,2003,106,7.2,U/A 13+,True,62.2
+693,Future-proofed local flexibility,Movie,Drama,Korean,2005,91,7.2,U/A 13+,False,78.95
+694,Visionary encompassing middleware,Movie,Romance,French,2016,169,6.2,A,False,89.57
+695,Networked foreground installation,Movie,Documentary,Hindi,2008,146,5.0,U/A 16+,False,52.62
+696,User-friendly didactic productivity,Series,Action,English,1996,1123,8.0,U/A 16+,True,3.96
+697,Proactive tertiary function,Series,Thriller,Japanese,2005,893,7.7,U/A 16+,False,35.49
+698,Fundamental asymmetric algorithm,Series,Documentary,Hindi,2017,645,8.6,U,False,25.98
+699,Up-sized zero administration structure,Movie,Fantasy,English,2005,120,7.0,U,False,48.33
+700,Enterprise-wide client-server firmware,Movie,Crime,English,1997,159,7.7,U,True,16.56
+701,Ameliorated methodical access,Movie,Action,English,2025,83,8.3,U/A 16+,False,36.84
+702,Proactive context-sensitive installation,Movie,Sci-Fi,English,2007,84,5.8,U/A 16+,True,48.63
+703,Enhanced zero administration time-frame,Movie,Thriller,German,2020,112,5.2,A,False,20.17
+704,Organic holistic database,Movie,Action,French,1997,132,9.8,U/A 13+,True,15.69
+705,Sharable methodical open architecture,Movie,Comedy,English,2003,112,5.1,U/A 16+,True,41.99
+706,Adaptive fresh-thinking definition,Movie,Thriller,English,2004,138,5.6,U,False,67.19
+707,Persistent analyzing Local Area Network,Movie,Thriller,German,2000,174,6.2,A,True,25.38
+708,Realigned hybrid algorithm,Movie,Comedy,English,2001,179,5.2,U/A 16+,True,15.53
+709,Pre-emptive systematic project,Movie,Crime,Japanese,2022,140,8.5,U,False,67.28
+710,Persistent homogeneous migration,Movie,Drama,Japanese,2023,114,6.2,U/A 16+,True,42.2
+711,Advanced eco-centric hardware,Series,Drama,English,1999,937,5.4,U/A 13+,False,52.22
+712,Pre-emptive optimizing throughput,Movie,Drama,English,2004,152,8.1,U,False,35.31
+713,Centralized local website,Movie,Action,English,2002,144,9.5,A,True,99.79
+714,Profit-focused attitude-oriented extranet,Movie,Thriller,Japanese,2021,93,8.4,U,True,54.89
+715,Re-engineered didactic throughput,Series,Sci-Fi,English,2016,388,7.7,U/A 13+,False,57.83
+716,Advanced next generation implementation,Movie,Drama,Hindi,2019,123,9.7,A,False,17.43
+717,Reverse-engineered real-time benchmark,Movie,Documentary,English,2020,116,7.7,U,True,69.41
+718,Upgradable impactful hub,Series,Drama,English,2008,322,6.1,U,False,87.75
+719,Distributed secondary throughput,Movie,Crime,Hindi,2016,146,9.2,U/A 16+,False,94.42
+720,Advanced 3rdgeneration service-desk,Series,Action,Spanish,2012,403,9.3,A,False,47.83
+721,De-engineered mission-critical instruction set,Series,Fantasy,English,2011,484,7.3,U/A 16+,True,64.22
+722,Reverse-engineered object-oriented workforce,Movie,Sci-Fi,Spanish,2018,126,5.5,U,False,25.6
+723,Advanced bifurcated middleware,Movie,Comedy,French,2011,87,8.6,U/A 13+,False,30.03
+724,Synergized secondary hub,Movie,Sci-Fi,Japanese,2017,136,7.2,U/A 16+,False,81.5
+725,Synergistic asynchronous toolset,Movie,Sci-Fi,English,2020,101,7.9,A,False,92.86
+726,Focused discrete website,Movie,Action,English,2023,161,7.7,U,True,16.18
+727,Diverse neutral capacity,Series,Romance,French,2025,429,5.9,U/A 13+,True,73.3
+728,Public-key client-driven core,Movie,Drama,English,1998,137,7.6,A,False,22.44
+729,Devolved upward-trending Graphical User Interface,Movie,Romance,French,2014,97,7.8,U/A 13+,False,88.17
+730,Customizable upward-trending success,Series,Sci-Fi,English,2024,725,9.2,U,False,35.98
+731,Expanded background flexibility,Movie,Animation,English,2018,108,7.8,A,True,73.7
+732,Face-to-face needs-based instruction set,Movie,Romance,Hindi,2000,138,9.6,U,True,98.89
+733,Stand-alone optimizing matrix,Movie,Action,Korean,2024,152,9.5,A,False,58.61
+734,Cloned full-range moderator,Movie,Fantasy,English,2012,145,5.5,A,False,76.1
+735,Object-based web-enabled strategy,Movie,Action,English,1995,175,7.8,U/A 13+,False,20.5
+736,Pre-emptive systemic capability,Series,Thriller,Hindi,2025,1176,5.5,U/A 13+,False,81.85
+737,Centralized solution-oriented instruction set,Movie,Animation,Spanish,2012,167,8.3,U/A 13+,True,71.02
+738,Centralized hybrid forecast,Series,Action,Korean,2016,472,7.1,U/A 16+,False,27.69
+739,User-friendly intangible service-desk,Movie,Crime,Hindi,2002,90,7.7,U/A 13+,False,56.01
+740,Managed responsive array,Movie,Comedy,Spanish,1996,172,7.7,U,False,94.82
+741,Phased scalable project,Movie,Action,Spanish,2014,109,8.1,U/A 13+,True,52.69
+742,Phased full-range adapter,Movie,Thriller,English,2015,109,6.6,U/A 13+,False,31.15
+743,Optional needs-based website,Series,Drama,English,2023,831,5.9,U/A 16+,True,35.55
+744,Cross-group content-based data-warehouse,Series,Crime,English,2011,956,7.3,U,True,52.16
+745,Fundamental intangible flexibility,Movie,Romance,Hindi,2008,137,6.9,A,True,5.94
+746,Customer-focused composite archive,Series,Action,Hindi,2003,787,9.1,A,False,16.34
+747,Multi-layered systematic task-force,Movie,Action,Korean,2012,156,5.4,U,True,23.66
+748,User-friendly fault-tolerant extranet,Movie,Comedy,English,2017,103,8.6,U,False,6.99
+749,Multi-tiered cohesive challenge,Series,Thriller,Spanish,2005,490,6.8,U,True,45.15
+750,Centralized mobile groupware,Movie,Romance,Hindi,1995,124,9.6,U/A 13+,False,61.39
+751,Compatible bandwidth-monitored software,Movie,Sci-Fi,Spanish,2001,168,9.2,A,False,85.63
+752,Fundamental heuristic Local Area Network,Movie,Thriller,Korean,2017,99,8.9,U/A 13+,False,60.35
+753,Persevering scalable attitude,Movie,Romance,Hindi,2014,95,7.1,U/A 16+,False,89.15
+754,Ameliorated composite knowledge user,Movie,Comedy,German,2001,175,7.1,U/A 16+,True,92.07
+755,Public-key exuding secured line,Movie,Romance,English,2016,152,5.8,A,False,96.21
+756,Fundamental national strategy,Series,Action,Hindi,1999,1034,8.7,A,False,55.69
+757,Persistent needs-based toolset,Movie,Drama,Korean,1995,179,8.5,U/A 13+,True,70.69
+758,Expanded local productivity,Series,Documentary,English,2020,1190,7.6,U/A 16+,False,71.76
+759,Distributed asymmetric functionalities,Movie,Fantasy,English,2018,103,8.0,A,False,21.99
+760,Progressive dedicated projection,Movie,Sci-Fi,Hindi,2016,166,6.7,U,True,77.39
+761,Front-line disintermediate success,Series,Thriller,Hindi,2017,1122,6.4,U/A 13+,True,37.82
+762,Business-focused needs-based software,Series,Action,Hindi,2012,293,6.2,U/A 16+,True,9.51
+763,Triple-buffered cohesive Graphical User Interface,Movie,Action,Korean,1995,157,6.0,U,True,91.9
+764,Cross-platform upward-trending alliance,Movie,Thriller,German,1996,113,5.1,A,True,88.97
+765,Reactive leadingedge Graphic Interface,Movie,Crime,Hindi,2024,105,8.9,A,False,60.57
+766,Programmable bottom-line knowledge user,Series,Fantasy,Hindi,1997,682,9.2,U,True,48.54
+767,Cloned intermediate definition,Series,Drama,French,2023,646,7.0,U,True,49.36
+768,Innovative optimizing workforce,Series,Fantasy,English,2012,701,6.6,U/A 16+,True,4.05
+769,Ergonomic static service-desk,Series,Documentary,English,1999,753,9.0,U/A 16+,False,69.69
+770,Streamlined multimedia throughput,Series,Drama,German,1999,1162,5.5,U,False,38.34
+771,Object-based multi-tasking open system,Movie,Action,Japanese,2023,80,8.2,U,False,69.9
+772,Robust maximized time-frame,Movie,Action,French,1996,180,5.4,U/A 16+,False,67.99
+773,Re-contextualized upward-trending Internet solution,Movie,Drama,English,2005,86,7.3,U,False,99.06
+774,Distributed demand-driven workforce,Movie,Crime,Hindi,2003,138,7.2,U/A 13+,True,50.04
+775,Diverse interactive software,Movie,Thriller,Spanish,2020,171,6.2,A,False,45.04
+776,Ergonomic next generation monitoring,Series,Drama,English,2005,758,7.9,A,False,61.76
+777,Sharable didactic orchestration,Series,Action,Spanish,2004,742,8.6,U/A 16+,False,84.93
+778,Reactive systematic leverage,Movie,Documentary,Japanese,2016,129,7.8,U/A 13+,True,3.38
+779,Reverse-engineered object-oriented encoding,Movie,Action,Hindi,1996,146,9.3,U/A 13+,False,4.37
+780,Fully-configurable even-keeled infrastructure,Movie,Romance,Japanese,2007,148,5.6,U/A 13+,True,92.51
+781,Extended web-enabled structure,Movie,Sci-Fi,French,2011,119,8.7,A,False,14.62
+782,Focused global contingency,Movie,Drama,Hindi,2012,151,7.9,A,True,66.97
+783,Organized local time-frame,Movie,Comedy,English,2013,179,6.1,A,False,37.85
+784,Multi-channeled demand-driven frame,Movie,Drama,English,2006,147,9.4,A,False,94.64
+785,Reverse-engineered client-server info-mediaries,Series,Documentary,Spanish,2010,414,8.4,A,True,93.34
+786,Upgradable multi-tasking process improvement,Movie,Thriller,Hindi,1998,133,6.4,A,True,47.23
+787,Progressive encompassing application,Movie,Romance,English,2012,148,7.1,U,False,26.5
+788,Enhanced 4thgeneration budgetary management,Movie,Fantasy,Hindi,2018,118,6.6,U/A 13+,True,91.69
+789,Organized discrete success,Movie,Crime,Hindi,2019,107,9.5,U,False,41.83
+790,Networked optimizing paradigm,Series,Drama,English,2001,985,7.3,U/A 13+,False,79.13
+791,Fundamental zero administration standardization,Series,Sci-Fi,English,2015,522,5.6,U/A 13+,False,56.94
+792,Multi-lateral mobile standardization,Movie,Drama,English,1996,162,9.4,U/A 13+,False,70.99
+793,Expanded fault-tolerant infrastructure,Movie,Romance,Spanish,2011,98,6.0,U/A 13+,False,33.63
+794,Re-contextualized cohesive throughput,Movie,Sci-Fi,Hindi,2025,126,6.3,U/A 16+,False,40.87
+795,Sharable motivating middleware,Series,Romance,English,2017,655,5.5,U/A 13+,False,49.43
+796,Extended multi-state adapter,Movie,Documentary,English,2002,156,6.8,A,True,21.61
+797,Persevering 24/7 task-force,Movie,Documentary,Korean,2002,177,7.5,U/A 16+,False,80.42
+798,Assimilated 24hour synergy,Movie,Romance,Hindi,2004,170,8.6,U/A 13+,True,94.72
+799,User-friendly object-oriented workforce,Series,Action,English,2016,869,8.2,A,False,21.87
+800,Seamless secondary installation,Movie,Romance,English,2003,126,6.3,A,True,39.91
+801,Monitored hybrid projection,Movie,Romance,French,1996,164,9.0,U/A 16+,False,15.03
+802,Quality-focused homogeneous capacity,Series,Crime,English,2022,340,7.3,A,True,30.97
+803,Horizontal value-added Graphic Interface,Movie,Sci-Fi,English,1996,136,5.2,U,False,50.22
+804,Upgradable client-driven flexibility,Series,Sci-Fi,Hindi,2000,935,8.6,U,True,55.33
+805,Re-contextualized composite info-mediaries,Movie,Drama,English,2010,105,6.9,A,True,3.74
+806,Operative local service-desk,Movie,Action,English,2020,107,8.1,A,True,62.34
+807,Streamlined eco-centric monitoring,Movie,Comedy,English,2015,166,9.2,U/A 13+,True,45.75
+808,Re-engineered intermediate instruction set,Movie,Romance,Spanish,2005,102,8.8,U/A 16+,True,42.91
+809,Cross-platform 6thgeneration strategy,Movie,Comedy,Hindi,2016,152,6.1,U,True,33.88
+810,Expanded tangible installation,Movie,Action,English,2014,87,6.1,U/A 16+,False,67.01
+811,Stand-alone secondary emulation,Series,Documentary,English,2024,1005,5.2,A,False,94.97
+812,Integrated tertiary circuit,Movie,Crime,English,1998,159,6.9,A,True,66.37
+813,Synchronized mission-critical parallelism,Series,Fantasy,English,2012,684,5.2,U,False,75.18
+814,Fully-configurable asynchronous paradigm,Series,Animation,English,1996,1106,9.0,A,False,22.92
+815,Right-sized 3rdgeneration open system,Series,Drama,English,2020,306,6.0,A,False,18.43
+816,Digitized disintermediate superstructure,Movie,Drama,English,2024,83,7.6,U,False,68.11
+817,Reverse-engineered composite forecast,Series,Romance,English,2021,818,5.0,A,True,11.98
+818,User-centric multimedia process improvement,Movie,Romance,Hindi,2018,110,9.0,U/A 13+,False,42.47
+819,Configurable explicit instruction set,Movie,Fantasy,Spanish,2011,175,9.6,U/A 13+,False,71.78
+820,Organized executive instruction set,Movie,Drama,English,2010,137,9.0,U/A 16+,False,33.59
+821,Enhanced eco-centric approach,Series,Romance,English,2011,428,6.2,U,False,24.77
+822,Future-proofed mission-critical software,Movie,Comedy,Hindi,1997,108,5.8,U,False,91.07
+823,Networked upward-trending project,Series,Romance,Hindi,1996,750,9.6,U/A 13+,False,86.22
+824,Profound impactful function,Series,Comedy,English,2016,1013,7.4,U/A 13+,False,78.17
+825,Assimilated non-volatile capability,Movie,Thriller,English,2008,157,8.0,U,True,49.14
+826,Innovative leadingedge concept,Series,Documentary,English,2025,451,7.9,A,False,99.21
+827,Devolved modular structure,Movie,Sci-Fi,English,1996,169,6.9,U/A 16+,False,13.91
+828,Re-contextualized systemic open system,Movie,Crime,English,2024,140,5.1,U/A 13+,False,11.98
+829,Robust neutral pricing structure,Series,Comedy,English,2009,1074,6.0,U/A 16+,False,11.86
+830,Upgradable content-based hub,Series,Crime,English,2006,1108,6.6,U/A 13+,False,27.12
+831,Ameliorated background help-desk,Series,Thriller,English,2017,831,8.8,A,True,66.33
+832,Fundamental multi-state flexibility,Movie,Thriller,Hindi,2006,86,6.7,U/A 16+,True,70.36
+833,Down-sized directional challenge,Movie,Drama,Hindi,2007,100,9.3,U/A 16+,True,53.0
+834,Managed systemic approach,Movie,Sci-Fi,French,2000,84,6.6,U,True,11.15
+835,Reactive stable circuit,Movie,Action,Hindi,2006,149,6.8,U/A 13+,False,10.59
+836,Down-sized human-resource portal,Movie,Comedy,English,2001,94,6.2,U,True,42.69
+837,Synchronized encompassing algorithm,Movie,Crime,English,2018,90,5.9,U/A 16+,True,4.06
+838,Managed national core,Movie,Romance,German,2003,95,8.7,U,True,87.43
+839,Multi-layered bi-directional secured line,Movie,Documentary,English,2021,80,7.5,U/A 16+,False,20.77
+840,Pre-emptive bandwidth-monitored forecast,Movie,Animation,English,2013,113,7.4,A,False,45.27
+841,Multi-lateral disintermediate function,Movie,Comedy,Spanish,2007,95,7.6,A,False,59.18
+842,Diverse multi-tasking database,Movie,Documentary,Spanish,2016,146,8.2,U/A 13+,True,13.31
+843,Intuitive tertiary protocol,Movie,Drama,Spanish,1998,111,9.0,U/A 13+,True,35.57
+844,Future-proofed global hierarchy,Movie,Thriller,Hindi,2016,92,9.3,A,False,19.23
+845,Cloned well-modulated alliance,Series,Comedy,English,2012,936,7.5,U/A 13+,False,32.75
+846,Focused intermediate open system,Movie,Documentary,English,2006,172,5.8,A,True,62.83
+847,Proactive coherent portal,Movie,Drama,English,2021,81,5.8,U/A 13+,False,72.26
+848,Innovative national definition,Series,Romance,English,2023,667,7.0,U/A 13+,True,96.81
+849,Future-proofed discrete monitoring,Movie,Comedy,Hindi,2020,177,8.4,U/A 16+,False,22.14
+850,Profound secondary superstructure,Movie,Fantasy,English,2001,152,8.8,U/A 16+,True,8.14
+851,Persistent needs-based algorithm,Movie,Documentary,English,2007,168,9.8,U/A 16+,False,57.16
+852,Monitored responsive concept,Movie,Thriller,English,2019,142,9.4,A,False,62.92
+853,Object-based maximized emulation,Movie,Action,English,2011,107,6.6,U/A 16+,False,61.96
+854,Multi-layered optimal policy,Movie,Romance,English,2007,174,8.5,U/A 13+,False,51.06
+855,Triple-buffered logistical encryption,Series,Comedy,Hindi,2015,1056,9.0,U/A 13+,False,61.55
+856,Up-sized non-volatile help-desk,Series,Action,English,2025,674,9.4,U/A 13+,True,10.39
+857,Vision-oriented explicit pricing structure,Movie,Sci-Fi,English,2020,124,9.7,U/A 13+,False,45.77
+858,Organic tertiary secured line,Movie,Comedy,English,2023,132,6.8,A,True,41.76
+859,Function-based disintermediate knowledge user,Movie,Thriller,German,2020,138,7.6,U/A 16+,False,54.13
+860,Balanced secondary service-desk,Movie,Comedy,English,2007,89,6.2,U/A 16+,True,33.52
+861,Implemented disintermediate portal,Movie,Drama,English,2016,132,5.9,A,True,93.48
+862,Centralized optimal parallelism,Series,Action,German,1995,583,7.9,A,True,43.32
+863,Up-sized 4thgeneration knowledge user,Series,Fantasy,Hindi,2012,265,8.3,U,False,6.1
+864,Enhanced zero-defect Local Area Network,Movie,Thriller,English,2025,89,5.9,U,False,72.35
+865,Polarized background neural-net,Movie,Romance,Korean,2008,82,9.3,U/A 16+,False,74.68
+866,Decentralized stable budgetary management,Movie,Comedy,English,1997,130,5.0,U/A 13+,False,51.69
+867,Polarized content-based protocol,Movie,Documentary,English,2021,134,9.2,U/A 16+,False,91.05
+868,Synergistic multi-state groupware,Movie,Documentary,English,2023,164,7.3,U/A 13+,True,66.6
+869,Digitized local concept,Movie,Sci-Fi,Hindi,2017,90,8.6,U/A 16+,False,20.44
+870,Adaptive intangible system engine,Movie,Drama,Spanish,2013,159,6.4,A,False,5.86
+871,Configurable national migration,Movie,Drama,English,2000,82,7.9,U/A 16+,False,35.13
+872,Synergized didactic budgetary management,Movie,Romance,English,2024,134,5.2,A,False,91.74
+873,Grass-roots fault-tolerant hub,Series,Thriller,English,2014,461,7.4,U/A 16+,True,21.18
+874,Enhanced full-range middleware,Movie,Comedy,English,2025,113,6.9,A,True,76.41
+875,Versatile bandwidth-monitored projection,Series,Sci-Fi,German,2016,495,6.8,U/A 16+,False,35.09
+876,Down-sized scalable adapter,Series,Documentary,English,1997,389,6.6,U,False,90.99
+877,Cloned contextually-based frame,Series,Romance,Hindi,2009,1124,9.6,U/A 16+,True,71.0
+878,Distributed dynamic core,Series,Romance,English,2007,771,8.4,U/A 13+,False,86.96
+879,Persevering bottom-line application,Movie,Comedy,English,1995,102,9.0,U/A 13+,True,59.57
+880,Object-based maximized array,Movie,Comedy,Hindi,2022,82,5.1,U/A 13+,True,32.85
+881,Visionary static artificial intelligence,Series,Thriller,English,2013,544,9.4,U/A 13+,True,69.33
+882,Diverse 5thgeneration structure,Series,Romance,English,2000,482,6.1,U,True,39.96
+883,Synergized 5thgeneration infrastructure,Movie,Sci-Fi,English,2018,132,6.5,U/A 16+,False,79.59
+884,Fundamental client-driven knowledge user,Movie,Drama,English,1999,106,6.2,U/A 13+,False,58.48
+885,Diverse directional success,Series,Drama,German,2017,541,6.2,U/A 13+,False,54.59
+886,Multi-layered encompassing strategy,Series,Animation,English,2000,269,9.4,U,True,2.67
+887,Digitized value-added focus group,Movie,Action,Spanish,2021,123,7.8,U,True,21.94
+888,Customizable reciprocal methodology,Movie,Crime,Japanese,2009,167,5.1,A,True,60.75
+889,Multi-channeled asynchronous info-mediaries,Movie,Action,Japanese,2002,132,5.3,U/A 16+,False,74.01
+890,Ergonomic bi-directional contingency,Movie,Crime,English,1997,135,8.4,U/A 16+,True,19.17
+891,Profound impactful architecture,Series,Documentary,Spanish,1998,1198,6.0,U/A 13+,False,15.68
+892,Stand-alone real-time secured line,Movie,Action,English,2018,121,8.6,A,True,15.74
+893,Innovative systemic application,Series,Romance,Hindi,2024,457,9.0,U/A 16+,False,14.74
+894,Horizontal high-level encryption,Movie,Animation,French,1997,164,6.1,U,False,70.94
+895,Team-oriented well-modulated process improvement,Series,Animation,Japanese,2011,906,8.8,U/A 13+,False,74.8
+896,Robust modular task-force,Series,Romance,Hindi,2002,946,7.1,U,True,30.35
+897,Implemented systematic attitude,Series,Romance,Spanish,2005,466,7.6,U,True,63.38
+898,Digitized fault-tolerant core,Movie,Crime,Hindi,2006,144,8.2,U,True,86.34
+899,Compatible eco-centric utilization,Series,Sci-Fi,English,1999,583,6.9,A,False,41.8
+900,Team-oriented attitude-oriented circuit,Movie,Documentary,Spanish,2000,145,7.7,U,False,61.76
+901,Switchable coherent open architecture,Movie,Thriller,English,2018,84,5.5,U,True,56.68
+902,Right-sized interactive artificial intelligence,Movie,Animation,French,2004,124,6.6,A,True,21.83
+903,Advanced encompassing concept,Movie,Documentary,German,2005,126,8.9,U,False,97.02
+904,Cross-platform bifurcated complexity,Movie,Documentary,English,2019,120,6.6,U/A 16+,True,29.39
+905,Function-based even-keeled budgetary management,Movie,Drama,English,2002,110,9.6,U/A 13+,True,13.4
+906,Synchronized regional neural-net,Series,Comedy,English,2011,392,6.3,U/A 13+,False,9.71
+907,Future-proofed national moratorium,Movie,Sci-Fi,Korean,2006,85,7.2,A,False,12.57
+908,Networked tertiary migration,Movie,Drama,English,1996,169,6.4,U,True,20.16
+909,Enhanced optimal access,Movie,Romance,English,2018,132,7.4,A,False,33.33
+910,Visionary dedicated support,Movie,Drama,Japanese,2004,82,8.7,U,True,32.85
+911,Adaptive 24/7 open architecture,Movie,Crime,Hindi,2000,125,5.9,U/A 13+,False,90.4
+912,Ameliorated modular architecture,Movie,Thriller,French,2001,138,9.4,A,False,78.97
+913,Synergized multimedia superstructure,Movie,Action,French,1998,142,6.1,U/A 13+,False,24.83
+914,Face-to-face user-facing groupware,Movie,Action,Spanish,1999,108,6.9,A,False,3.66
+915,Automated zero-defect solution,Movie,Crime,Hindi,2015,173,9.0,U/A 16+,True,62.46
+916,Cross-platform user-facing architecture,Movie,Thriller,English,1997,125,5.0,U/A 16+,False,42.92
+917,Decentralized context-sensitive methodology,Movie,Crime,English,1999,110,7.0,A,False,50.21
+918,Persistent 4thgeneration circuit,Series,Sci-Fi,English,2005,495,6.1,U/A 13+,True,96.54
+919,Future-proofed mobile budgetary management,Movie,Animation,English,2001,91,5.6,U,False,58.75
+920,Persevering attitude-oriented emulation,Series,Crime,Korean,1999,980,6.7,U,True,50.78
+921,Phased content-based help-desk,Movie,Drama,English,2012,166,7.0,U/A 16+,False,6.51
+922,Proactive scalable encryption,Series,Comedy,Korean,2004,1102,7.1,U/A 13+,True,55.91
+923,Profit-focused coherent capacity,Series,Comedy,English,2000,1151,7.1,A,True,71.94
+924,Devolved 3rdgeneration forecast,Movie,Thriller,Spanish,2014,140,7.7,A,True,93.45
+925,Enhanced secondary algorithm,Movie,Documentary,English,2023,138,8.2,U,False,71.62
+926,Managed stable archive,Movie,Action,Hindi,1998,81,9.1,A,False,2.49
+927,Vision-oriented fresh-thinking instruction set,Movie,Romance,French,2014,120,7.3,A,True,91.36
+928,Synchronized secondary data-warehouse,Movie,Action,English,2018,138,9.5,U/A 13+,False,54.08
+929,Integrated high-level secured line,Movie,Action,Spanish,2011,119,7.0,U/A 13+,False,35.49
+930,Cloned modular architecture,Movie,Comedy,Hindi,2023,159,9.0,U/A 16+,True,45.6
+931,Distributed grid-enabled knowledge user,Movie,Crime,English,2023,108,6.2,A,False,32.52
+932,Fundamental scalable groupware,Movie,Comedy,English,2018,143,9.6,U/A 13+,False,42.54
+933,Ergonomic mobile standardization,Series,Fantasy,English,2016,595,8.7,U/A 16+,True,47.65
+934,Diverse 5thgeneration attitude,Movie,Action,Japanese,2006,169,6.3,U/A 16+,True,74.99
+935,Total bottom-line matrices,Movie,Crime,English,2000,134,7.9,A,False,36.39
+936,Reduced bi-directional system engine,Movie,Action,English,1998,145,7.6,U,True,31.94
+937,Balanced regional artificial intelligence,Series,Crime,Hindi,2004,1149,8.3,A,True,93.07
+938,Future-proofed context-sensitive synergy,Movie,Comedy,English,2010,80,6.6,U,True,92.1
+939,Customer-focused context-sensitive toolset,Series,Drama,English,2022,1006,6.7,U/A 16+,False,67.62
+940,Sharable hybrid infrastructure,Movie,Documentary,English,2006,127,5.6,A,True,61.44
+941,User-centric asymmetric moratorium,Series,Sci-Fi,German,2020,875,9.3,A,True,8.97
+942,Configurable bottom-line encryption,Movie,Drama,English,2016,170,7.4,U,True,52.4
+943,Front-line motivating capability,Movie,Documentary,English,2017,137,6.3,U,False,2.05
+944,Function-based value-added methodology,Movie,Crime,English,2004,97,7.1,U,True,53.33
+945,Fully-configurable motivating moderator,Series,Documentary,Hindi,1998,315,7.1,U,False,94.43
+946,Re-engineered high-level archive,Series,Drama,Spanish,2008,786,5.1,U/A 16+,True,15.67
+947,Balanced motivating definition,Movie,Sci-Fi,English,2002,130,6.0,U/A 13+,False,49.66
+948,Monitored tangible application,Movie,Comedy,Spanish,2013,149,6.7,U,False,5.47
+949,Profit-focused upward-trending complexity,Movie,Drama,Hindi,2014,118,7.3,U,True,81.25
+950,Realigned solution-oriented budgetary management,Series,Sci-Fi,English,2014,901,7.0,U,False,6.84
+951,Organic well-modulated system engine,Movie,Sci-Fi,English,2002,157,7.3,A,True,51.77
+952,Object-based disintermediate knowledgebase,Series,Comedy,English,2004,892,6.9,A,True,37.87
+953,Re-contextualized eco-centric paradigm,Movie,Romance,Japanese,2017,96,8.0,A,True,38.98
+954,Advanced user-facing project,Movie,Fantasy,German,2012,108,9.8,A,False,15.09
+955,Seamless bandwidth-monitored emulation,Movie,Sci-Fi,Korean,1998,143,5.2,A,False,94.6
+956,Horizontal systemic focus group,Movie,Action,English,2011,129,8.8,U,False,3.35
+957,Triple-buffered bandwidth-monitored hierarchy,Series,Documentary,German,2016,832,5.4,U,True,76.9
+958,Innovative zero administration pricing structure,Series,Documentary,German,2021,765,5.4,U/A 16+,False,9.5
+959,Programmable bifurcated implementation,Movie,Documentary,English,2015,158,5.4,U,True,22.17
+960,Ergonomic impactful algorithm,Series,Drama,Hindi,2004,697,5.3,U,False,74.84
+961,Sharable eco-centric knowledgebase,Movie,Animation,Japanese,2017,135,6.9,A,True,53.39
+962,Multi-channeled content-based concept,Movie,Drama,English,2013,91,8.9,U,False,58.35
+963,Synergized 4thgeneration paradigm,Movie,Documentary,German,2002,103,9.0,A,False,25.66
+964,Digitized impactful customer loyalty,Series,Sci-Fi,Spanish,2000,1157,6.5,A,False,98.82
+965,Multi-channeled 5thgeneration strategy,Movie,Crime,English,2020,176,8.7,U,False,38.14
+966,Ameliorated system-worthy conglomeration,Series,Drama,French,2012,554,6.9,U/A 13+,True,68.85
+967,User-centric regional complexity,Movie,Crime,Korean,2013,99,9.2,U/A 16+,True,67.39
+968,Configurable demand-driven moratorium,Movie,Action,Japanese,2010,150,6.9,U/A 16+,True,87.54
+969,Future-proofed fault-tolerant product,Movie,Romance,English,2018,80,6.6,U/A 16+,False,59.28
+970,Profit-focused homogeneous capacity,Series,Romance,English,1997,482,9.1,U,True,39.29
+971,Secured maximized parallelism,Series,Documentary,Japanese,2025,948,6.3,U/A 16+,False,89.8
+972,Upgradable zero administration knowledge user,Movie,Action,Japanese,2013,156,6.0,U,False,36.88
+973,Networked holistic architecture,Movie,Sci-Fi,English,1996,105,6.9,U/A 16+,True,13.63
+974,Organic composite function,Movie,Action,Spanish,2002,99,6.3,U,False,61.04
+975,Managed tertiary moderator,Series,Fantasy,English,2010,626,5.9,U,True,35.97
+976,Multi-layered client-driven support,Series,Comedy,Hindi,2018,706,6.0,U/A 16+,False,68.1
+977,Grass-roots 6thgeneration functionalities,Series,Fantasy,French,2021,779,6.2,U/A 16+,True,11.45
+978,Fundamental well-modulated migration,Movie,Thriller,English,2008,122,7.8,U/A 13+,True,55.53
+979,Automated user-facing hierarchy,Movie,Romance,German,2022,107,6.6,U,True,73.84
+980,Virtual asynchronous interface,Movie,Comedy,Hindi,2019,107,5.7,A,False,54.84
+981,Intuitive methodical framework,Movie,Action,Hindi,2023,157,8.2,A,True,85.29
+982,Pre-emptive actuating array,Series,Romance,English,1995,998,5.2,U/A 16+,False,82.04
+983,Total multi-tasking product,Series,Thriller,English,2012,380,8.5,A,False,25.79
+984,Integrated impactful artificial intelligence,Movie,Animation,Hindi,1995,157,6.9,U,True,5.41
+985,Expanded radical function,Series,Romance,English,2006,593,9.2,U/A 13+,False,23.12
+986,Secured transitional Graphical User Interface,Series,Thriller,English,2014,1016,8.5,U/A 16+,True,21.65
+987,Team-oriented background open architecture,Movie,Action,English,2018,122,9.6,U/A 13+,True,20.14
+988,Integrated leadingedge adapter,Movie,Drama,English,2022,124,5.4,U/A 13+,False,4.38
+989,Object-based coherent leverage,Movie,Action,Japanese,2022,125,7.8,U,True,55.58
+990,Profound asymmetric neural-net,Movie,Sci-Fi,English,2025,112,9.4,U/A 13+,False,85.73
+991,Self-enabling maximized system engine,Series,Romance,Hindi,2014,421,9.5,U/A 16+,False,75.3
+992,User-friendly needs-based access,Movie,Comedy,French,2001,96,6.6,U,True,11.08
+993,Business-focused solution-oriented solution,Series,Drama,French,2010,267,6.0,U,False,16.09
+994,Polarized bandwidth-monitored firmware,Movie,Comedy,English,2009,174,6.6,U/A 16+,False,54.16
+995,Profit-focused fault-tolerant encryption,Movie,Comedy,Spanish,1996,80,6.2,A,True,64.58
+996,Synchronized dynamic instruction set,Series,Drama,Korean,2018,695,7.3,U/A 13+,False,38.71
+997,Reactive attitude-oriented implementation,Movie,Romance,Spanish,2003,144,7.1,U/A 13+,False,18.45
+998,Advanced eco-centric hierarchy,Movie,Romance,English,1995,164,5.4,U,False,55.18
+999,Universal maximized workforce,Movie,Drama,English,2015,150,8.3,U,False,92.59
+1000,Open-architected tangible projection,Movie,Thriller,Hindi,1998,142,9.8,U,True,53.91
+1001,Multi-tiered leadingedge moderator,Movie,Action,Hindi,2009,84,8.4,U/A 16+,True,93.72
+1002,Vision-oriented executive collaboration,Movie,Animation,Japanese,2023,105,7.1,A,False,2.69
+1003,Open-source bi-directional monitoring,Movie,Crime,Korean,2021,93,9.8,U/A 16+,True,30.37
+1004,Networked coherent service-desk,Movie,Action,English,2005,94,6.5,U,False,31.29
+1005,Organic asynchronous superstructure,Movie,Comedy,English,2012,147,6.3,U/A 16+,True,55.77
+1006,Pre-emptive object-oriented throughput,Series,Sci-Fi,Hindi,2003,808,6.9,U/A 13+,False,61.25
+1007,Re-contextualized optimal time-frame,Movie,Sci-Fi,Japanese,2014,114,6.2,A,True,15.39
+1008,Multi-lateral fault-tolerant flexibility,Movie,Comedy,English,2018,132,6.0,U/A 16+,False,83.23
+1009,Ameliorated 3rdgeneration solution,Movie,Drama,Hindi,2004,88,8.5,U/A 13+,True,95.09
+1010,Exclusive zero-defect productivity,Series,Fantasy,Spanish,2005,351,8.7,U,True,64.81
+1011,Switchable optimizing framework,Movie,Thriller,Japanese,2025,114,9.5,U/A 13+,False,30.03
+1012,User-friendly discrete help-desk,Series,Animation,Hindi,2023,952,8.9,A,True,57.45
+1013,Managed value-added hub,Series,Romance,English,2006,620,9.4,U/A 13+,False,24.82
+1014,Multi-layered asynchronous archive,Movie,Romance,English,2018,123,8.0,A,True,44.25
+1015,Open-architected leadingedge flexibility,Movie,Animation,English,2024,91,6.5,U/A 16+,True,10.01
+1016,Configurable coherent adapter,Series,Documentary,Spanish,1999,457,7.2,U,True,71.56
+1017,Advanced 4thgeneration policy,Movie,Sci-Fi,Korean,1999,114,5.5,U,False,60.83
+1018,Diverse intermediate focus group,Series,Documentary,English,2006,476,6.3,U/A 16+,True,33.04
+1019,Triple-buffered tertiary success,Series,Romance,Spanish,1999,270,9.7,U,True,71.7
+1020,Advanced attitude-oriented alliance,Series,Sci-Fi,English,2008,954,9.5,A,True,78.36
+1021,Phased stable alliance,Movie,Drama,Spanish,1996,97,7.5,U,False,26.13
+1022,Phased exuding function,Movie,Drama,French,2018,151,9.6,A,True,61.14
+1023,Versatile multi-state flexibility,Series,Thriller,French,2013,844,6.5,U/A 16+,True,53.04
+1024,Open-source cohesive support,Movie,Action,Hindi,2025,177,6.0,U/A 16+,False,65.04
+1025,Customer-focused multi-tasking Graphical User Interface,Movie,Fantasy,English,1997,159,6.8,U/A 16+,False,47.67
+1026,Customer-focused modular productivity,Movie,Action,French,2005,99,5.6,U/A 16+,True,60.66
+1027,Versatile stable encryption,Movie,Fantasy,English,1996,81,9.3,U/A 16+,False,38.71
+1028,Configurable responsive forecast,Movie,Drama,English,1997,115,7.8,A,True,95.88
+1029,Cross-platform incremental model,Movie,Action,Hindi,2015,180,7.0,A,False,83.65
+1030,Down-sized 4thgeneration forecast,Movie,Documentary,English,2013,80,5.1,U/A 13+,False,86.47
+1031,User-centric tertiary extranet,Movie,Crime,French,2005,81,9.0,U/A 13+,True,78.14
+1032,Ameliorated global forecast,Movie,Crime,English,2025,139,6.9,U,False,15.59
+1033,Compatible grid-enabled Local Area Network,Movie,Drama,English,2003,175,6.3,U/A 13+,False,24.23
+1034,Reverse-engineered transitional matrices,Movie,Fantasy,German,2011,97,8.5,U/A 16+,True,14.51
+1035,User-centric bottom-line analyzer,Series,Comedy,English,2025,418,8.1,U/A 13+,False,73.2
+1036,Persevering well-modulated access,Movie,Action,English,2015,160,5.6,A,False,93.87
+1037,Realigned zero administration hub,Movie,Romance,Korean,1998,115,7.9,A,True,13.18
+1038,Innovative clear-thinking emulation,Movie,Comedy,German,2007,90,7.2,A,False,52.81
+1039,Public-key disintermediate throughput,Series,Romance,Spanish,2009,272,7.1,A,False,16.78
+1040,Reverse-engineered grid-enabled product,Movie,Romance,Japanese,2005,152,7.6,A,True,76.97
+1041,Decentralized modular collaboration,Movie,Drama,English,1997,153,8.0,U/A 13+,False,56.16
+1042,Diverse regional productivity,Movie,Sci-Fi,Hindi,1997,84,5.4,U/A 13+,True,83.92
+1043,Programmable zero-defect access,Movie,Action,German,2004,180,9.2,U,True,5.98
+1044,Monitored bandwidth-monitored function,Movie,Comedy,English,1996,129,7.2,A,True,19.22
+1045,Triple-buffered fresh-thinking secured line,Movie,Sci-Fi,Hindi,2004,176,5.8,A,False,62.44
+1046,Persistent global paradigm,Movie,Sci-Fi,English,2008,150,5.9,U,False,88.9
+1047,Proactive client-driven system engine,Movie,Comedy,English,2006,118,7.3,U,True,70.52
+1048,Expanded composite implementation,Movie,Drama,English,2016,153,7.7,U,True,20.73
+1049,Object-based well-modulated parallelism,Movie,Action,Hindi,2025,174,9.4,A,True,82.13
+1050,Synergized dedicated extranet,Series,Drama,English,2011,988,8.8,U/A 16+,True,64.18
+1051,Enterprise-wide intermediate hub,Movie,Animation,English,2003,143,8.6,U/A 16+,True,53.11
+1052,Phased asymmetric definition,Movie,Animation,English,1995,91,6.8,U,False,90.18
+1053,Reactive cohesive Local Area Network,Movie,Drama,Spanish,2009,134,5.4,U/A 13+,True,35.16
+1054,Total incremental initiative,Movie,Comedy,Hindi,2022,109,7.7,U/A 16+,False,75.28
+1055,Inverse value-added workforce,Series,Drama,Korean,2013,1169,6.3,U,True,50.2
+1056,Expanded mobile adapter,Movie,Thriller,English,2007,86,7.4,U/A 16+,True,58.94
+1057,Cross-platform mobile adapter,Movie,Drama,English,2014,165,7.1,U/A 13+,False,35.07
+1058,Cross-group eco-centric service-desk,Movie,Drama,Japanese,2024,174,5.5,U,True,19.27
+1059,Networked optimal policy,Series,Animation,Hindi,2020,855,7.0,U,True,19.34
+1060,Decentralized methodical intranet,Movie,Comedy,English,2010,99,7.2,A,False,98.87
+1061,Vision-oriented reciprocal hub,Movie,Comedy,English,2014,150,7.8,U,True,85.11
+1062,Polarized logistical application,Movie,Romance,Spanish,2018,152,5.2,A,True,31.26
+1063,Mandatory maximized application,Movie,Documentary,English,1997,83,5.5,A,False,97.93
+1064,Phased attitude-oriented flexibility,Movie,Comedy,Hindi,1996,161,8.1,U,True,26.11
+1065,Robust multimedia protocol,Movie,Action,English,2005,166,6.9,U/A 16+,False,45.24
+1066,Right-sized zero tolerance adapter,Series,Animation,Spanish,1998,1052,6.0,A,False,99.37
+1067,Synchronized impactful info-mediaries,Series,Comedy,Spanish,2011,985,5.5,A,False,60.37
+1068,Programmable encompassing contingency,Series,Drama,English,2019,643,5.9,U/A 16+,True,83.83
+1069,Cross-group local process improvement,Movie,Action,English,1999,99,7.9,U/A 16+,False,45.79
+1070,Operative background application,Movie,Comedy,English,2006,125,8.6,U,True,42.34
+1071,Self-enabling high-level synergy,Movie,Drama,French,2024,147,5.7,U/A 13+,False,49.86
+1072,Compatible system-worthy database,Series,Action,French,2011,701,6.0,A,True,89.36
+1073,Synchronized web-enabled Local Area Network,Movie,Comedy,French,2002,146,5.7,U/A 13+,False,95.93
+1074,Function-based disintermediate access,Movie,Drama,English,2008,146,5.1,A,True,71.95
+1075,Optional methodical moratorium,Movie,Action,English,2015,152,8.2,U/A 13+,False,41.57
+1076,Managed heuristic implementation,Series,Drama,French,2017,1052,8.4,A,False,86.13
+1077,Automated 6thgeneration definition,Movie,Drama,English,2021,147,6.6,U/A 13+,True,14.16
+1078,Face-to-face fault-tolerant secured line,Movie,Thriller,Hindi,2009,162,6.9,A,True,6.56
+1079,Open-source logistical focus group,Movie,Documentary,English,2015,148,6.7,U/A 16+,True,55.73
+1080,Innovative directional software,Movie,Romance,English,2025,113,8.9,U/A 13+,True,57.93
+1081,Implemented 4thgeneration protocol,Series,Action,French,2025,984,7.0,U,True,83.72
+1082,Stand-alone regional frame,Series,Action,Korean,2019,315,7.8,U,True,42.01
+1083,Centralized empowering Local Area Network,Movie,Fantasy,English,2011,174,5.7,U/A 16+,False,95.5
+1084,Realigned local productivity,Movie,Sci-Fi,Spanish,2008,84,8.1,U/A 13+,True,41.74
+1085,Profit-focused logistical protocol,Series,Action,Hindi,2014,372,5.6,U/A 16+,False,12.76
+1086,Profit-focused full-range circuit,Series,Sci-Fi,Korean,2015,302,8.3,U,False,97.18
+1087,Business-focused multi-tasking focus group,Movie,Thriller,Hindi,2017,130,9.0,U,False,78.4
+1088,Customer-focused needs-based website,Movie,Romance,Hindi,2001,97,5.8,U/A 16+,True,5.62
+1089,Face-to-face contextually-based task-force,Movie,Action,English,2012,104,7.9,U,False,47.44
+1090,Versatile clear-thinking model,Movie,Comedy,English,2008,165,9.6,U/A 16+,True,34.9
+1091,Up-sized client-server time-frame,Movie,Drama,English,2012,127,9.6,A,True,96.8
+1092,Compatible well-modulated archive,Series,Drama,French,1998,994,5.7,A,True,66.94
+1093,Compatible attitude-oriented concept,Movie,Comedy,Spanish,2007,103,7.7,U,False,92.69
+1094,Centralized system-worthy support,Movie,Romance,English,1998,151,7.8,U/A 13+,False,13.26
+1095,Exclusive multi-tasking focus group,Movie,Drama,English,2024,128,6.7,U/A 13+,True,83.59
+1096,Persevering high-level system engine,Movie,Drama,Hindi,2022,97,5.7,A,False,9.2
+1097,Profit-focused analyzing middleware,Movie,Drama,Hindi,2002,165,6.6,U,False,16.48
+1098,Face-to-face neutral framework,Movie,Comedy,French,1995,129,9.4,U/A 13+,True,69.08
+1099,Switchable bandwidth-monitored throughput,Series,Comedy,English,2008,402,8.7,U,False,40.72
+1100,Team-oriented interactive collaboration,Movie,Sci-Fi,Hindi,2018,100,8.0,U/A 13+,True,23.19
+1101,Managed asynchronous policy,Movie,Thriller,English,2001,124,6.9,U/A 16+,False,8.7
+1102,Right-sized radical forecast,Series,Romance,English,2005,709,6.8,U/A 13+,True,2.14
+1103,Reduced modular interface,Movie,Romance,English,1999,169,7.2,U/A 13+,True,19.35
+1104,Decentralized exuding productivity,Movie,Drama,Hindi,2013,117,8.0,A,False,53.31
+1105,Customer-focused fault-tolerant archive,Movie,Documentary,Spanish,2017,170,9.3,A,True,18.75
+1106,Innovative high-level Internet solution,Series,Comedy,French,2011,1002,5.6,A,False,30.86
+1107,Networked multimedia firmware,Series,Romance,Hindi,2012,831,7.2,U/A 13+,True,78.97
+1108,Fundamental well-modulated superstructure,Movie,Animation,Spanish,2008,152,7.1,U/A 13+,True,33.42
+1109,Grass-roots intermediate collaboration,Series,Drama,English,2020,1154,9.1,U/A 13+,False,74.18
+1110,Triple-buffered discrete paradigm,Movie,Thriller,English,2019,90,6.2,U/A 16+,False,31.42
+1111,Progressive client-server challenge,Movie,Drama,English,1996,124,5.2,U/A 16+,True,60.62
+1112,Integrated static capability,Movie,Thriller,Spanish,2024,99,9.1,U/A 13+,False,95.08
+1113,Down-sized bottom-line Internet solution,Movie,Drama,English,2012,86,5.3,U,True,18.4
+1114,Triple-buffered needs-based database,Series,Drama,Japanese,2021,716,5.8,U/A 16+,True,75.55
+1115,Vision-oriented demand-driven strategy,Movie,Drama,English,2024,128,6.3,U/A 13+,True,28.86
+1116,Organic holistic time-frame,Movie,Thriller,English,2002,91,7.7,U/A 13+,False,62.9
+1117,Pre-emptive high-level utilization,Movie,Comedy,French,2001,119,5.7,U/A 13+,True,78.17
+1118,Multi-channeled 4thgeneration open system,Movie,Action,English,2002,115,5.2,U/A 13+,False,32.07
+1119,Diverse secondary function,Movie,Romance,English,2012,103,9.6,U,False,42.24
+1120,Extended 24/7 approach,Movie,Action,English,1995,94,8.1,U,True,10.89
+1121,Self-enabling mission-critical access,Series,Drama,Korean,2004,385,9.3,A,True,12.08
+1122,Quality-focused next generation methodology,Series,Action,Spanish,2021,457,8.3,A,False,62.19
+1123,Streamlined 6thgeneration algorithm,Movie,Sci-Fi,Hindi,1999,163,8.8,U,True,15.68
+1124,Function-based holistic synergy,Movie,Action,Japanese,2016,141,8.6,U,False,97.51
+1125,Devolved secondary Graphic Interface,Movie,Crime,Japanese,1995,92,8.2,U/A 13+,True,66.55
+1126,Cloned 4thgeneration adapter,Movie,Action,German,2007,86,7.5,A,True,75.5
+1127,Reverse-engineered hybrid migration,Movie,Thriller,English,2002,80,9.4,U,True,30.81
+1128,Reduced context-sensitive Graphic Interface,Series,Action,English,2009,824,5.6,U/A 13+,False,9.15
+1129,Integrated content-based capability,Movie,Action,English,2003,121,7.7,A,False,43.25
+1130,Down-sized multimedia ability,Movie,Comedy,Spanish,2023,95,8.8,U,True,66.29
+1131,Function-based incremental utilization,Movie,Romance,English,2000,139,7.1,U,True,49.76
+1132,Fully-configurable upward-trending frame,Movie,Action,English,1999,154,7.9,A,False,77.65
+1133,User-friendly asynchronous archive,Series,Romance,English,2016,420,5.5,U/A 13+,True,85.76
+1134,Managed interactive concept,Movie,Crime,English,1995,130,6.6,U,True,84.8
+1135,Extended web-enabled data-warehouse,Movie,Drama,English,2020,162,8.0,U/A 16+,True,17.82
+1136,Operative eco-centric Graphical User Interface,Movie,Drama,English,2019,132,6.6,U/A 16+,True,52.83
+1137,Public-key tertiary utilization,Movie,Comedy,Korean,2023,115,9.4,U,False,68.01
+1138,User-friendly zero-defect matrix,Movie,Thriller,Korean,2024,126,7.8,A,False,77.02
+1139,Compatible explicit leverage,Movie,Thriller,Hindi,2007,126,7.3,U/A 16+,False,45.38
+1140,Total maximized secured line,Movie,Thriller,English,1995,156,5.1,U,True,99.32
+1141,Customizable hybrid data-warehouse,Movie,Drama,French,2024,86,8.7,A,False,14.91
+1142,Total national standardization,Movie,Comedy,Japanese,2011,98,5.2,U/A 16+,True,90.58
+1143,Re-contextualized content-based structure,Movie,Thriller,French,1995,136,8.7,U,False,61.47
+1144,Innovative responsive support,Movie,Comedy,English,2000,149,6.8,U,False,83.87
+1145,Enterprise-wide stable Local Area Network,Movie,Romance,Spanish,1996,91,9.2,U,True,82.81
+1146,Implemented systematic Graphical User Interface,Series,Romance,Spanish,2017,1163,8.8,U,False,72.66
+1147,User-centric 5thgeneration archive,Series,Drama,Hindi,2025,1054,8.9,U/A 16+,True,19.56
+1148,Quality-focused explicit software,Movie,Action,English,2007,160,9.2,U/A 13+,True,38.44
+1149,Intuitive actuating approach,Movie,Sci-Fi,German,1999,126,6.5,A,True,36.07
+1150,Cross-group mobile standardization,Movie,Romance,English,2006,120,8.6,U,True,17.5
+1151,De-engineered uniform throughput,Series,Thriller,English,2023,567,8.7,U,False,90.47
+1152,Advanced multimedia secured line,Movie,Romance,English,1999,154,9.1,U/A 16+,True,69.85
+1153,Profit-focused modular concept,Series,Animation,English,2018,696,7.2,U/A 16+,False,42.19
+1154,Enhanced well-modulated adapter,Movie,Action,Japanese,2002,125,7.9,U/A 16+,True,95.92
+1155,Focused impactful capacity,Movie,Drama,English,2012,113,5.9,U/A 16+,False,39.57
+1156,Open-architected radical archive,Movie,Drama,English,2003,117,7.9,U/A 16+,True,43.21
+1157,Upgradable 3rdgeneration Internet solution,Series,Romance,French,2020,975,6.8,U,False,46.21
+1158,Switchable eco-centric conglomeration,Movie,Drama,English,2014,92,6.0,U/A 16+,False,92.84
+1159,Reverse-engineered empowering support,Movie,Thriller,Hindi,2021,105,9.3,U,False,76.05
+1160,Reduced attitude-oriented standardization,Movie,Action,Japanese,2013,98,8.3,A,True,32.35
+1161,Organic next generation capacity,Series,Action,English,2004,883,9.6,U/A 13+,False,78.16
+1162,Sharable context-sensitive capability,Movie,Drama,English,2011,155,9.5,A,True,15.53
+1163,Reduced bandwidth-monitored Graphic Interface,Movie,Thriller,French,1995,142,9.7,A,False,28.15
+1164,Implemented stable forecast,Movie,Thriller,French,2015,92,6.3,U/A 16+,False,29.9
+1165,Managed responsive Local Area Network,Series,Comedy,Spanish,2016,1073,7.5,A,True,14.62
+1166,Open-architected zero-defect installation,Movie,Action,French,2011,145,5.4,A,False,79.85
+1167,Visionary incremental parallelism,Series,Comedy,English,2025,1139,7.3,U/A 16+,False,31.93
+1168,Cross-group system-worthy matrices,Movie,Documentary,English,2024,115,7.2,A,False,77.3
+1169,Monitored object-oriented orchestration,Movie,Comedy,English,1995,127,6.5,A,True,91.3
+1170,Customizable bi-directional hierarchy,Movie,Action,English,2007,175,9.2,A,False,68.53
+1171,Upgradable homogeneous definition,Movie,Romance,Spanish,2006,106,8.2,U,True,54.55
+1172,Profit-focused asymmetric middleware,Movie,Comedy,English,1999,172,9.3,U/A 13+,True,29.37
+1173,Re-engineered systemic architecture,Movie,Drama,Spanish,2023,82,7.3,A,True,24.34
+1174,Compatible even-keeled utilization,Series,Romance,English,2004,319,8.6,U,False,18.41
+1175,Secured real-time implementation,Movie,Comedy,English,2018,177,6.5,A,True,95.51
+1176,Managed tertiary knowledge user,Series,Drama,Spanish,2008,1044,9.7,U/A 13+,True,6.66
+1177,Customer-focused bottom-line superstructure,Movie,Drama,Spanish,2018,176,5.2,A,False,72.32
+1178,Quality-focused solution-oriented encryption,Movie,Documentary,English,2001,150,5.1,A,True,37.6
+1179,Triple-buffered 5thgeneration pricing structure,Movie,Drama,French,2004,157,8.5,U/A 13+,False,87.53
+1180,User-centric multimedia contingency,Series,Crime,Hindi,2013,804,6.9,U,False,3.89
+1181,Optional solution-oriented policy,Movie,Thriller,Spanish,1999,88,7.3,A,False,13.68
+1182,Ameliorated mobile info-mediaries,Series,Crime,Spanish,2007,568,7.7,A,False,79.13
+1183,Extended background ability,Movie,Thriller,German,2005,157,7.3,U/A 16+,True,27.83
+1184,Function-based full-range methodology,Series,Action,English,2001,1139,9.5,A,True,46.57
+1185,Compatible fault-tolerant hardware,Movie,Drama,Japanese,1997,110,8.5,U/A 13+,True,98.23
+1186,Extended 4thgeneration attitude,Movie,Action,Japanese,2012,97,5.9,U/A 16+,True,64.3
+1187,Stand-alone mobile solution,Series,Drama,French,2019,839,6.3,U/A 16+,False,53.94
+1188,Fundamental leadingedge Graphic Interface,Series,Drama,Hindi,1997,993,7.9,U/A 16+,True,29.83
+1189,Managed static website,Movie,Drama,Hindi,2014,91,8.7,U,True,68.21
+1190,Triple-buffered system-worthy paradigm,Series,Sci-Fi,English,2009,516,8.3,U/A 16+,False,51.03
+1191,Expanded zero tolerance time-frame,Movie,Crime,English,2001,100,5.7,U,True,77.99
+1192,Profit-focused foreground hierarchy,Series,Action,English,1997,827,6.3,U,True,35.46
+1193,Polarized systematic hierarchy,Series,Comedy,English,2001,334,6.0,U/A 13+,True,65.13
+1194,Polarized didactic implementation,Series,Documentary,English,2010,924,5.6,U/A 16+,False,55.55
+1195,Exclusive human-resource moderator,Movie,Comedy,Hindi,2016,87,6.8,U/A 13+,True,92.92
+1196,Ergonomic asynchronous encoding,Series,Sci-Fi,English,2023,397,6.3,A,False,93.45
+1197,Phased value-added flexibility,Movie,Action,English,2008,132,6.7,U,True,1.76
+1198,Exclusive 4thgeneration implementation,Movie,Romance,English,2006,117,8.2,U/A 13+,False,8.71
+1199,Up-sized content-based paradigm,Movie,Action,Hindi,1995,107,9.6,U/A 13+,False,63.38
+1200,Persistent incremental benchmark,Movie,Thriller,Hindi,1997,95,8.5,U/A 13+,True,99.42
+1201,Seamless bifurcated open system,Movie,Documentary,English,2005,151,5.4,A,False,55.69
+1202,Re-engineered clear-thinking architecture,Series,Crime,English,2009,624,5.3,U/A 16+,False,80.22
+1203,Polarized 24/7 customer loyalty,Movie,Action,English,1999,163,7.0,U/A 16+,False,8.82
+1204,Virtual value-added instruction set,Movie,Drama,Spanish,2023,96,7.4,U,True,11.27
+1205,Monitored object-oriented Graphical User Interface,Movie,Sci-Fi,French,1996,139,7.1,A,False,15.14
+1206,Multi-tiered web-enabled frame,Series,Romance,German,2010,1110,5.2,A,True,8.15
+1207,Focused global contingency,Movie,Thriller,English,2013,154,6.4,U/A 13+,False,91.36
+1208,Secured modular middleware,Movie,Animation,Hindi,2019,173,8.4,A,False,70.5
+1209,Streamlined executive service-desk,Series,Action,English,2000,512,9.1,A,True,75.5
+1210,Multi-lateral empowering throughput,Movie,Sci-Fi,Hindi,2020,119,7.4,U,False,12.84
+1211,Enterprise-wide system-worthy secured line,Series,Thriller,Hindi,2000,967,8.8,U/A 13+,False,93.7
+1212,Fundamental encompassing project,Series,Action,German,2021,424,5.8,A,True,23.58
+1213,Cross-platform multimedia policy,Series,Romance,German,2010,1185,9.7,U/A 16+,False,57.27
+1214,Universal methodical ability,Movie,Action,French,2016,82,7.2,U/A 16+,False,13.06
+1215,Programmable foreground moderator,Movie,Romance,English,2001,124,5.2,U/A 16+,False,78.86
+1216,Profit-focused stable approach,Movie,Sci-Fi,English,1996,157,7.7,U,False,8.94
+1217,Innovative background monitoring,Movie,Crime,English,1995,161,7.4,U,False,36.55
+1218,Operative logistical hub,Movie,Drama,English,2006,146,8.8,U/A 16+,False,83.54
+1219,Optimized bandwidth-monitored function,Movie,Sci-Fi,Hindi,2011,144,5.2,A,False,12.62
+1220,Innovative real-time moderator,Series,Action,English,2008,534,5.7,U/A 13+,False,9.05
+1221,Networked asymmetric frame,Movie,Comedy,French,2012,89,7.7,U,False,73.93
+1222,Automated actuating solution,Movie,Sci-Fi,Spanish,2001,146,6.6,U/A 16+,False,73.77
+1223,Exclusive fault-tolerant protocol,Series,Animation,English,2008,733,6.7,A,False,92.25
+1224,Cross-platform 24/7 toolset,Movie,Romance,Japanese,2012,163,9.7,A,True,40.37
+1225,Networked dedicated moderator,Movie,Animation,English,2023,101,9.4,U/A 16+,True,25.94
+1226,Team-oriented mobile application,Movie,Thriller,Hindi,2012,124,5.5,U/A 16+,False,79.14
+1227,Optimized methodical budgetary management,Series,Romance,English,2016,591,7.8,U/A 16+,False,39.22
+1228,Self-enabling modular open system,Series,Romance,Japanese,2017,599,9.2,U/A 13+,False,42.14
+1229,Face-to-face optimizing implementation,Series,Fantasy,Hindi,2000,840,8.3,A,False,42.57
+1230,Persevering bottom-line attitude,Series,Thriller,English,2003,696,7.0,U/A 13+,True,62.62
+1231,Enterprise-wide secondary neural-net,Series,Comedy,French,2023,674,8.3,U/A 16+,True,91.42
+1232,Re-contextualized impactful ability,Movie,Thriller,English,2014,111,7.5,U/A 16+,False,95.22
+1233,Front-line intangible protocol,Movie,Comedy,English,2016,154,8.1,U/A 13+,True,52.52
+1234,Fundamental multimedia frame,Series,Comedy,English,2005,1007,5.5,U/A 13+,False,16.51
+1235,Balanced multi-tasking structure,Series,Action,English,2003,790,8.2,A,False,9.32
+1236,Operative hybrid implementation,Movie,Action,English,2015,83,5.4,U/A 16+,True,91.16
+1237,Enterprise-wide zero administration protocol,Movie,Thriller,English,2019,112,9.6,U,True,21.35
+1238,Open-architected methodical archive,Movie,Sci-Fi,English,2012,149,7.5,U,True,38.79
+1239,Mandatory 24/7 functionalities,Movie,Sci-Fi,Hindi,2024,140,5.0,A,False,60.92
+1240,Total mission-critical functionalities,Series,Action,English,2025,739,7.3,U/A 13+,True,10.92
+1241,Virtual attitude-oriented alliance,Movie,Comedy,English,1995,93,8.6,U/A 13+,False,95.55
+1242,Cloned 6thgeneration moratorium,Movie,Sci-Fi,English,2024,112,9.6,U,False,14.87
+1243,Virtual user-facing analyzer,Series,Action,English,2021,574,8.8,U/A 16+,True,96.65
+1244,Business-focused actuating approach,Movie,Fantasy,English,2020,137,9.7,U,True,28.32
+1245,Cloned tertiary implementation,Series,Drama,English,2004,250,6.9,U/A 16+,True,27.8
+1246,Open-architected global application,Movie,Fantasy,Japanese,1997,161,5.2,U,True,67.35
+1247,Reverse-engineered transitional capability,Movie,Action,English,2002,164,7.2,U,False,7.08
+1248,Switchable hybrid contingency,Movie,Documentary,Spanish,2016,147,5.4,A,False,24.18
+1249,Adaptive demand-driven service-desk,Movie,Documentary,English,2018,176,9.6,U/A 16+,True,97.19
+1250,Open-architected leadingedge methodology,Movie,Thriller,Hindi,2004,172,7.2,U/A 13+,True,98.36
+1251,Intuitive needs-based analyzer,Series,Crime,French,2020,598,7.4,U/A 16+,True,2.13
+1252,Reduced bandwidth-monitored leverage,Series,Drama,English,2023,1104,5.9,A,False,48.45
+1253,Synchronized value-added solution,Movie,Drama,English,2012,149,7.5,U/A 13+,False,79.68
+1254,Face-to-face background challenge,Movie,Drama,Hindi,2007,107,7.7,U/A 16+,True,98.68
+1255,Intuitive reciprocal circuit,Movie,Sci-Fi,English,2019,91,7.7,A,True,69.32
+1256,Open-architected secondary Graphic Interface,Movie,Drama,French,2021,158,9.2,U/A 13+,False,35.98
+1257,Optimized dedicated challenge,Movie,Drama,Hindi,2022,169,7.3,U/A 13+,True,71.3
+1258,Automated mission-critical parallelism,Movie,Romance,Spanish,2007,95,9.0,U/A 13+,True,71.19
+1259,Centralized composite software,Movie,Action,Hindi,2011,167,5.5,U/A 16+,True,46.85
+1260,Stand-alone multi-state model,Series,Thriller,French,2021,565,7.0,U/A 16+,True,69.3
+1261,Persistent 4thgeneration service-desk,Movie,Drama,English,2012,105,9.3,U,False,29.97
+1262,Pre-emptive national info-mediaries,Movie,Crime,English,2004,140,6.8,U/A 13+,False,25.96
+1263,Persevering explicit data-warehouse,Movie,Sci-Fi,French,2025,163,7.6,U/A 13+,True,42.06
+1264,Fundamental intangible intranet,Movie,Drama,English,2017,133,8.1,U/A 13+,True,37.35
+1265,Reactive human-resource productivity,Movie,Comedy,Hindi,1996,138,7.2,U/A 16+,True,78.03
+1266,Public-key next generation access,Movie,Action,French,2025,92,5.6,A,True,43.56
+1267,Vision-oriented next generation infrastructure,Movie,Action,German,1999,141,9.1,U/A 16+,False,15.63
+1268,Future-proofed value-added frame,Series,Documentary,Hindi,1998,662,6.9,U/A 13+,True,94.15
+1269,Visionary high-level hierarchy,Movie,Drama,Hindi,2000,149,9.7,A,True,91.99
+1270,Automated even-keeled policy,Movie,Romance,French,2003,126,6.3,A,True,14.45
+1271,Fundamental bi-directional flexibility,Movie,Action,English,2019,145,7.1,U,True,57.37
+1272,Devolved homogeneous analyzer,Movie,Drama,Korean,1997,162,6.7,U/A 13+,False,97.64
+1273,Re-engineered empowering model,Movie,Drama,English,2025,147,9.5,A,False,69.94
+1274,Progressive logistical knowledgebase,Series,Drama,Hindi,2008,632,8.7,A,False,68.64
+1275,Enhanced upward-trending interface,Movie,Drama,Hindi,2015,113,6.8,U/A 16+,True,79.65
+1276,Vision-oriented maximized extranet,Movie,Comedy,Hindi,1997,175,8.5,U/A 13+,True,28.12
+1277,Automated multi-tasking Internet solution,Series,Fantasy,English,2010,348,6.6,U/A 13+,False,27.63
+1278,Advanced fresh-thinking concept,Movie,Romance,Hindi,2012,136,9.7,U/A 16+,True,57.26
+1279,Multi-tiered coherent benchmark,Movie,Fantasy,French,2024,134,6.9,A,True,30.32
+1280,Devolved logistical task-force,Movie,Documentary,Spanish,2020,129,7.4,A,True,48.31
+1281,Multi-lateral didactic focus group,Movie,Action,English,2004,109,5.6,U,True,14.35
+1282,Synchronized disintermediate hierarchy,Movie,Comedy,English,2018,159,8.8,U/A 13+,True,10.44
+1283,Stand-alone demand-driven utilization,Series,Sci-Fi,Korean,1995,1189,8.9,U/A 13+,True,87.76
+1284,Stand-alone fault-tolerant archive,Movie,Crime,English,1999,134,5.7,U/A 16+,True,84.1
+1285,Balanced value-added product,Series,Drama,Hindi,2007,862,9.2,A,False,90.16
+1286,Polarized intangible toolset,Series,Drama,English,2025,909,6.2,U/A 13+,False,77.64
+1287,Cloned global Internet solution,Movie,Crime,Korean,2010,80,5.9,U,False,49.85
+1288,Optional 24hour functionalities,Movie,Comedy,English,2003,155,7.4,U/A 13+,True,5.78
+1289,De-engineered global toolset,Movie,Thriller,English,2011,104,9.5,U/A 16+,False,46.97
+1290,Integrated zero-defect hub,Series,Action,English,2025,1161,5.6,A,False,65.51
+1291,Multi-layered static Graphical User Interface,Movie,Crime,Spanish,2006,112,6.7,U/A 16+,True,67.72
+1292,Seamless value-added implementation,Series,Animation,English,1996,894,8.2,U/A 16+,True,92.09
+1293,Pre-emptive composite algorithm,Movie,Documentary,Spanish,1999,126,8.9,U/A 16+,True,16.22
+1294,Future-proofed maximized framework,Movie,Drama,French,2002,160,5.9,U/A 16+,False,16.81
+1295,Distributed 5thgeneration implementation,Movie,Documentary,English,1997,114,7.1,U,True,91.22
+1296,Universal actuating interface,Series,Romance,English,2022,1027,6.4,U/A 13+,True,39.68
+1297,Seamless composite capacity,Series,Documentary,French,2015,975,6.4,U/A 13+,False,21.93
+1298,Seamless intermediate firmware,Movie,Action,English,2012,102,6.6,U/A 13+,True,31.75
+1299,Virtual grid-enabled conglomeration,Movie,Thriller,Japanese,2003,144,8.0,U/A 16+,False,52.1
+1300,Persevering multi-tasking extranet,Series,Action,English,2019,466,8.9,A,True,83.09
+1301,Right-sized upward-trending productivity,Movie,Fantasy,English,2007,140,9.5,A,False,24.32
+1302,Pre-emptive asymmetric artificial intelligence,Movie,Action,English,1996,97,6.9,U/A 13+,True,16.08
+1303,Optional background Graphical User Interface,Movie,Thriller,Spanish,2012,130,6.6,U/A 13+,False,87.66
+1304,Switchable 24/7 functionalities,Movie,Documentary,French,1996,83,6.1,U/A 16+,True,2.59
+1305,Robust tangible data-warehouse,Movie,Documentary,Hindi,1999,134,6.4,U/A 13+,False,22.46
+1306,Distributed web-enabled Local Area Network,Movie,Action,English,2020,154,7.8,U,False,41.51
+1307,Synergized bi-directional service-desk,Movie,Drama,Japanese,2017,138,6.1,A,True,63.45
+1308,Streamlined radical secured line,Series,Drama,Hindi,2018,1030,9.7,U/A 13+,True,29.84
+1309,Multi-tiered fault-tolerant paradigm,Movie,Sci-Fi,Spanish,2010,144,7.2,A,True,41.72
+1310,Universal actuating emulation,Series,Romance,Korean,2004,646,7.0,A,False,9.65
+1311,Advanced asynchronous structure,Movie,Comedy,German,1999,169,8.7,U/A 16+,False,29.35
+1312,Business-focused secondary instruction set,Series,Comedy,Hindi,2009,877,6.1,U,True,49.84
+1313,Intuitive impactful neural-net,Movie,Documentary,English,2014,141,6.3,U,True,99.99
+1314,Assimilated real-time middleware,Movie,Documentary,Spanish,1996,99,5.5,A,False,57.41
+1315,Polarized tertiary hierarchy,Series,Drama,Japanese,2008,716,9.6,U,True,71.2
+1316,Persevering exuding attitude,Movie,Documentary,English,2008,165,6.8,U/A 16+,False,18.41
+1317,Vision-oriented holistic encoding,Movie,Romance,English,2010,162,6.0,A,False,73.36
+1318,Fully-configurable directional capability,Movie,Fantasy,Spanish,2002,84,8.8,U/A 13+,False,39.64
+1319,Business-focused 4thgeneration policy,Movie,Action,Korean,2006,126,6.1,A,True,34.57
+1320,Front-line actuating function,Movie,Documentary,English,2025,101,6.6,A,True,53.45
+1321,Implemented radical definition,Movie,Romance,English,2009,81,5.1,U/A 13+,False,58.77
+1322,Managed dynamic hub,Movie,Action,English,2024,171,5.1,U,False,50.13
+1323,Enhanced 24hour orchestration,Movie,Romance,German,2011,170,8.0,U,False,27.79
+1324,Distributed directional budgetary management,Movie,Animation,English,2004,87,9.7,A,True,48.76
+1325,Seamless next generation intranet,Movie,Comedy,German,2020,170,8.3,A,True,28.39
+1326,Re-engineered object-oriented secured line,Movie,Documentary,English,1997,99,8.9,A,True,13.3
+1327,Adaptive well-modulated alliance,Movie,Romance,German,2016,121,8.0,A,False,56.65
+1328,Proactive directional customer loyalty,Series,Animation,French,2009,817,9.5,U/A 13+,False,49.18
+1329,Seamless zero-defect structure,Movie,Action,English,2016,169,7.9,U,True,7.56
+1330,Intuitive exuding framework,Movie,Romance,Hindi,2020,138,5.6,U/A 16+,False,52.0
+1331,Focused global policy,Movie,Thriller,English,2013,115,6.2,A,True,32.69
+1332,Multi-channeled homogeneous customer loyalty,Movie,Comedy,Japanese,2000,133,9.7,U/A 13+,False,92.49
+1333,Self-enabling stable software,Series,Romance,English,2022,1068,5.5,U/A 16+,False,41.52
+1334,Profound bottom-line infrastructure,Movie,Romance,Korean,2003,163,7.6,U/A 16+,True,99.08
+1335,Digitized needs-based help-desk,Movie,Comedy,English,2002,132,5.3,U/A 13+,True,83.35
+1336,Proactive 24/7 parallelism,Movie,Animation,English,2006,180,7.5,U,False,64.83
+1337,Visionary mobile protocol,Movie,Drama,English,2021,142,7.6,A,True,62.59
+1338,Open-source bottom-line productivity,Movie,Comedy,Spanish,2019,83,5.1,A,True,96.15
+1339,User-centric background interface,Movie,Sci-Fi,English,2025,124,5.5,A,True,5.8
+1340,Visionary encompassing concept,Series,Action,English,2008,368,9.6,U/A 13+,False,24.96
+1341,Reduced tangible structure,Movie,Romance,Hindi,2017,92,5.0,U,False,43.61
+1342,Versatile demand-driven customer loyalty,Movie,Action,Korean,2012,178,5.9,A,False,33.42
+1343,Enterprise-wide web-enabled encoding,Movie,Drama,German,2011,102,9.0,U,True,91.31
+1344,Multi-channeled clear-thinking middleware,Series,Drama,English,2011,645,5.0,A,True,92.94
+1345,Optional zero-defect orchestration,Movie,Documentary,Hindi,2009,103,6.0,U,True,18.1
+1346,Networked transitional success,Movie,Comedy,Japanese,2001,90,8.8,U/A 13+,True,60.92
+1347,Configurable motivating concept,Series,Drama,Spanish,2009,532,9.0,U/A 16+,True,14.19
+1348,Assimilated system-worthy superstructure,Movie,Fantasy,English,2005,169,5.5,U/A 16+,False,35.9
+1349,Operative zero administration system engine,Movie,Animation,English,2019,122,5.1,U,False,10.67
+1350,Visionary disintermediate framework,Movie,Romance,English,2015,114,7.9,U/A 13+,False,37.53
+1351,Visionary secondary Internet solution,Movie,Fantasy,English,1996,83,5.9,U,True,41.1
+1352,Balanced explicit pricing structure,Movie,Drama,Hindi,2016,173,7.3,U/A 13+,True,54.78
+1353,Right-sized 24hour database,Series,Fantasy,English,2016,1026,8.3,A,True,37.82
+1354,Horizontal stable matrix,Series,Sci-Fi,Korean,2015,861,6.4,U/A 16+,False,66.65
+1355,Focused multi-tasking algorithm,Movie,Sci-Fi,Spanish,2022,127,8.8,U/A 13+,True,6.63
+1356,Exclusive 24/7 solution,Movie,Action,English,2001,177,5.3,U,False,84.6
+1357,Enterprise-wide object-oriented system engine,Movie,Crime,Spanish,2006,102,6.8,A,True,8.51
+1358,Automated global toolset,Series,Action,English,2022,405,8.1,U/A 16+,False,69.18
+1359,Cross-group zero administration projection,Movie,Action,English,2009,88,6.1,U/A 16+,False,99.04
+1360,Exclusive local hub,Movie,Comedy,English,2011,86,8.5,U/A 13+,True,30.54
+1361,Down-sized local access,Series,Action,Spanish,2003,1073,6.9,A,False,44.16
+1362,Innovative reciprocal framework,Movie,Sci-Fi,English,2002,94,8.6,U/A 13+,True,16.56
+1363,Multi-channeled intermediate initiative,Movie,Action,Japanese,2008,140,9.2,U,False,92.03
+1364,Right-sized cohesive extranet,Movie,Action,Japanese,2012,168,6.8,A,False,53.5
+1365,Implemented optimal concept,Series,Drama,German,2000,654,7.2,U/A 13+,True,85.33
+1366,Monitored homogeneous database,Movie,Drama,Korean,2004,138,5.8,U,True,69.93
+1367,Right-sized explicit projection,Movie,Romance,English,1999,170,5.3,U/A 16+,False,27.24
+1368,Distributed object-oriented solution,Series,Action,Hindi,2000,432,8.7,U,False,52.07
+1369,User-friendly zero tolerance array,Movie,Crime,French,2011,158,9.3,U/A 16+,True,39.8
+1370,Stand-alone disintermediate encryption,Movie,Action,Hindi,2022,111,6.4,U,False,88.11
+1371,Multi-channeled optimizing system engine,Movie,Action,English,2024,145,8.1,A,False,89.77
+1372,Seamless solution-oriented artificial intelligence,Movie,Drama,English,2010,123,5.9,A,False,21.55
+1373,Inverse real-time system engine,Movie,Comedy,English,2022,162,5.5,A,False,12.3
+1374,Networked reciprocal function,Movie,Drama,English,2024,115,7.4,U,True,8.59
+1375,Object-based needs-based website,Movie,Comedy,English,2001,149,9.0,U,False,8.33
+1376,Realigned dedicated concept,Movie,Crime,Hindi,2016,82,8.5,U,False,88.07
+1377,Total uniform workforce,Movie,Comedy,English,2021,81,9.4,A,True,66.07
+1378,Devolved actuating solution,Movie,Documentary,English,2019,146,5.0,U/A 13+,True,30.99
+1379,Multi-layered zero-defect function,Movie,Drama,Hindi,2024,169,8.7,U/A 13+,True,91.46
+1380,Integrated responsive projection,Movie,Fantasy,Spanish,2014,113,5.0,U/A 13+,False,23.33
+1381,Decentralized neutral open system,Series,Comedy,Hindi,2005,964,9.4,U,False,79.84
+1382,Open-architected human-resource frame,Movie,Fantasy,Japanese,1998,119,6.5,U/A 13+,False,65.28
+1383,Advanced intangible approach,Movie,Fantasy,English,2012,166,9.7,U/A 16+,False,94.38
+1384,Assimilated tangible hardware,Movie,Action,Hindi,2005,87,6.3,U,False,52.46
+1385,Seamless content-based protocol,Movie,Sci-Fi,English,1995,123,8.7,A,False,14.35
+1386,Function-based discrete process improvement,Movie,Crime,English,1996,96,5.4,A,True,5.9
+1387,Customizable explicit knowledgebase,Movie,Romance,German,2005,96,7.5,U/A 16+,False,92.85
+1388,Triple-buffered asynchronous synergy,Series,Sci-Fi,English,2007,1074,6.9,U/A 16+,True,93.45
+1389,Networked coherent application,Movie,Fantasy,English,1995,92,8.6,U,False,66.9
+1390,Implemented high-level attitude,Movie,Sci-Fi,Japanese,2025,115,7.9,U/A 13+,False,42.28
+1391,Distributed incremental neural-net,Series,Drama,Korean,2019,1137,6.7,U/A 13+,True,72.23
+1392,Enterprise-wide context-sensitive implementation,Series,Action,Hindi,2009,706,6.9,U,True,92.45
+1393,Synergistic hybrid pricing structure,Movie,Romance,French,2001,123,7.4,U/A 13+,True,88.66
+1394,Pre-emptive bottom-line hierarchy,Series,Fantasy,French,2014,944,7.2,U,False,66.41
+1395,Fully-configurable encompassing alliance,Movie,Action,English,1995,102,6.8,U,False,41.47
+1396,De-engineered analyzing complexity,Series,Animation,German,2007,549,7.2,U/A 16+,False,64.87
+1397,Persistent human-resource monitoring,Movie,Action,Hindi,2017,113,8.7,U,True,64.42
+1398,Universal fresh-thinking flexibility,Movie,Comedy,Korean,2024,132,6.4,A,True,11.79
+1399,Digitized zero tolerance product,Movie,Romance,English,1999,126,9.4,U/A 16+,True,7.68
+1400,Organized responsive analyzer,Movie,Fantasy,English,2016,169,9.7,A,True,67.45
+1401,Versatile human-resource website,Movie,Thriller,English,2017,129,9.0,U/A 16+,False,92.18
+1402,Team-oriented encompassing capacity,Series,Action,Hindi,1999,291,7.7,U/A 16+,True,10.54
+1403,Persevering intangible installation,Series,Crime,English,2022,553,6.2,U/A 16+,False,61.54
+1404,Seamless bi-directional portal,Movie,Comedy,Japanese,2022,172,6.6,U/A 13+,False,84.27
+1405,Managed well-modulated flexibility,Movie,Romance,Spanish,2015,153,5.4,U,False,16.68
+1406,Customizable coherent monitoring,Movie,Documentary,French,2022,94,6.0,U/A 16+,True,66.2
+1407,Reverse-engineered eco-centric productivity,Movie,Romance,English,1998,131,8.2,U/A 13+,False,14.93
+1408,Vision-oriented 3rdgeneration open architecture,Movie,Sci-Fi,English,2009,172,8.2,U,True,23.68
+1409,Balanced scalable focus group,Movie,Thriller,Hindi,2004,144,8.8,U/A 16+,False,21.76
+1410,Switchable zero administration help-desk,Series,Sci-Fi,Korean,1995,983,5.6,U,False,11.82
+1411,Assimilated well-modulated task-force,Movie,Comedy,English,2022,144,8.1,U/A 13+,False,96.3
+1412,Adaptive intermediate alliance,Movie,Action,Hindi,2005,102,7.9,A,True,60.16
+1413,Vision-oriented systematic standardization,Movie,Drama,Korean,1997,162,9.2,U/A 13+,False,74.74
+1414,Inverse intangible time-frame,Movie,Sci-Fi,Japanese,1999,118,8.6,U,False,39.72
+1415,Down-sized composite capacity,Series,Documentary,English,2013,719,7.6,A,False,12.85
+1416,Persevering system-worthy website,Movie,Romance,German,2024,126,8.1,U/A 16+,True,92.15
+1417,Implemented transitional budgetary management,Series,Thriller,English,2013,970,7.7,A,False,92.55
+1418,Innovative grid-enabled analyzer,Movie,Romance,English,2006,107,7.8,U/A 16+,True,91.63
+1419,Centralized 4thgeneration solution,Series,Romance,Japanese,2002,1151,7.6,U/A 16+,True,54.24
+1420,Inverse solution-oriented alliance,Movie,Documentary,Hindi,2022,92,8.5,U,True,35.01
+1421,Persevering 3rdgeneration forecast,Movie,Drama,English,2012,85,6.0,U/A 13+,False,99.63
+1422,Upgradable executive intranet,Movie,Romance,French,2004,150,7.5,A,True,75.9
+1423,Digitized web-enabled success,Movie,Documentary,English,2000,147,9.2,U/A 13+,False,55.24
+1424,Self-enabling mission-critical attitude,Series,Crime,Spanish,2019,722,8.6,U/A 16+,True,68.07
+1425,Customizable clear-thinking budgetary management,Movie,Romance,Korean,2025,132,9.4,A,True,91.06
+1426,Optional heuristic hierarchy,Movie,Romance,Japanese,2006,142,9.5,U/A 13+,True,2.3
+1427,Intuitive well-modulated info-mediaries,Movie,Action,English,2022,90,7.0,A,True,23.89
+1428,Open-source bandwidth-monitored time-frame,Movie,Thriller,Hindi,2006,83,6.5,U,True,9.27
+1429,Streamlined upward-trending strategy,Movie,Animation,English,1997,151,9.5,A,True,1.51
+1430,Exclusive incremental implementation,Movie,Drama,Hindi,1997,109,8.6,U/A 13+,True,17.38
+1431,Adaptive analyzing framework,Series,Drama,German,2007,406,6.9,U/A 16+,False,18.58
+1432,Customizable holistic info-mediaries,Movie,Sci-Fi,Hindi,1997,113,5.5,U/A 16+,False,78.0
+1433,Switchable incremental data-warehouse,Movie,Action,English,2012,126,5.6,U/A 16+,False,39.27
+1434,Reverse-engineered reciprocal intranet,Movie,Drama,English,1995,177,5.1,U/A 16+,False,77.18
+1435,Right-sized well-modulated alliance,Movie,Romance,French,2021,83,5.5,A,False,13.46
+1436,Intuitive responsive parallelism,Movie,Romance,Hindi,2021,90,7.3,U,False,95.14
+1437,Optional full-range matrices,Movie,Comedy,English,2020,83,9.1,U/A 16+,True,83.92
+1438,Configurable 24hour initiative,Series,Romance,Hindi,2001,1147,8.6,A,True,97.61
+1439,Customer-focused system-worthy website,Movie,Comedy,French,2006,137,9.0,U,False,99.9
+1440,Assimilated value-added instruction set,Movie,Action,English,2011,146,6.0,U,False,14.76
+1441,Up-sized bandwidth-monitored monitoring,Movie,Drama,Hindi,2023,141,5.2,A,True,72.24
+1442,Fundamental content-based secured line,Series,Drama,Spanish,2015,279,8.8,U/A 16+,True,91.49
+1443,Re-engineered coherent Graphical User Interface,Movie,Thriller,English,2022,114,5.2,U,False,9.26
+1444,Down-sized motivating system engine,Movie,Drama,German,2006,152,8.8,U/A 13+,True,59.77
+1445,Team-oriented hybrid knowledgebase,Series,Drama,English,2020,938,6.1,U/A 16+,True,30.65
+1446,Balanced eco-centric open system,Movie,Animation,Hindi,2025,156,8.8,U/A 16+,True,4.19
+1447,Focused demand-driven moratorium,Series,Documentary,English,2013,376,6.9,U/A 13+,False,41.99
+1448,Monitored context-sensitive artificial intelligence,Series,Romance,English,2017,1199,8.9,U/A 16+,False,40.64
+1449,Future-proofed hybrid throughput,Movie,Action,English,2015,133,7.9,A,False,46.39
+1450,Multi-channeled asynchronous secured line,Movie,Action,Hindi,2009,107,9.3,U,True,53.16
+1451,Switchable multi-state productivity,Movie,Drama,Hindi,2018,102,8.4,U,False,47.23
+1452,Intuitive heuristic support,Movie,Thriller,English,2012,171,9.4,U/A 13+,True,52.14
+1453,Synchronized needs-based software,Series,Action,English,2014,1028,7.0,U,True,8.9
+1454,Customizable coherent groupware,Movie,Action,English,2004,151,5.6,U/A 13+,True,92.59
+1455,Expanded exuding access,Movie,Crime,Korean,2002,85,9.6,U/A 13+,True,68.92
+1456,Phased zero-defect approach,Movie,Drama,Hindi,2011,129,9.5,U/A 16+,False,73.87
+1457,Operative radical customer loyalty,Series,Sci-Fi,Hindi,2005,271,9.8,A,False,5.27
+1458,Progressive intermediate budgetary management,Series,Sci-Fi,French,2002,627,7.7,U/A 13+,False,87.52
+1459,Function-based hybrid firmware,Series,Action,German,2014,716,6.8,U/A 16+,False,85.52
+1460,Innovative hybrid paradigm,Movie,Sci-Fi,English,1999,98,6.3,U/A 13+,False,81.8
+1461,Digitized methodical parallelism,Movie,Action,Hindi,2012,153,5.6,U/A 13+,False,15.42
+1462,Total maximized installation,Movie,Drama,French,2019,147,5.5,A,False,68.98
+1463,User-centric scalable open system,Movie,Fantasy,Hindi,2018,101,8.3,U,True,37.74
+1464,Focused global parallelism,Series,Action,Spanish,2022,696,9.6,A,False,88.81
+1465,User-friendly tertiary implementation,Movie,Drama,English,2017,170,5.7,U/A 16+,False,16.94
+1466,Implemented context-sensitive budgetary management,Movie,Action,French,1995,80,9.7,U/A 13+,False,17.29
+1467,Face-to-face grid-enabled neural-net,Movie,Action,Spanish,2013,144,5.2,U/A 16+,False,22.85
+1468,Synergized attitude-oriented matrices,Movie,Fantasy,Spanish,2019,137,6.9,U/A 16+,True,37.97
+1469,Assimilated optimizing capacity,Movie,Documentary,Hindi,2011,180,9.3,U/A 13+,True,37.94
+1470,Right-sized discrete Local Area Network,Movie,Thriller,Hindi,2007,94,6.8,A,False,29.84
+1471,Function-based user-facing encryption,Series,Action,English,2005,315,6.7,A,False,2.61
+1472,Future-proofed coherent success,Movie,Romance,Korean,2022,162,9.2,U/A 13+,True,19.01
+1473,Secured stable product,Series,Animation,English,2002,332,9.6,U,False,20.32
+1474,Fundamental intangible intranet,Movie,Action,English,1995,165,6.0,U,False,67.1
+1475,Multi-layered real-time infrastructure,Series,Documentary,Spanish,1995,489,6.1,U/A 13+,True,26.24
+1476,Multi-tiered real-time capability,Movie,Romance,English,2000,178,7.3,U/A 16+,True,37.94
+1477,Operative asynchronous array,Movie,Drama,English,2010,137,9.4,U/A 16+,True,83.76
+1478,Cross-group zero tolerance Graphic Interface,Movie,Action,Korean,1997,127,8.8,A,False,56.37
+1479,User-friendly systemic toolset,Movie,Romance,English,2020,125,8.4,A,True,98.48
+1480,Centralized clear-thinking Local Area Network,Movie,Action,English,1999,120,8.1,U,False,26.96
+1481,Team-oriented exuding Graphical User Interface,Series,Romance,German,2011,1037,7.9,U/A 16+,True,32.63
+1482,Function-based homogeneous system engine,Movie,Fantasy,English,2012,145,6.3,U,True,37.08
+1483,Expanded bifurcated solution,Series,Romance,English,2025,575,6.5,A,True,4.99
+1484,Advanced fault-tolerant framework,Series,Thriller,Spanish,2021,774,6.6,U/A 16+,True,50.79
+1485,Re-engineered non-volatile help-desk,Movie,Romance,English,2016,97,8.1,U/A 16+,True,33.85
+1486,Automated bottom-line system engine,Movie,Romance,German,2013,126,7.2,U/A 13+,False,91.46
+1487,Implemented systemic circuit,Series,Thriller,Hindi,2013,398,8.3,A,True,40.26
+1488,Managed human-resource intranet,Movie,Drama,English,2022,119,8.5,U/A 13+,True,76.36
+1489,Extended radical parallelism,Series,Comedy,English,2007,784,6.1,U/A 16+,True,68.6
+1490,Vision-oriented local support,Series,Fantasy,English,2002,886,9.3,U/A 16+,True,15.97
+1491,Organic composite knowledgebase,Movie,Sci-Fi,Hindi,2007,122,7.5,A,True,33.1
+1492,Self-enabling secondary project,Movie,Romance,Hindi,2021,141,8.5,A,True,22.44
+1493,Enhanced regional strategy,Series,Fantasy,Japanese,2016,745,8.8,U,False,60.23
+1494,Quality-focused encompassing process improvement,Movie,Action,Spanish,2025,124,7.0,U/A 13+,True,65.11
+1495,User-friendly composite ability,Movie,Drama,German,2001,139,9.6,U/A 16+,True,54.1
+1496,Upgradable stable customer loyalty,Movie,Action,Spanish,2012,117,8.0,U/A 13+,False,66.03
+1497,Phased clear-thinking knowledge user,Series,Drama,English,2005,460,6.9,U,True,46.86
+1498,Grass-roots cohesive focus group,Movie,Comedy,English,2014,113,9.3,U/A 16+,False,79.72
+1499,Total cohesive solution,Movie,Action,Spanish,1999,159,7.5,A,True,64.41
+1500,Stand-alone executive knowledge user,Movie,Documentary,French,2023,167,7.4,U,True,88.34
+1501,Open-architected systemic circuit,Movie,Comedy,Korean,2013,82,8.5,U,True,23.8
+1502,Organic full-range moderator,Series,Action,English,1996,441,7.6,U/A 13+,True,78.05
+1503,Assimilated optimal open architecture,Movie,Animation,English,2017,162,7.7,A,True,78.78
+1504,Programmable discrete archive,Movie,Romance,English,2016,170,5.7,A,False,98.55
+1505,Ergonomic executive utilization,Movie,Sci-Fi,English,1996,87,7.0,U/A 13+,False,91.09
+1506,Face-to-face intangible complexity,Movie,Documentary,Hindi,1999,103,8.5,U/A 13+,True,47.85
+1507,Networked even-keeled alliance,Movie,Documentary,English,2001,142,7.3,U,True,17.23
+1508,Advanced heuristic methodology,Series,Sci-Fi,English,2001,540,6.2,U/A 16+,True,20.42
+1509,Adaptive bi-directional parallelism,Series,Thriller,English,2004,546,9.2,A,True,6.48
+1510,Fundamental intangible forecast,Movie,Comedy,English,2011,167,7.0,U,True,87.84
+1511,Automated radical hub,Movie,Drama,Hindi,2023,101,6.4,A,True,21.02
+1512,Persevering exuding paradigm,Movie,Action,Hindi,2000,168,9.2,U,False,33.47
+1513,Operative client-server neural-net,Movie,Drama,English,2016,137,8.9,A,True,96.09
+1514,Streamlined 5thgeneration secured line,Movie,Drama,English,2016,139,8.3,U,False,49.95
+1515,Digitized interactive parallelism,Series,Drama,Spanish,2000,466,9.5,U/A 13+,True,34.81
+1516,Synchronized tangible implementation,Movie,Thriller,English,2009,98,5.1,U/A 13+,True,30.85
+1517,Future-proofed well-modulated leverage,Movie,Action,English,2013,154,6.2,U,False,50.24
+1518,Extended mission-critical protocol,Movie,Thriller,Hindi,2011,144,6.2,U/A 16+,False,53.13
+1519,Enterprise-wide demand-driven leverage,Movie,Documentary,English,2024,92,9.5,U/A 13+,True,82.04
+1520,Pre-emptive zero tolerance parallelism,Movie,Romance,English,1996,161,6.7,U,True,92.55
+1521,Stand-alone asynchronous challenge,Movie,Action,English,2024,80,8.3,U/A 13+,True,11.27
+1522,Virtual analyzing budgetary management,Movie,Comedy,English,2019,155,9.5,U/A 13+,True,30.94
+1523,Multi-lateral dedicated neural-net,Movie,Comedy,Hindi,2004,129,8.4,U/A 16+,True,38.37
+1524,Vision-oriented coherent conglomeration,Series,Action,Japanese,2013,1088,7.1,U,False,7.74
+1525,Digitized incremental framework,Movie,Action,Hindi,2019,130,8.8,U,False,46.29
+1526,Down-sized full-range knowledgebase,Movie,Sci-Fi,English,1996,126,7.9,U,True,1.52
+1527,Multi-lateral optimizing product,Movie,Romance,Korean,2018,151,6.1,A,True,85.45
+1528,Optional 4thgeneration forecast,Series,Action,Korean,2019,543,7.1,A,False,68.03
+1529,Expanded 5thgeneration service-desk,Movie,Romance,English,2025,138,8.1,U/A 13+,True,12.05
+1530,Devolved dedicated migration,Movie,Thriller,English,2022,89,5.6,U/A 13+,True,14.41
+1531,Cross-platform client-driven intranet,Movie,Action,Japanese,1996,135,5.6,U,False,30.4
+1532,Optional 24/7 contingency,Movie,Drama,Hindi,2003,135,6.9,A,True,30.83
+1533,Cloned maximized architecture,Movie,Action,English,1998,119,8.4,U/A 13+,True,40.14
+1534,Re-engineered even-keeled parallelism,Movie,Thriller,Hindi,1998,164,5.9,A,True,96.91
+1535,Stand-alone static process improvement,Movie,Animation,English,2022,82,7.2,U/A 13+,True,72.1
+1536,Advanced systematic focus group,Series,Documentary,Japanese,2013,1081,7.0,U/A 16+,False,13.48
+1537,Total client-driven analyzer,Series,Comedy,French,2000,252,5.8,U/A 13+,True,75.37
+1538,Vision-oriented context-sensitive focus group,Movie,Action,Hindi,2024,180,8.1,A,True,77.73
+1539,Adaptive foreground monitoring,Series,Crime,Hindi,2018,556,5.9,U/A 13+,True,49.89
+1540,Organized coherent Local Area Network,Movie,Drama,French,1998,99,6.7,U/A 13+,True,80.59
+1541,Synergized 24/7 help-desk,Movie,Thriller,Korean,2020,153,7.8,A,True,17.02
+1542,Synergistic web-enabled superstructure,Movie,Comedy,Korean,2004,125,5.3,U,True,35.72
+1543,Pre-emptive incremental neural-net,Movie,Romance,English,2013,106,9.5,A,False,55.76
+1544,Upgradable mission-critical approach,Series,Animation,English,2021,595,9.3,A,True,69.7
+1545,Distributed upward-trending leverage,Movie,Drama,Spanish,2015,169,7.5,A,False,12.24
+1546,Cross-group methodical synergy,Movie,Documentary,Hindi,1999,103,7.6,A,True,63.25
+1547,Cross-group 3rdgeneration support,Series,Romance,Hindi,2022,633,9.7,U,False,43.32
+1548,Stand-alone leadingedge matrices,Movie,Comedy,French,2021,172,9.4,U,True,76.89
+1549,Streamlined well-modulated knowledge user,Movie,Comedy,English,2003,179,6.5,U/A 13+,True,7.27
+1550,Cross-platform client-driven project,Series,Animation,Japanese,2008,515,5.8,U,False,18.09
+1551,Future-proofed 24hour productivity,Series,Fantasy,English,1998,424,7.8,U,False,20.75
+1552,Function-based directional help-desk,Movie,Romance,Hindi,2015,154,7.8,U,False,25.36
+1553,Stand-alone analyzing forecast,Movie,Fantasy,English,2011,100,8.0,U/A 13+,True,70.75
+1554,Assimilated needs-based intranet,Movie,Drama,Japanese,2023,92,5.6,U/A 13+,True,48.23
+1555,Exclusive mission-critical synergy,Movie,Drama,English,2011,143,9.2,U/A 16+,False,54.61
+1556,Total directional monitoring,Movie,Drama,English,2017,148,9.1,A,True,36.88
+1557,Exclusive leadingedge focus group,Movie,Thriller,German,2020,178,9.5,U/A 16+,True,38.84
+1558,Horizontal next generation concept,Movie,Romance,English,2006,121,9.0,U/A 16+,True,13.31
+1559,Triple-buffered 4thgeneration projection,Movie,Comedy,English,2010,157,8.7,A,True,56.73
+1560,Profit-focused asynchronous Graphical User Interface,Movie,Fantasy,Hindi,2001,169,6.7,U,False,71.23
+1561,Up-sized solution-oriented encoding,Series,Action,English,1998,1098,8.7,U/A 13+,False,27.62
+1562,Self-enabling well-modulated migration,Movie,Drama,English,2001,84,7.5,U/A 13+,False,70.71
+1563,Centralized intermediate moderator,Movie,Thriller,English,2002,133,7.1,U/A 16+,True,49.52
+1564,Re-engineered 5thgeneration hub,Movie,Romance,French,2002,87,8.6,U/A 13+,False,50.31
+1565,Assimilated empowering leverage,Series,Romance,Hindi,2010,743,5.2,A,False,66.96
+1566,Secured uniform website,Movie,Crime,English,2000,130,5.5,U/A 13+,False,3.5
+1567,Cross-platform local hub,Series,Sci-Fi,Hindi,1998,646,5.1,U/A 16+,True,82.75
+1568,Automated methodical leverage,Movie,Drama,German,2023,172,8.9,U,True,18.66
+1569,Sharable stable database,Movie,Drama,Japanese,2001,140,8.4,A,True,50.13
+1570,Re-contextualized explicit access,Movie,Thriller,Hindi,2016,147,7.2,U/A 13+,True,44.36
+1571,Extended zero administration hub,Movie,Drama,Hindi,1997,102,7.7,U/A 16+,False,19.82
+1572,Monitored global policy,Movie,Documentary,Hindi,2020,135,9.1,U/A 16+,True,85.81
+1573,Sharable bottom-line algorithm,Movie,Crime,English,2009,175,5.8,U/A 16+,True,44.25
+1574,Intuitive homogeneous support,Movie,Sci-Fi,German,2007,120,8.0,U/A 13+,False,53.38
+1575,Face-to-face grid-enabled functionalities,Movie,Comedy,English,2003,151,7.4,A,False,3.83
+1576,Advanced tertiary intranet,Series,Sci-Fi,English,2010,425,9.7,U,False,95.18
+1577,Distributed context-sensitive pricing structure,Series,Drama,Hindi,1999,1155,8.5,A,True,42.72
+1578,Universal contextually-based concept,Movie,Crime,English,1999,130,7.9,U/A 16+,False,98.91
+1579,Advanced encompassing Local Area Network,Movie,Drama,English,2005,133,9.0,U/A 13+,False,67.91
+1580,Mandatory demand-driven challenge,Series,Drama,English,2010,629,5.9,U/A 13+,False,7.47
+1581,Synergized local portal,Series,Thriller,Spanish,2009,807,5.7,A,False,96.46
+1582,Open-source background instruction set,Series,Documentary,Korean,2001,558,7.4,A,False,22.13
+1583,Public-key content-based contingency,Movie,Thriller,French,1996,107,8.9,U,False,71.51
+1584,Managed context-sensitive framework,Movie,Fantasy,English,1999,162,6.7,U,True,16.11
+1585,Synchronized content-based interface,Movie,Romance,Spanish,2005,95,8.4,U/A 16+,False,88.39
+1586,Optimized dedicated model,Series,Comedy,Spanish,2018,1162,9.4,A,True,37.96
+1587,Devolved uniform encryption,Series,Romance,English,2022,1025,6.3,U/A 13+,True,22.76
+1588,Team-oriented eco-centric synergy,Movie,Sci-Fi,English,2005,163,8.8,A,True,92.81
+1589,Implemented bifurcated definition,Movie,Comedy,English,2020,84,6.1,A,False,25.11
+1590,Re-contextualized analyzing alliance,Movie,Fantasy,French,2019,94,7.9,A,True,9.61
+1591,Persistent well-modulated Internet solution,Movie,Action,French,2024,135,9.1,U/A 16+,True,11.19
+1592,Expanded coherent ability,Movie,Comedy,French,2004,111,6.2,U,True,17.9
+1593,Multi-layered tertiary parallelism,Movie,Comedy,German,2023,140,9.8,U/A 13+,True,10.69
+1594,Switchable static capability,Movie,Action,English,2010,173,7.3,U,False,12.75
+1595,Innovative systemic functionalities,Movie,Animation,Japanese,2000,113,9.0,U/A 13+,True,14.5
+1596,Optimized heuristic function,Movie,Action,English,2005,155,6.7,A,False,46.18
+1597,Diverse reciprocal methodology,Movie,Thriller,Korean,2002,81,9.5,U,True,44.39
+1598,Organic upward-trending Graphical User Interface,Movie,Fantasy,Hindi,1997,115,5.5,A,False,72.72
+1599,Future-proofed human-resource budgetary management,Movie,Romance,Spanish,2022,93,5.7,U/A 16+,False,56.17
+1600,Profound neutral infrastructure,Series,Drama,Hindi,2025,603,8.0,U/A 16+,True,46.22
+1601,Optional optimizing knowledge user,Series,Action,English,2002,727,6.2,U/A 16+,False,86.82
+1602,Total interactive attitude,Series,Crime,English,1999,263,9.6,U/A 16+,False,66.65
+1603,Customizable local capability,Series,Comedy,English,1998,300,8.2,U/A 16+,False,48.78
+1604,Configurable motivating intranet,Movie,Drama,English,2005,114,9.6,U,True,76.96
+1605,Operative attitude-oriented throughput,Series,Action,German,2025,578,7.7,U,False,98.22
+1606,Fundamental static software,Movie,Action,English,2009,85,7.9,U,False,1.76
+1607,Multi-layered solution-oriented interface,Movie,Romance,Spanish,2013,146,7.0,A,False,41.01
+1608,Operative solution-oriented attitude,Series,Action,Hindi,2012,1090,7.8,U,True,25.02
+1609,Managed coherent system engine,Series,Sci-Fi,Hindi,2016,801,9.5,U/A 16+,True,35.79
+1610,Compatible user-facing methodology,Movie,Comedy,Hindi,2010,89,7.6,U/A 16+,False,57.7
+1611,Exclusive directional paradigm,Series,Drama,Korean,2005,504,7.9,U/A 16+,False,23.88
+1612,Down-sized incremental task-force,Movie,Fantasy,Hindi,2013,123,6.4,U,False,61.18
+1613,Realigned heuristic analyzer,Movie,Comedy,Hindi,2017,111,6.5,A,False,10.42
+1614,Streamlined grid-enabled open architecture,Series,Action,English,2002,1141,8.4,A,True,90.54
+1615,Mandatory holistic Graphic Interface,Movie,Crime,English,2013,154,9.3,U/A 16+,True,32.36
+1616,User-centric object-oriented knowledge user,Movie,Drama,English,2004,105,5.8,A,True,34.09
+1617,Implemented modular capacity,Series,Comedy,English,2020,690,5.7,U/A 13+,True,79.25
+1618,Multi-lateral zero tolerance system engine,Movie,Documentary,English,2003,106,8.0,A,False,77.15
+1619,Diverse multi-tasking implementation,Movie,Comedy,German,2012,127,7.3,U/A 13+,False,60.6
+1620,Progressive next generation contingency,Movie,Documentary,Hindi,2002,104,6.6,U/A 16+,True,79.38
+1621,Mandatory zero administration adapter,Series,Documentary,French,2013,1068,5.4,U/A 16+,True,32.42
+1622,Function-based 24hour secured line,Movie,Romance,English,2004,97,6.0,U,False,92.24
+1623,Innovative intangible open system,Movie,Action,Spanish,1995,86,9.2,U/A 16+,False,40.06
+1624,Innovative client-server project,Series,Action,Hindi,1997,609,6.2,A,True,23.28
+1625,Public-key mission-critical access,Movie,Drama,French,1998,124,9.4,A,False,57.55
+1626,Right-sized zero-defect matrix,Series,Thriller,English,2023,1083,8.0,A,True,79.42
+1627,Customizable scalable adapter,Series,Fantasy,English,2024,1143,7.9,U,False,40.22
+1628,Open-source 3rdgeneration ability,Movie,Thriller,Spanish,2023,81,7.6,U/A 16+,True,29.91
+1629,De-engineered executive artificial intelligence,Series,Fantasy,Japanese,2010,1161,9.3,U/A 16+,True,39.2
+1630,Ergonomic zero administration initiative,Movie,Action,French,1997,96,7.5,U,False,49.65
+1631,Self-enabling national Internet solution,Movie,Thriller,Japanese,2010,130,8.7,U,False,99.92
+1632,Self-enabling eco-centric initiative,Movie,Drama,English,2000,111,7.6,U,True,71.29
+1633,Organic context-sensitive initiative,Movie,Comedy,English,2007,85,9.5,A,True,99.74
+1634,Integrated local function,Series,Romance,French,2003,1119,5.5,U/A 13+,True,93.5
+1635,User-centric encompassing benchmark,Series,Comedy,Hindi,2003,1040,8.5,A,False,19.59
+1636,Sharable fresh-thinking function,Movie,Drama,English,2020,121,8.7,A,True,78.23
+1637,Innovative optimal toolset,Movie,Sci-Fi,Korean,2002,101,5.4,U/A 13+,False,6.28
+1638,Robust asymmetric projection,Movie,Sci-Fi,English,2003,153,6.4,U,True,53.25
+1639,Monitored stable leverage,Movie,Action,Japanese,2020,178,9.1,U/A 13+,False,7.43
+1640,Reverse-engineered client-driven benchmark,Movie,Documentary,English,2004,114,5.2,U/A 13+,False,52.88
+1641,Versatile composite solution,Movie,Romance,French,2017,172,9.7,U/A 16+,True,62.0
+1642,Self-enabling secondary framework,Movie,Comedy,English,2007,157,9.5,U/A 13+,True,32.53
+1643,Multi-channeled even-keeled firmware,Movie,Thriller,German,1997,131,5.9,U/A 13+,True,72.19
+1644,Pre-emptive demand-driven policy,Movie,Action,English,2023,161,9.5,U/A 16+,False,68.78
+1645,Front-line directional definition,Movie,Action,English,2002,114,8.5,U/A 16+,True,88.13
+1646,Intuitive full-range knowledge user,Movie,Action,Japanese,2016,180,8.5,A,True,22.81
+1647,Stand-alone global initiative,Movie,Drama,English,2002,169,5.4,U/A 16+,True,33.12
+1648,Monitored contextually-based open system,Series,Drama,Spanish,1995,272,8.7,U/A 16+,False,17.14
+1649,Persistent client-server focus group,Movie,Documentary,Korean,1997,82,7.5,U/A 16+,False,23.73
+1650,Reactive well-modulated firmware,Movie,Drama,Hindi,2018,85,7.2,U,False,55.6
+1651,Open-architected 4thgeneration open architecture,Movie,Action,English,2004,178,5.6,U/A 13+,False,68.62
+1652,Expanded secondary moderator,Series,Comedy,English,2020,695,9.4,U/A 13+,True,93.98
+1653,Balanced well-modulated initiative,Series,Fantasy,English,2024,580,7.6,U/A 16+,False,46.33
+1654,Phased fresh-thinking migration,Movie,Drama,English,1997,147,6.2,U/A 16+,False,33.62
+1655,Re-engineered bottom-line Graphical User Interface,Series,Thriller,Spanish,2005,378,5.2,U/A 16+,True,63.53
+1656,Distributed fault-tolerant application,Movie,Comedy,English,2005,100,8.6,U/A 16+,False,68.53
+1657,Right-sized attitude-oriented strategy,Movie,Sci-Fi,Spanish,2017,96,5.9,U/A 16+,False,19.99
+1658,Streamlined bottom-line implementation,Movie,Comedy,Spanish,1999,87,6.2,A,True,33.15
+1659,Public-key exuding extranet,Movie,Romance,English,2010,149,5.1,A,True,60.39
+1660,Digitized zero administration open system,Movie,Comedy,English,2020,163,5.7,U,True,9.81
+1661,Implemented coherent hub,Movie,Animation,French,2010,91,8.8,U/A 13+,False,83.89
+1662,Robust logistical algorithm,Movie,Action,English,2014,166,6.8,A,True,77.43
+1663,Cross-platform attitude-oriented process improvement,Series,Sci-Fi,English,2022,1006,6.3,U/A 16+,False,15.98
+1664,Phased human-resource strategy,Movie,Documentary,Spanish,2007,177,9.1,A,True,9.36
+1665,Universal solution-oriented throughput,Series,Thriller,Spanish,2021,687,5.0,U/A 13+,True,16.52
+1666,Automated system-worthy algorithm,Movie,Crime,Hindi,2003,98,5.5,U,False,14.0
+1667,Networked value-added paradigm,Movie,Comedy,English,2023,137,6.1,U,False,30.39
+1668,Multi-layered multimedia workforce,Movie,Action,Korean,2019,121,5.6,U/A 16+,False,10.7
+1669,Enhanced directional budgetary management,Movie,Action,English,2000,121,7.6,U/A 13+,True,26.22
+1670,User-centric fresh-thinking array,Series,Sci-Fi,English,2022,692,6.1,U/A 16+,True,12.96
+1671,Versatile human-resource migration,Movie,Sci-Fi,English,2007,169,5.6,U,True,45.16
+1672,Optional logistical ability,Movie,Drama,Hindi,2008,164,9.1,U/A 16+,True,22.17
+1673,Diverse hybrid solution,Series,Comedy,German,2001,971,5.3,A,True,41.46
+1674,Integrated multi-state encryption,Movie,Documentary,English,2014,118,9.6,U,False,15.92
+1675,Managed local secured line,Movie,Drama,English,2013,145,6.8,A,True,48.59
+1676,Advanced incremental workforce,Movie,Sci-Fi,Hindi,2002,94,6.7,U/A 13+,False,29.5
+1677,Future-proofed impactful installation,Movie,Fantasy,Hindi,1997,119,8.6,U/A 16+,True,11.89
+1678,Cross-group multi-tasking ability,Movie,Comedy,Japanese,2014,179,5.9,U/A 13+,False,30.5
+1679,Innovative modular parallelism,Movie,Documentary,Hindi,2016,122,8.0,U/A 13+,True,56.66
+1680,Monitored systematic monitoring,Series,Documentary,Hindi,2001,934,7.0,U,True,83.77
+1681,Right-sized bottom-line artificial intelligence,Movie,Animation,Hindi,2022,120,7.4,U,True,78.8
+1682,Compatible transitional model,Movie,Comedy,English,2016,89,9.2,U/A 16+,True,3.76
+1683,Universal 24hour function,Movie,Thriller,English,2008,170,7.4,U,True,19.1
+1684,Programmable multi-tasking benchmark,Series,Sci-Fi,Japanese,2007,331,6.9,A,True,79.55
+1685,Diverse exuding array,Movie,Comedy,English,2023,149,7.5,U/A 16+,False,10.92
+1686,Quality-focused optimal methodology,Movie,Comedy,English,1995,121,9.1,U/A 13+,True,50.5
+1687,Networked coherent toolset,Series,Sci-Fi,English,2023,857,6.6,U/A 13+,False,75.0
+1688,User-centric human-resource standardization,Movie,Comedy,Japanese,2020,166,6.5,U,True,43.31
+1689,Fundamental exuding customer loyalty,Movie,Thriller,French,2014,135,8.1,U,False,92.67
+1690,Configurable bandwidth-monitored Internet solution,Movie,Romance,English,2000,89,5.6,U/A 16+,True,73.04
+1691,Ameliorated transitional firmware,Movie,Thriller,English,2004,91,7.4,U/A 16+,True,97.1
+1692,Open-architected client-driven success,Series,Romance,Korean,2020,262,7.8,U,False,49.27
+1693,Versatile dedicated structure,Movie,Fantasy,Hindi,1997,157,5.9,U,True,98.66
+1694,Compatible upward-trending utilization,Movie,Drama,English,2024,151,8.4,U/A 13+,False,2.92
+1695,Progressive intangible focus group,Series,Fantasy,English,2017,1187,6.1,U/A 16+,False,61.22
+1696,Advanced maximized synergy,Movie,Drama,Japanese,2004,166,5.7,A,False,48.05
+1697,Profound needs-based attitude,Movie,Animation,English,2006,93,6.7,A,True,88.23
+1698,Customer-focused explicit help-desk,Movie,Documentary,English,2024,162,7.6,U/A 16+,True,75.75
+1699,Self-enabling dedicated workforce,Movie,Action,German,2017,166,8.7,A,False,27.45
+1700,User-centric well-modulated Local Area Network,Movie,Thriller,English,2005,151,6.0,U/A 13+,True,99.46
+1701,Proactive executive definition,Movie,Comedy,English,2017,123,7.1,A,True,9.07
+1702,Synchronized dynamic projection,Movie,Romance,English,2014,112,5.1,U/A 16+,False,99.05
+1703,Multi-tiered 4thgeneration artificial intelligence,Movie,Comedy,Hindi,1995,89,7.3,U/A 13+,True,83.83
+1704,Face-to-face disintermediate knowledgebase,Series,Romance,English,2011,684,9.0,U/A 13+,False,88.72
+1705,Synchronized executive implementation,Movie,Documentary,Korean,1995,120,7.1,U/A 16+,True,70.23
+1706,Assimilated maximized forecast,Movie,Romance,Korean,2001,132,6.5,U/A 16+,True,28.87
+1707,Ameliorated encompassing framework,Movie,Comedy,Hindi,1995,109,5.8,A,True,85.85
+1708,Upgradable empowering benchmark,Movie,Thriller,English,2010,153,5.7,A,True,51.29
+1709,De-engineered high-level focus group,Series,Comedy,Korean,2017,1027,7.0,U/A 16+,True,50.89
+1710,Function-based asynchronous forecast,Movie,Comedy,Hindi,2001,148,5.6,U/A 13+,True,14.52
+1711,Object-based asymmetric leverage,Movie,Animation,English,2003,164,5.2,A,False,86.99
+1712,Multi-channeled disintermediate analyzer,Movie,Comedy,English,2003,97,9.2,A,False,16.15
+1713,Fully-configurable regional open architecture,Movie,Crime,Korean,2020,96,8.2,U,True,91.69
+1714,Extended dynamic application,Movie,Romance,English,2016,117,8.1,U/A 16+,True,30.71
+1715,Focused contextually-based throughput,Movie,Crime,English,2014,90,6.0,U,False,53.75
+1716,Down-sized object-oriented circuit,Movie,Crime,Hindi,2010,152,6.4,U/A 13+,True,54.67
+1717,Networked impactful strategy,Movie,Comedy,English,2006,144,9.0,A,False,81.25
+1718,Right-sized grid-enabled Local Area Network,Movie,Thriller,Spanish,2022,101,8.9,U/A 16+,False,87.12
+1719,Managed maximized portal,Movie,Animation,English,2008,173,6.5,A,True,57.49
+1720,Reduced value-added projection,Movie,Drama,Japanese,2001,84,8.3,U/A 16+,False,78.19
+1721,Ergonomic directional focus group,Series,Drama,English,1996,448,8.3,U/A 13+,False,40.04
+1722,Optimized secondary archive,Series,Drama,French,2025,627,6.4,U,True,90.89
+1723,Face-to-face optimizing interface,Movie,Fantasy,German,2006,162,6.7,U/A 16+,False,8.98
+1724,Face-to-face discrete customer loyalty,Movie,Fantasy,Hindi,2023,125,5.2,U/A 13+,True,20.61
+1725,Face-to-face dedicated workforce,Movie,Romance,Hindi,1995,129,7.6,U/A 16+,False,56.93
+1726,Multi-channeled disintermediate productivity,Series,Comedy,Hindi,2009,310,5.7,U,True,99.41
+1727,Virtual 6thgeneration success,Movie,Sci-Fi,English,2019,98,8.4,A,False,89.04
+1728,Progressive incremental toolset,Movie,Comedy,English,2017,105,8.0,U,False,58.56
+1729,Sharable systemic orchestration,Series,Fantasy,Hindi,2018,808,8.7,A,True,88.4
+1730,Implemented mobile knowledge user,Movie,Fantasy,Spanish,2002,105,9.7,A,False,81.62
+1731,Stand-alone modular framework,Movie,Romance,French,2010,148,8.1,A,False,24.58
+1732,Customer-focused cohesive intranet,Series,Action,Hindi,2008,535,5.6,U/A 16+,True,35.2
+1733,Total high-level info-mediaries,Movie,Drama,Hindi,2018,129,7.9,A,True,60.82
+1734,Grass-roots client-driven productivity,Movie,Comedy,French,2021,169,5.9,U,True,2.33
+1735,Exclusive foreground hardware,Movie,Thriller,English,2005,127,8.7,U/A 13+,True,73.61
+1736,Innovative background concept,Series,Comedy,English,2024,1128,5.9,U/A 16+,False,43.13
+1737,Visionary holistic paradigm,Movie,Crime,French,2007,159,7.5,A,False,99.41
+1738,Team-oriented intermediate help-desk,Series,Action,Japanese,2006,699,6.1,U/A 13+,False,25.22
+1739,Persevering mobile migration,Movie,Documentary,Hindi,1997,168,6.1,U/A 16+,False,48.71
+1740,Innovative 5thgeneration algorithm,Movie,Thriller,English,2015,122,7.9,U/A 16+,True,43.83
+1741,User-friendly neutral instruction set,Movie,Drama,Hindi,2009,157,7.6,U/A 13+,True,20.72
+1742,Distributed full-range neural-net,Movie,Action,English,1999,135,8.6,U/A 16+,False,87.61
+1743,Object-based neutral secured line,Movie,Romance,Spanish,1998,174,5.4,U/A 13+,True,79.94
+1744,Virtual local support,Series,Drama,English,2007,811,6.7,U,True,62.2
+1745,Team-oriented value-added parallelism,Movie,Thriller,English,1996,135,9.0,U/A 13+,False,92.59
+1746,Managed stable groupware,Movie,Action,English,2018,86,7.0,U/A 16+,True,36.89
+1747,Organic upward-trending emulation,Series,Fantasy,English,2002,335,5.9,A,False,81.07
+1748,Face-to-face radical product,Movie,Animation,English,2000,150,6.1,A,True,95.11
+1749,Open-architected fault-tolerant framework,Movie,Drama,English,1997,87,7.2,U/A 13+,True,51.75
+1750,Fundamental client-driven database,Movie,Action,Spanish,1998,83,6.0,U,False,19.2
+1751,Object-based methodical interface,Series,Thriller,English,2007,491,7.0,U,True,87.15
+1752,Cloned fresh-thinking archive,Movie,Drama,French,2000,155,9.4,A,False,16.12
+1753,Multi-channeled tertiary concept,Movie,Crime,Japanese,1998,103,6.3,U/A 16+,True,69.72
+1754,User-friendly global policy,Movie,Comedy,English,2010,180,8.1,A,True,71.27
+1755,Enhanced zero administration solution,Movie,Romance,Korean,1997,101,5.1,U/A 16+,False,78.8
+1756,Upgradable value-added paradigm,Movie,Comedy,English,1996,112,6.7,U/A 13+,True,35.54
+1757,Persistent upward-trending framework,Movie,Sci-Fi,English,2003,123,7.4,U/A 16+,False,17.46
+1758,Optimized zero-defect matrices,Movie,Romance,German,2021,138,9.3,A,False,53.81
+1759,Reverse-engineered web-enabled encryption,Movie,Thriller,English,1996,145,6.9,U/A 16+,False,22.64
+1760,Multi-tiered encompassing hierarchy,Series,Drama,Hindi,1999,541,9.1,U,False,82.9
+1761,Multi-tiered multi-tasking hardware,Movie,Comedy,English,1996,92,5.7,A,False,22.9
+1762,Enhanced scalable synergy,Series,Action,German,2009,317,8.4,U/A 13+,False,86.07
+1763,Ameliorated dedicated complexity,Series,Documentary,Hindi,2010,611,5.6,A,False,49.74
+1764,Proactive 4thgeneration frame,Movie,Romance,Hindi,2020,121,9.3,U/A 16+,False,79.88
+1765,Cloned scalable concept,Movie,Crime,English,1998,80,7.5,A,False,49.3
+1766,Versatile secondary hub,Movie,Romance,English,2005,134,6.9,U/A 13+,False,95.68
+1767,Devolved 4thgeneration forecast,Movie,Comedy,English,2005,147,6.7,U,False,1.27
+1768,Up-sized bottom-line groupware,Movie,Action,English,2022,81,8.0,U/A 13+,True,50.81
+1769,Multi-tiered hybrid installation,Movie,Action,English,2000,174,7.4,U/A 16+,True,69.37
+1770,Compatible interactive application,Movie,Drama,Japanese,2020,178,5.6,U/A 13+,False,58.99
+1771,Progressive incremental approach,Movie,Comedy,Hindi,2025,88,5.4,U,True,85.18
+1772,Pre-emptive grid-enabled open architecture,Movie,Animation,French,2008,150,6.4,U/A 16+,True,52.62
+1773,Team-oriented fault-tolerant functionalities,Movie,Action,Hindi,2000,132,5.5,U/A 13+,True,79.21
+1774,Sharable clear-thinking workforce,Movie,Comedy,Japanese,2010,136,8.7,U,False,54.35
+1775,Managed responsive standardization,Movie,Action,French,2025,159,7.5,U/A 13+,True,28.38
+1776,Customizable needs-based core,Movie,Romance,French,2018,89,6.1,U/A 16+,True,26.94
+1777,Switchable 3rdgeneration help-desk,Series,Comedy,Korean,2010,919,5.7,U/A 13+,False,27.19
+1778,Cloned interactive algorithm,Movie,Comedy,English,2025,111,5.5,U/A 16+,False,40.0
+1779,Down-sized clear-thinking task-force,Movie,Crime,English,2011,93,8.5,U/A 16+,True,46.83
+1780,Pre-emptive secondary hierarchy,Movie,Sci-Fi,English,2025,136,6.5,U/A 13+,False,61.46
+1781,Customer-focused global superstructure,Series,Action,Korean,1995,457,8.3,U/A 13+,False,35.17
+1782,Progressive heuristic methodology,Movie,Action,Japanese,2021,145,8.9,U,True,94.07
+1783,Adaptive bottom-line Internet solution,Movie,Animation,French,2022,124,8.0,A,True,76.57
+1784,Versatile systemic hardware,Movie,Thriller,Korean,2005,117,8.5,U/A 16+,True,47.73
+1785,Self-enabling attitude-oriented database,Series,Action,English,2000,766,5.7,U/A 13+,True,23.21
+1786,Digitized exuding throughput,Series,Romance,English,2007,919,5.2,U,False,19.43
+1787,Monitored bandwidth-monitored migration,Movie,Fantasy,English,1999,89,9.2,U,True,47.03
+1788,Up-sized 5thgeneration utilization,Movie,Action,English,2002,94,9.4,U/A 16+,False,50.25
+1789,Multi-lateral 24/7 ability,Movie,Action,French,2014,106,7.5,U/A 16+,True,31.98
+1790,Profound well-modulated time-frame,Movie,Documentary,Japanese,2017,148,8.2,U/A 13+,False,79.52
+1791,Triple-buffered coherent support,Series,Thriller,English,2007,432,8.4,U,True,78.56
+1792,Re-contextualized multi-tasking strategy,Series,Drama,French,2000,871,5.7,U/A 16+,False,55.64
+1793,Operative bifurcated alliance,Series,Drama,English,2022,1003,5.5,U,True,57.84
+1794,Multi-lateral dedicated success,Movie,Comedy,Hindi,2025,170,7.7,U,False,77.59
+1795,Synergistic radical Graphical User Interface,Movie,Drama,English,2008,114,5.4,U/A 13+,True,37.01
+1796,Diverse multi-state system engine,Movie,Action,English,2018,105,9.6,U/A 16+,True,58.61
+1797,Progressive content-based leverage,Series,Documentary,French,1995,305,9.1,A,False,98.39
+1798,Programmable national model,Movie,Action,Korean,2008,141,7.5,U,False,57.43
+1799,Ameliorated zero-defect circuit,Series,Comedy,English,2018,1135,7.9,U/A 13+,True,18.98
+1800,Switchable executive portal,Series,Comedy,English,2019,472,5.3,U/A 16+,True,15.97
+1801,Innovative dedicated throughput,Series,Fantasy,Japanese,2020,338,7.1,U,True,46.23
+1802,Expanded intermediate matrix,Movie,Sci-Fi,Japanese,2023,117,8.1,U/A 16+,False,50.74
+1803,Compatible maximized frame,Movie,Drama,Korean,2001,131,6.5,A,True,60.03
+1804,Persevering modular workforce,Movie,Animation,English,2019,121,9.3,A,True,36.07
+1805,Vision-oriented mission-critical support,Series,Drama,French,2006,307,7.0,U/A 16+,True,52.09
+1806,De-engineered upward-trending projection,Movie,Drama,English,2015,112,9.3,U/A 13+,True,39.98
+1807,Compatible methodical archive,Movie,Documentary,French,2015,180,5.1,U/A 16+,False,25.42
+1808,Focused 4thgeneration emulation,Movie,Comedy,Spanish,2008,136,9.6,U/A 16+,False,56.27
+1809,User-friendly high-level knowledgebase,Movie,Comedy,English,2022,119,8.6,U/A 13+,False,71.35
+1810,Visionary systematic encoding,Movie,Romance,Hindi,2008,117,8.7,U,False,13.65
+1811,Stand-alone heuristic archive,Movie,Comedy,Hindi,2022,144,8.0,U/A 16+,False,27.21
+1812,Assimilated 3rdgeneration Graphic Interface,Movie,Action,English,2020,158,5.4,U/A 16+,True,66.73
+1813,Triple-buffered responsive success,Series,Sci-Fi,Hindi,2025,1195,8.7,U/A 16+,True,32.16
+1814,Customizable value-added leverage,Series,Action,English,1999,869,7.0,U/A 16+,False,34.23
+1815,Cloned leadingedge migration,Movie,Sci-Fi,English,2012,93,6.5,U/A 16+,True,36.86
+1816,De-engineered upward-trending emulation,Movie,Action,Korean,2004,119,9.5,U/A 13+,False,65.73
+1817,Future-proofed zero tolerance productivity,Movie,Drama,English,2006,136,7.8,A,True,80.92
+1818,User-centric non-volatile archive,Movie,Drama,Spanish,2004,104,7.6,U/A 16+,True,93.42
+1819,Multi-channeled grid-enabled interface,Series,Action,English,2009,319,8.2,A,True,34.21
+1820,Mandatory client-driven function,Movie,Action,English,2024,179,7.5,A,False,15.56
+1821,Optimized multimedia open architecture,Series,Sci-Fi,English,1997,1099,8.9,U/A 13+,True,94.36
+1822,Up-sized client-driven time-frame,Movie,Documentary,English,2007,152,5.8,A,True,69.42
+1823,Re-engineered incremental moderator,Series,Drama,Spanish,2009,538,5.7,U,True,99.22
+1824,Intuitive secondary budgetary management,Movie,Romance,Korean,2006,124,9.4,U/A 13+,False,96.29
+1825,Extended actuating migration,Movie,Crime,Spanish,2006,112,5.3,A,True,39.7
+1826,Customer-focused empowering approach,Movie,Crime,English,2017,132,7.2,U/A 16+,True,25.0
+1827,Stand-alone non-volatile task-force,Movie,Thriller,English,2017,106,7.0,U/A 16+,True,32.73
+1828,Down-sized logistical strategy,Series,Action,English,2003,1168,6.1,A,False,33.16
+1829,Advanced encompassing throughput,Series,Documentary,German,2014,1108,6.9,U/A 13+,False,69.19
+1830,Robust even-keeled circuit,Movie,Drama,English,2009,167,6.8,A,True,34.33
+1831,Organic composite algorithm,Series,Comedy,Spanish,1998,861,6.2,U/A 13+,True,91.87
+1832,Adaptive non-volatile initiative,Movie,Thriller,Korean,2009,158,9.3,A,False,78.13
+1833,Quality-focused fault-tolerant solution,Movie,Romance,Japanese,2014,175,9.8,U,True,66.08
+1834,Multi-layered background groupware,Series,Sci-Fi,Spanish,2006,883,5.3,A,True,69.49
+1835,Pre-emptive heuristic paradigm,Movie,Action,English,2005,120,8.2,U/A 13+,False,43.81
+1836,Fundamental client-server infrastructure,Movie,Crime,English,2007,171,6.2,U/A 16+,True,59.37
+1837,Ergonomic multi-tasking paradigm,Movie,Action,Korean,2004,159,8.2,A,True,69.9
+1838,Networked tangible concept,Movie,Sci-Fi,English,2000,176,6.3,U/A 16+,True,97.14
+1839,Quality-focused content-based pricing structure,Movie,Action,English,2015,175,8.4,U/A 13+,False,92.55
+1840,Right-sized radical encoding,Series,Action,French,2006,564,8.7,U,False,28.07
+1841,Seamless national flexibility,Movie,Comedy,Hindi,2013,87,7.3,U/A 16+,False,53.22
+1842,Cross-platform incremental access,Movie,Animation,Hindi,2010,86,5.9,U,True,93.67
+1843,Open-architected user-facing attitude,Movie,Comedy,English,2011,149,9.0,U/A 13+,False,13.82
+1844,Open-architected 24/7 firmware,Movie,Action,English,2006,147,8.0,A,True,38.04
+1845,Quality-focused discrete adapter,Series,Crime,Japanese,2007,300,9.5,U,True,8.15
+1846,Face-to-face responsive array,Movie,Action,English,2010,164,5.4,A,False,35.71
+1847,Compatible static application,Movie,Comedy,English,2009,122,9.5,U/A 16+,False,39.88
+1848,Exclusive exuding knowledge user,Movie,Documentary,Korean,2021,82,6.3,U,False,44.64
+1849,Reduced next generation standardization,Movie,Romance,English,2012,134,9.3,A,False,69.16
+1850,Enhanced upward-trending conglomeration,Series,Thriller,English,2020,1001,8.1,U/A 16+,True,75.47
+1851,Extended composite database,Movie,Romance,English,1998,96,9.1,U,False,18.84
+1852,Public-key transitional application,Movie,Documentary,English,2015,168,5.6,U/A 13+,True,86.4
+1853,Persistent background archive,Series,Romance,Hindi,2001,706,7.8,A,False,67.1
+1854,Progressive 6thgeneration projection,Movie,Documentary,Spanish,1997,97,6.2,U,False,90.11
+1855,Expanded 24/7 support,Movie,Drama,Hindi,1998,98,9.0,A,True,2.41
+1856,Triple-buffered local flexibility,Movie,Drama,Hindi,2024,141,7.5,A,True,73.6
+1857,Integrated asymmetric matrices,Movie,Crime,Spanish,1997,154,7.8,U/A 16+,False,10.11
+1858,Persistent uniform capacity,Movie,Action,English,2010,97,5.8,U,False,80.28
+1859,Extended even-keeled orchestration,Movie,Romance,English,1997,147,8.3,U/A 16+,True,91.79
+1860,Assimilated directional policy,Movie,Animation,Korean,2012,85,9.7,U,True,1.54
+1861,Function-based coherent utilization,Movie,Action,English,2016,155,6.0,U/A 16+,False,34.14
+1862,De-engineered explicit groupware,Movie,Fantasy,English,2024,110,9.0,U/A 16+,False,5.01
+1863,Assimilated actuating task-force,Movie,Comedy,English,2001,160,7.1,U/A 13+,True,45.26
+1864,Organic eco-centric infrastructure,Series,Action,English,1998,925,6.7,U/A 13+,True,48.75
+1865,Object-based value-added application,Movie,Romance,English,2004,98,9.6,A,False,28.26
+1866,Multi-channeled radical customer loyalty,Movie,Drama,French,2018,108,8.7,U,True,67.87
+1867,Secured directional projection,Series,Sci-Fi,English,2004,817,6.5,U,False,16.01
+1868,Visionary homogeneous interface,Series,Comedy,German,2022,487,6.6,U/A 13+,True,64.73
+1869,Visionary analyzing challenge,Movie,Comedy,Korean,2004,158,7.9,U/A 16+,False,52.56
+1870,Stand-alone exuding function,Movie,Comedy,English,2000,145,9.4,U/A 16+,False,63.94
+1871,Reduced composite analyzer,Movie,Comedy,Spanish,2009,136,6.5,U,True,38.69
+1872,Triple-buffered grid-enabled middleware,Series,Drama,English,2012,469,5.7,A,True,14.18
+1873,Down-sized fresh-thinking solution,Series,Comedy,English,2017,341,5.3,U/A 16+,False,26.4
+1874,Open-source radical Graphic Interface,Movie,Sci-Fi,Korean,2002,116,7.8,U,True,97.01
+1875,Virtual executive middleware,Movie,Romance,Hindi,2023,96,8.0,U/A 13+,True,3.24
+1876,Sharable high-level info-mediaries,Movie,Romance,Hindi,2007,87,9.1,U/A 13+,False,32.78
+1877,Balanced 3rdgeneration secured line,Movie,Thriller,English,2016,117,6.4,A,True,53.21
+1878,Open-source exuding structure,Movie,Documentary,Hindi,1999,82,9.5,U/A 16+,True,87.75
+1879,Object-based global emulation,Movie,Comedy,Hindi,2024,127,6.8,A,False,98.8
+1880,Cross-group system-worthy info-mediaries,Series,Thriller,English,2000,418,7.1,A,False,21.9
+1881,Cross-group human-resource neural-net,Movie,Documentary,Japanese,2015,162,6.4,A,False,65.3
+1882,Quality-focused static database,Movie,Crime,Hindi,2009,90,8.5,U/A 16+,False,20.17
+1883,Business-focused bifurcated support,Series,Documentary,Spanish,2002,537,6.9,A,True,48.79
+1884,Innovative composite product,Movie,Documentary,German,2015,170,6.8,U/A 13+,False,50.78
+1885,Optional multi-state website,Movie,Thriller,English,2008,121,8.2,A,True,20.52
+1886,Face-to-face systematic circuit,Movie,Sci-Fi,Japanese,2013,155,8.9,A,True,39.09
+1887,Reactive transitional Internet solution,Movie,Comedy,English,2001,146,6.2,A,False,53.06
+1888,Programmable asymmetric projection,Movie,Documentary,French,2020,105,9.6,U/A 13+,False,69.5
+1889,Organic fault-tolerant secured line,Movie,Comedy,French,2013,169,5.4,A,False,35.13
+1890,Fundamental fresh-thinking approach,Movie,Drama,English,2005,149,7.2,U,False,47.73
+1891,Exclusive leadingedge throughput,Series,Action,English,2017,1068,5.7,U/A 16+,False,6.95
+1892,Streamlined 3rdgeneration archive,Series,Romance,French,2006,416,5.6,U,False,15.22
+1893,Open-source 5thgeneration infrastructure,Movie,Romance,Japanese,2012,138,8.7,U,False,34.1
+1894,Re-engineered needs-based capacity,Series,Sci-Fi,English,1997,872,5.7,U/A 16+,False,9.0
+1895,Universal zero tolerance portal,Movie,Action,Hindi,2017,110,7.1,A,False,7.37
+1896,Quality-focused foreground functionalities,Movie,Drama,Hindi,2019,153,7.6,U/A 13+,True,38.97
+1897,Optimized executive customer loyalty,Movie,Comedy,French,2016,179,6.3,A,True,59.55
+1898,User-centric interactive open system,Movie,Sci-Fi,English,2012,128,9.4,A,True,44.29
+1899,Object-based next generation functionalities,Movie,Romance,English,2014,154,8.5,U/A 13+,False,10.86
+1900,Reactive homogeneous attitude,Movie,Romance,Hindi,2010,121,8.9,U/A 13+,False,87.19
+1901,Multi-lateral 6thgeneration flexibility,Movie,Comedy,English,2024,164,5.3,U,False,20.26
+1902,Organized asymmetric process improvement,Movie,Action,English,1999,137,5.6,U/A 13+,False,55.43
+1903,Automated contextually-based collaboration,Series,Documentary,Hindi,2020,820,6.4,U,False,98.39
+1904,User-friendly eco-centric budgetary management,Movie,Documentary,Korean,2006,148,5.5,U/A 13+,True,29.36
+1905,Expanded logistical conglomeration,Series,Drama,Hindi,2001,340,8.4,U,False,43.48
+1906,Down-sized foreground artificial intelligence,Series,Documentary,Hindi,2007,391,6.7,U/A 13+,True,1.41
+1907,Networked directional policy,Movie,Romance,Spanish,2015,142,8.3,A,False,28.24
+1908,Reduced full-range paradigm,Series,Drama,English,2022,1037,8.5,U,False,19.93
+1909,Balanced empowering success,Movie,Animation,Spanish,2018,91,7.6,U,True,35.71
+1910,Synchronized analyzing workforce,Movie,Thriller,French,2016,100,5.7,U/A 13+,True,57.47
+1911,Managed explicit artificial intelligence,Movie,Thriller,Hindi,2003,161,7.3,A,True,57.11
+1912,Fundamental leadingedge encryption,Movie,Animation,Spanish,2012,145,9.8,A,False,77.82
+1913,Expanded local process improvement,Movie,Sci-Fi,Hindi,2007,140,7.8,U,True,95.9
+1914,Enterprise-wide bottom-line secured line,Movie,Action,English,2024,166,8.4,A,True,95.26
+1915,Fundamental empowering initiative,Series,Comedy,Japanese,2013,463,7.0,U/A 16+,False,78.76
+1916,Centralized didactic system engine,Movie,Drama,English,2000,88,8.9,U/A 13+,True,46.38
+1917,Synergized scalable policy,Series,Comedy,Japanese,2008,278,7.3,A,False,37.91
+1918,Automated scalable Graphic Interface,Movie,Comedy,French,2016,91,7.5,U/A 13+,False,13.84
+1919,Universal analyzing superstructure,Series,Comedy,English,2005,1087,5.1,A,False,83.21
+1920,Extended stable access,Movie,Comedy,Hindi,2013,103,6.3,U/A 13+,False,37.39
+1921,Public-key composite software,Movie,Sci-Fi,English,2008,86,5.6,U/A 13+,True,38.44
+1922,Re-engineered multimedia process improvement,Series,Drama,English,1995,1129,7.3,U/A 13+,False,5.75
+1923,Progressive multi-tasking software,Movie,Thriller,English,2023,83,7.6,U/A 16+,False,77.13
+1924,Vision-oriented grid-enabled open architecture,Movie,Thriller,Hindi,2006,80,6.4,U/A 13+,False,82.0
+1925,Multi-tiered composite intranet,Movie,Crime,English,2002,155,7.0,U/A 16+,False,91.65
+1926,Right-sized full-range Graphic Interface,Movie,Comedy,French,1996,174,7.8,U,True,72.51
+1927,Expanded systematic concept,Movie,Action,English,2019,109,7.6,A,False,87.51
+1928,Decentralized 24hour knowledge user,Movie,Drama,Hindi,2006,118,6.8,U/A 16+,True,80.3
+1929,Innovative hybrid hub,Movie,Romance,German,2005,146,5.7,U/A 13+,True,32.5
+1930,Devolved systemic migration,Movie,Crime,French,2022,143,8.8,U/A 16+,True,44.5
+1931,Grass-roots holistic function,Movie,Action,English,2025,145,9.2,U/A 16+,True,96.81
+1932,User-friendly object-oriented secured line,Movie,Romance,English,2016,99,7.4,U,True,28.53
+1933,Profound solution-oriented structure,Movie,Drama,Spanish,2017,180,6.7,A,False,13.29
+1934,Distributed explicit methodology,Movie,Action,Hindi,2025,148,7.0,U/A 13+,False,82.07
+1935,Upgradable heuristic groupware,Movie,Drama,Spanish,2014,93,7.4,A,True,90.85
+1936,Balanced holistic artificial intelligence,Series,Documentary,Spanish,2006,937,9.5,U/A 16+,True,46.3
+1937,Digitized foreground policy,Movie,Comedy,English,1999,104,9.4,U,True,92.12
+1938,Secured composite adapter,Movie,Action,English,2015,162,6.0,U/A 16+,False,30.61
+1939,Centralized foreground groupware,Series,Comedy,Hindi,1995,917,7.2,U,True,42.66
+1940,Organized demand-driven Internet solution,Series,Action,German,2013,778,7.7,U/A 16+,False,7.96
+1941,Multi-channeled uniform migration,Series,Thriller,Spanish,2001,408,9.1,U/A 16+,True,60.52
+1942,Intuitive optimizing adapter,Series,Comedy,English,2024,1091,8.3,A,True,37.42
+1943,Team-oriented methodical info-mediaries,Movie,Action,English,2005,82,5.3,A,False,92.02
+1944,Multi-channeled asynchronous alliance,Movie,Documentary,Hindi,1996,135,5.3,U/A 16+,False,1.76
+1945,Synchronized non-volatile orchestration,Movie,Sci-Fi,English,2013,129,8.8,U,False,75.9
+1946,Face-to-face executive Graphic Interface,Series,Drama,German,2003,1057,6.5,A,True,32.74
+1947,Stand-alone eco-centric hardware,Movie,Romance,Hindi,2007,90,7.6,A,False,38.78
+1948,Expanded attitude-oriented hub,Series,Action,French,2022,711,8.0,U/A 13+,False,86.79
+1949,Customizable didactic database,Series,Action,Hindi,2023,485,7.2,U/A 13+,True,42.67
+1950,Up-sized regional open architecture,Movie,Fantasy,English,1997,162,5.9,A,True,43.24
+1951,Upgradable interactive solution,Movie,Action,Hindi,2016,130,5.8,U,True,49.9
+1952,Vision-oriented client-driven service-desk,Movie,Sci-Fi,Hindi,2012,161,6.3,U,True,89.11
+1953,Cross-group intermediate pricing structure,Movie,Drama,English,2010,128,5.3,A,False,81.99
+1954,User-centric contextually-based implementation,Movie,Thriller,English,2017,91,5.4,A,True,33.84
+1955,Customer-focused grid-enabled neural-net,Movie,Crime,English,2016,83,6.0,U/A 16+,True,91.35
+1956,Compatible scalable architecture,Movie,Drama,English,2019,120,9.2,A,True,51.68
+1957,Implemented modular service-desk,Series,Crime,Korean,1995,697,7.7,U/A 13+,False,18.98
+1958,Multi-lateral context-sensitive access,Movie,Comedy,English,2016,95,8.9,U/A 16+,True,85.03
+1959,Synergistic interactive protocol,Movie,Comedy,English,2007,114,6.0,U/A 16+,False,9.91
+1960,Devolved secondary hardware,Series,Romance,French,2021,1132,5.9,U,False,66.78
+1961,Profound fresh-thinking secured line,Movie,Thriller,English,2020,118,6.6,A,True,60.84
+1962,Organized intangible service-desk,Movie,Comedy,French,2004,81,9.3,U/A 13+,True,82.44
+1963,Profound zero tolerance time-frame,Series,Thriller,Hindi,2014,928,8.8,U/A 16+,False,39.5
+1964,Networked neutral help-desk,Series,Comedy,Korean,2018,462,9.3,A,True,79.02
+1965,Down-sized heuristic hub,Movie,Romance,English,2018,156,8.4,U,False,95.42
+1966,Ergonomic local hardware,Movie,Drama,Hindi,2006,94,9.8,U,True,64.04
+1967,Focused asymmetric application,Movie,Action,Hindi,2022,137,6.1,U,True,18.02
+1968,Distributed optimal customer loyalty,Movie,Sci-Fi,Spanish,2017,134,8.0,U/A 13+,False,86.56
+1969,Proactive dynamic Internet solution,Series,Crime,French,2005,742,8.3,U,False,18.76
+1970,Mandatory full-range initiative,Movie,Action,English,2003,115,7.1,U/A 13+,False,20.5
+1971,Front-line maximized synergy,Movie,Documentary,Spanish,1999,81,6.9,A,True,1.95
+1972,Reduced bandwidth-monitored neural-net,Movie,Documentary,Hindi,2010,160,5.9,U,True,21.55
+1973,Organic heuristic superstructure,Series,Action,English,2016,810,6.2,U/A 13+,False,46.94
+1974,Fully-configurable multimedia methodology,Movie,Romance,English,2014,150,8.1,U/A 16+,True,56.84
+1975,Monitored high-level help-desk,Movie,Drama,Spanish,2017,152,9.7,U,False,77.08
+1976,Exclusive mobile budgetary management,Movie,Drama,Hindi,2006,96,7.3,U/A 13+,True,1.66
+1977,Secured static data-warehouse,Movie,Action,English,2014,119,5.0,U/A 13+,False,37.08
+1978,Polarized leadingedge website,Movie,Animation,English,2006,122,8.4,A,True,8.11
+1979,Persevering radical contingency,Movie,Fantasy,German,2011,100,5.3,U,True,87.86
+1980,Synergistic next generation model,Series,Romance,English,2004,661,7.3,U/A 16+,True,72.49
+1981,Business-focused optimizing matrices,Movie,Documentary,Hindi,2022,157,7.7,U/A 13+,True,89.99
+1982,Front-line contextually-based concept,Series,Documentary,French,2016,594,5.4,U/A 16+,False,58.52
+1983,Decentralized bandwidth-monitored service-desk,Movie,Comedy,Spanish,2006,163,7.9,U/A 13+,True,68.55
+1984,Multi-tiered responsive hierarchy,Movie,Comedy,Spanish,2022,130,7.6,U,True,93.7
+1985,Distributed asynchronous Graphic Interface,Movie,Drama,Korean,2001,133,5.6,U/A 16+,False,42.11
+1986,Synchronized composite function,Series,Thriller,Hindi,2015,961,9.4,U/A 13+,True,23.61
+1987,Synergized uniform archive,Series,Action,Hindi,1998,937,6.2,U,True,8.82
+1988,Quality-focused needs-based time-frame,Series,Action,Spanish,2012,718,6.2,U/A 13+,True,67.59
+1989,Versatile system-worthy extranet,Movie,Romance,English,2009,136,5.7,U/A 13+,True,65.22
+1990,Stand-alone optimizing analyzer,Movie,Drama,German,1995,94,7.5,U/A 16+,False,9.45
+1991,Phased interactive Graphical User Interface,Movie,Action,English,2005,100,7.0,U,True,76.61
+1992,Re-contextualized dedicated encryption,Series,Drama,English,1998,678,6.2,U/A 16+,False,53.45
+1993,Open-source contextually-based Graphic Interface,Series,Comedy,French,1996,813,8.6,U,False,53.73
+1994,User-centric user-facing Graphical User Interface,Movie,Drama,Hindi,2003,140,5.7,U,False,8.99
+1995,Phased value-added access,Movie,Fantasy,English,1995,97,5.0,U,True,58.67
+1996,Multi-tiered actuating info-mediaries,Movie,Drama,English,2003,153,5.4,U/A 16+,True,11.92
+1997,Front-line background algorithm,Movie,Drama,Japanese,2025,152,6.6,U,False,25.71
+1998,Persistent 24hour pricing structure,Movie,Action,English,2007,106,5.5,U,False,60.5
+1999,Team-oriented multi-tasking neural-net,Series,Thriller,English,2016,1123,9.2,U,False,24.15
+2000,Team-oriented systematic model,Movie,Action,Korean,2017,167,5.4,A,True,34.4
