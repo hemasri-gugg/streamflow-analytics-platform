@@ -171,7 +171,7 @@ def generate_customers(num_customers):
         email = (
             f"{first_name.lower()}."
             f"{last_name.lower()}"
-            f"{customer_id}@streamflow.com"
+            f"{customer_id}@email.com"
         )
 
         gender = np.random.choice(
